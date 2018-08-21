@@ -1,0 +1,9 @@
+name: "Otto Kienitz"
+output_dir: "."
+navbar:
+  title: "Otto Kienitz"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
