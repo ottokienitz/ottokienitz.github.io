@@ -2,8 +2,26 @@ name: "Otto Kienitz"
 output_dir: "."
 navbar:
   title: "Otto Kienitz"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      menu: 
+      - text: Eastern Europe
+        href: ee.html
+    - text: "CV"
+      href: cv.html
+  right:
+    - icon: fa-envelope-o fa-lg
+      href: mailto:ojk@berkeley.edu
+    - icon: fa-twitter fa-lg
+      href: http://www.twitter.com/ottokienitz
+  output:
+    html_document:
+      theme: flatly
+      highlight: pygments
+      
+      
