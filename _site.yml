@@ -16,8 +16,10 @@ navbar:
       href: cv.html
     - text: "Comparative Politics"
       href: cp.html
-    - text: "Data"
+    - text: "Data and Sources"
       href: data.html
+    - text: "Diversify Your Mind"
+      href: diversify.html
   right:
     - icon: fa-envelope-o fa-lg
       href: mailto:ojk@berkeley.edu

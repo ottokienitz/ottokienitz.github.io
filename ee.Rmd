@@ -4,7 +4,11 @@ title: "Politics and Government in Eastern Europe"
 
 <br>
 
-<img align="center" src="images/czechspringformat.jpg" width = "650">
+<img align="center" src="images/horse.jpg" width = "750">
+
+*A wave-swept shore, remote, forlorn / here he stood, rapt in thought and drawn / to distant prospects.*
+
+*The Bronze Horseman, Alexander Pushkin (1837)*
 
 <br>
 
@@ -67,5 +71,5 @@ Two German words: the hegemony of 'Mitteleuropa' versus the pluralism of 'Zwisch
 
 [Vox Europe](https://voxeurop.eu/en) -- addressing urgent European affairs
 
-[Calvert Journal](http://www.calvertjournal.com) -- Eastern European culture (music, art, literature, photography, architecture)
+[The Calvert Journal](http://www.calvertjournal.com) -- Eastern European culture (music, art, literature, photography, architecture)
 

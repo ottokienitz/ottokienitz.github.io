@@ -1,5 +1,5 @@
 ---
-title: "Data"
+title: "Data and Sources"
 ---
 
 <font color="#d2a107"><h3>Links</h4></font>
@@ -8,7 +8,7 @@ title: "Data"
 
 <img align="center" src="images/laxta.jpg" width = "650">
 
-<br>
+*Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
 ---
 
@@ -23,3 +23,10 @@ title: "Data"
 [Fruits and Votes](https://fruitsandvotes.wordpress.com)
 
 [Politics Through Time](https://historicalelections.fas.harvard.edu)
+
+[Levada Center](http://www.levada.ru/en/)
+
+[The Eclectic, Erratic Bibliography on the Extreme Right in Western Europe](http://www.kai-arzheimer.com/extreme-right-western-europe-bibliography)
+
+[Electronic Library of Historical Documents (in Russian)](http://docs.historyrussia.org/ru/nodes/1-glavnaya)
+
