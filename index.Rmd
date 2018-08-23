@@ -2,7 +2,7 @@
 title: "Otto Kienitz"
 ---
 
-<img align="right" src="images/OttoSPB.JPG" width = "250">
+<img align="right" src="images/OttoSPB.JPG" width = "300">
 
 <font color="#517CDE"><h4>
 PhD Student in Comparative Politics
@@ -19,9 +19,4 @@ Prior to attending Berkeley, Otto received his B.A. (Phi Beta Kappa, Summa Cum L
 He enjoys music, soccer, and modernist art and literature, and comes from a family of musicains, educators, and writers.
 
 His full CV is available [here](cv.html).
-
-<br>
-
-<img align="center" src="images/telegram.jpeg" width = "600">
-
 
