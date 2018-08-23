@@ -2,27 +2,31 @@
 title: "CV: Otto Kienitz"
 ---
 
-[PDF](okpscv.pdf)
-<br><br>
+<br>
 
-## Academic Positions
-
-PhD Student in Comparative Politics, 2017–present
+<h3>[PDF](okpscv.pdf)</h3>
 
 <br>
+
+<font color="#517CDE">
 
 ## Education
+</font>
 
---
+University of California, Berkeley, Department of Political Science, Berkeley, California (2017--)
+
+European University at St. Petersburg, IMARES, St. Petersburg, Russia (2016-2017)
+
+University of Pennsylvania, College of Arts and Sciences, Philadelphia, Pennsylvania (2012-2016)
 
 <br>
 
-__Primary interests__: 
 
-__Secondary interests__: 
+<font color="#517CDE">
+__Subfields__:</font> Comparative Politics, Eastern Europe and Post-Soviet Studies, Methodology and Formal Theory
 
-<br>
+<font color="#517CDE">
+__Research Affiliate__:</font> [Berkeley Institute of Slavic, East European, and Eurasian Studies, European Politics](https://iseees.berkeley.edu)
 
-## Working Papers
-
---
+<font color="#517CDE">
+__Professional Organizations__:</font> [APSA: Comparative Democratization Subsection](https://www.apsanet.org/section35), [ASEEES](https://www.aseees.org)
