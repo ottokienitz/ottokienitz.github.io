@@ -2,7 +2,7 @@
 title: "Otto Kienitz"
 ---
 
-<img align="right" src="images/OttoSPB.JPG" width = "300">
+<img align="right" src="images/OttoSPB.JPG" width = "250">
 
 <font color="#517CDE"><h4>
 PhD Student in Comparative Politics
@@ -12,9 +12,16 @@ University of California, Berkeley
 
 <br>
 
-Otto Kienitz is a PhD student in Comparative Politics at the University of California, Berkeley. His research interests include the historical comparative study of democracy, democratization, and democratic institutions in post-Communist Europe and Eurasia with a particular focus on Russian politics; as well as the development and manipulation of electoral systems; contemporary regime dynamics; and the historical legacies of imperial democratization.
+Otto Kienitz is a PhD student in Comparative Politics at the University of California, Berkeley. His research interests include the historical comparative study of democracy, democratization, and democratic institutions in post-Communist Europe and Eurasia with a particular focus on Russian politics; as well as the development and manipulation of electoral systems; contemporary regime dynamics; and the historical legacies of imperial  democratization and pre-democratic coalitions.
 
 Prior to attending Berkeley, Otto received his B.A. (Phi Beta Kappa, Summa Cum Laude) in History with a Minor in Political Science from the University of Pennsylvania, and an M.A. in Russian and Eurasian Studies from the European University at St. Petersburg (Russia).
 
-My full CV is available [here](cv.html).
+He enjoys music, soccer, and modernist art and literature, and comes from a family of musicains, educators, and writers.
+
+His full CV is available [here](cv.html).
+
+<br>
+
+<img align="center" src="images/telegram.jpeg" width = "600">
+
 

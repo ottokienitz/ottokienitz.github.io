@@ -1,10 +1,10 @@
 ---
-title: "CV: Otto Kienitz"
+title: "CV"
 ---
 
-<br>
+[PDF](okpscv.pdf)
 
-<h3>[PDF](okpscv.pdf)</h3>
+<img align="center" src="images/EUSP.jpg" width = "400">
 
 <br>
 
@@ -13,20 +13,76 @@ title: "CV: Otto Kienitz"
 ## Education
 </font>
 
-University of California, Berkeley, Department of Political Science, Berkeley, California (2017--)
+University of California, Berkeley, Department of Political Science, Berkeley, California __(2017--)__
 
-European University at St. Petersburg, IMARES, St. Petersburg, Russia (2016-2017)
+European University at St. Petersburg, IMARES, St. Petersburg, Russia __(2016-2017)__
 
-University of Pennsylvania, College of Arts and Sciences, Philadelphia, Pennsylvania (2012-2016)
+University College London, London, United Kingdom __(Study Abroad, 2014)__
+
+University of Pennsylvania, College of Arts and Sciences, Philadelphia, Pennsylvania __(2012-2016)__
+
+---
+
+__Subfields__: Comparative Politics, Eastern Europe and Post-Soviet Studies, Methodology and Formal Theory
+
+__Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasian Studies, European Politics](https://iseees.berkeley.edu)
+
+__Professional Organizations__: [APSA: Comparative Democratization Subsection](https://www.apsanet.org/section35), [ASEEES](https://www.aseees.org)
 
 <br>
-
-
 <font color="#517CDE">
-__Subfields__:</font> Comparative Politics, Eastern Europe and Post-Soviet Studies, Methodology and Formal Theory
 
-<font color="#517CDE">
-__Research Affiliate__:</font> [Berkeley Institute of Slavic, East European, and Eurasian Studies, European Politics](https://iseees.berkeley.edu)
+## Professional Experience
+</font>
 
+Foreign Policy Research Institute, Philadelphia, Pennsylvania __(2015-2016)__
+
+Northern California World Trade Center, San Francisco, California __(2014)__
+
+Smilow Center for Translational Research, Philadelphia, Pennsylvania __(2013-2015)__
+
+<br>
 <font color="#517CDE">
-__Professional Organizations__:</font> [APSA: Comparative Democratization Subsection](https://www.apsanet.org/section35), [ASEEES](https://www.aseees.org)
+
+## Undergraduate Activities
+</font>
+
+University of Pennsylvania Club Soccer Team __(2013–2016)__
+
+Philomathean Literary Society __(2015-2016)__
+
+University of Pennsylvania Jazz Combos __(2012-2013)__
+
+Jazz and Grooves Society __(2014–2016)__
+
+Slavic Studies Research Conference (Славянский Базар): Best Essay Prize __(2014)__
+
+Phi Alpha Theta National History Honor Society __(2014-2016)__
+
+Pi Sigma Alpha National Political Science Honor Society __(2015–2016)__
+
+Global Ties U.S. Emerging Leader 2015 (Washington, D.C.) __(2015)__
+
+<br>
+<font color="#517CDE">
+
+## Languages
+</font>
+
+__Russian__
+
+* Ongoing Coursework __(2017--)__
+
+* IU Russian Summer Language Workshop (Bloomington, Indiana) __(Summer 2018)__
+
+* IMARES Program (Saint Petersburg, Russia) __(2016-2017)__
+
+__Spanish__
+
+* University of Pennsylvania Language Requirement __(2012-2016)__
+
+__Italian__
+
+* Penn in Venice Program (Venice, Italy) __(Summer 2013)__
+
+
