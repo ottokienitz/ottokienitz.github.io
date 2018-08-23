@@ -14,7 +14,7 @@ navbar:
         href: ee.html
     - text: "CV"
       href: cv.html
-    - text: "Studying Comparative Politics"
+    - text: "Comparative Politics"
       href: cp.html
   right:
     - icon: fa-envelope-o fa-lg

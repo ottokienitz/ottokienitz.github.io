@@ -6,7 +6,7 @@ title: "Comparative Politics"
 
 <br>
 
-<img align="center" src="images/.jpg" width = "650">
+<img align="center" src="images/laxta.jpg" width = "650">
 
 <br>
 
@@ -160,7 +160,7 @@ __Corrupt actors__
 * Mares and Young (2016): clientelism is an exchange relationship; positive rewards; negative threats of economic or physical sanctions; the protection of voter secrecy affects clientelistic strategies; threats of post-electoral punishments of voters are extremely powerful if electoral secrecy is imperfectly protected; see: Mares (2015)
 * Auerbach (2016): clientelistic networks vary in their density and partisan balance across communities, with important consequences for the provision of public services (1) in slums with dense party networks, competition among party workers generates a degree of accountability in local patron-client hierarchies that encourages development (2) politicians are less likely to extend services to slums with multiparty networks because opposing networks can enjoy the services and even take credit for their provision; within settlements, partisan competition can also create perverse incentives for rival networks to undermine each other’s development efforts
 
-## State Formation and State-Society Relations
+## State Formation
 
 <font color="#517CDE"><h4>*State Formation and State-Society Relations*</h4></font>
 
