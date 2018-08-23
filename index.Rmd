@@ -2,7 +2,7 @@
 title: "Otto Kienitz"
 ---
 
-<img align="right" src="images/OttoSPBbuffer.JPG" width = "400">
+<img align="right" src="images/OttoSPBbuffer.jpg" width = "400">
 
 <font color="#d2a107"><h3>
 PhD Student in Comparative Politics
