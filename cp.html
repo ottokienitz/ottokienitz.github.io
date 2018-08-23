@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Comparative Politics</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Otto Kienitz</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Teaching
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="ee.html">Eastern Europe</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+<li>
+  <a href="cp.html">Studying Comparative Politics</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:ojk@berkeley.edu">
+    <span class="fa fa-envelope-o fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://www.twitter.com/ottokienitz">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Comparative Politics</h1>
+
+</div>
+
+
+<font color="#d2a107">
+<h3>
+Review Materials
+</h4>
+<p></font></p>
+<p><br></p>
+<p><img align="center" src="images/.jpg" width = "650"></p>
+<p><br></p>
+<div id="section" class="section level1 tabset tabset-fade">
+<h1></h1>
+<div id="democracy-and-democratization" class="section level2">
+<h2>Democracy and Democratization</h2>
+<font color="#517CDE">
+<h4>
+<em>Democracy and Democratization</em>
+</h4>
+<p></font></p>
+<hr />
+<p><strong>Modernization theory</strong></p>
+<ul>
+<li>Lipset (1959): modernization theory; correlation between social and economic development and democracy i.e. “the more well-to-do a nation, the greater the chances it will sustain democracy”; education; democracy arises due to its functional fit with the advanced industrial economy; it is the middle class that is seen as the primary promoter of democracy (by rewarding moderates and punishing extremists) while the upper class and especially the lower class are seen as enemies of democracy; crises of legitimacy occur during a transition to a new social structure i.e. if the “status” of major conservative institutions is threatened during the period of structural change; “entry-into-politics” crisis of new social groups e.g. workers, colonies, etc.</li>
+<li>W. W. Rostow (1960): “anti-communist manifesto”; “stages of growth” (e.g. “preconditions for take-off”)</li>
+<li>Deutsch (1961): social mobilization (social-psychological); modernization; social mobilization; democratization</li>
+<li>Almond and Verba (1963): the modernization of participatory “civic (political) culture” driven by economic development (education)</li>
+</ul>
+<p><strong>Tensions in modernization theory (structuralist approaches)</strong></p>
+<ul>
+<li>Gerschenkron (1962): relative backwardness and obstacles to “catching up”; delays allow social tensions to develop</li>
+<li>Moore (1966): “no bourgeoisie, no democracy”; constellation of class-relations leads to different (multiple) pathways (i.e. political regime as DV); democracy realized in the alliance between commercialized landowners and industrialized proletariat i.e. the bourgeoisie ultimately avoided becoming the subordinate partner in an alliance with landed elites against the peasantry because landed elites were weakened or displaced during a revolutionary period in which agriculture and/or politics was transformed; also (1) violent past (2) strong and independent Parliament (3) commercial and industrial interest with its own economic base (4) no serious peasant problem (already taken care of in Britain via enclosures rather than labor-repression)</li>
+<li>Huntington (1968): “gap hypothesis”; economic development and political stability are two independent goals and progress toward one has no necessary connection with progress toward the other; in fact, economic development may undermine political stability (e.g. rate of modernization)</li>
+<li>Gunder Frank (1970): the development of underdevelopment was and still is generated by the very same historical process(es) which also generated economic development (capitalism itself)</li>
+<li>Rueschemeyer, Stephens and Stephens (1992): democratic development requires the development of industrial capitalism, which shifts the balance of class power away from anti-democratic landed interests and toward reliably pro-democratic urban interests (1) class coalitions (2) autonomy of the state apparatus (3) impact of transnational power relations; working class as pro-democratic and upper classes as anti-democratic (making new political coalitions possible to support democracy)</li>
+</ul>
+<p><strong>Contingency in democratization</strong></p>
+<ul>
+<li>D. Rustow (1970): “there may be many roads to democracy” relying on (1) prior sense of community (national unity) (2) entrenched conflict (3) democratic rules (4) habituation of rules; assembled one at a time with its own logic; BUT need not be geographically uniform; need not be temporally uniform; need not be socially uniform; polarization rather than pluralism; backward and forward linkages (not all at once); phases of democratization (1) background conditions (2) nature of the struggle (3) negotiated resolution (4) habituation (consolidation)</li>
+<li>O’Donnell and Schmitter (1986): “there is no transition whose beginning is not the consequence—direct or indirect—of important divisions within the authoritarian regime itself”; transitions are contingent periods (processes) of “undetermined” political change (1) political opening (2) potential backlash (3) leading to “pacted transition” between soft-liners and hard-liners (elites) (4) institutionalization</li>
+<li>R. Collier (1999): strategic interaction of elite negotiations based on class alignments (1) rising middle-class (2) mobilization of lower-class (3) joint project between middle-class and allies (never the working class alone); (1) class (2) prior inclusion (3) arena of action; democratization as the adoption of three institutional attributes of democracy (1) universal male suffrage (2) an autonomous legislature (3) civil liberties; what were the coalitional dynamics underpinning the many other less visible institutional reforms that occurred before the threshold of democracy was crossed?</li>
+<li>Huntington (1991): “third wave” (1974-) caused by global economic growth, decrease of legitimacy of authoritarian regimes, Catholic emphasis on individual right; demonstration (snowball) effects; democracy promotion (US &amp; EU); interactions between (1) government and opposition (2) reformers and standpatters (3) moderates and extremists (elites and elite-splits from the top-down)</li>
+<li>Carothers (2002): “the end of the transition paradigm”; Case (1996) “Can the ‘Halfway House’ Stand?”</li>
+</ul>
+<p><strong>Definitions of democracy</strong></p>
+<ul>
+<li>J. S. Mill (1861): the government of the whole people by the whole people, equally represented, BUT democracy is commonly conceived and hitherto practiced by a mere majority of the people, exclusively represented i.e. a government of privilege, in favor of the numerical majority, who alone possess practically any voice in the State; debate over franchise expansion</li>
+<li>Schumpeter (1942): procedural definition of competition; “the democratic method is that institutional arrangement for arriving at political decisions in which individuals acquire the power to decide by means of a competitive struggle for the people’s vote”</li>
+<li>Dahl (1956/1971): contestation (competition and pluralism) and mass participation; “polyarchy”; democracy requires not only free, fair, and competitive elections, but also freedoms that make them meaningful (inclusive suffrage, freedom of expression, etc.); different classes and actors may be influential at different stages</li>
+<li>D. Rustow (1970): “a system of rule by temporary majorities” (the habit of dissension and conciliation over ever-changing issues and amidst ever-changing alignments)</li>
+<li>Przeworski (1990) : “democracy is a system in which parties lose elections”</li>
+<li>Collier and Levitsky (1997): expanded procedural minimum; democracy + (1) effective power to rule (2) some social level of equality (3) concern with authoritarian tendencies (4) horizontal accountability (checks on executive power)</li>
+</ul>
+<p><strong>Democracy and development</strong></p>
+<ul>
+<li>Lipset (1959) (1) endogenous democratization: development increases the likelihood that poor countries will undergo a transition to democracy (2) exogenous democratization: development makes democracy, once established, less likely to fall to dictatorships</li>
+<li>Haggard and Kaufman (1995): it was the dismal economic performance of most dictatorships that led to democratic transitions i.e. the effects of economic crisis on regime change or political demands for liberalization</li>
+<li>Weingast (1997): “democratic stability as a self-enforcing equilibrium” (formal model); society must erect institutions that assure that groups will cooperate to prevent the sovereign from transgressing; (1) procedural and substantive limits on government (institutionalization) (2) a citizenry willing to defend those limits (3) the expectation among rival political parties that each will adhere to the democratic rules</li>
+<li>Przeworski &amp; Limongi (1997): exogenous modernization theory = once democratization has occurred, it survives in countries above a certain level of economic development; the observed relationship between democracy and development is caused not so much by the greater likelihood that more developed countries will democratize as by the improbability of authoritarian interventions in developed countries (income levels affect the likelihood of democratic breakdown but not the probability of democratization)</li>
+<li>Przeworski, et al. (2000): see above</li>
+<li>Boix and Stokes (2003): exogenous and endogenous modernization theory = rising levels of income are associated with both higher probabilities of transitions to democracy and lower probabilities of democratic failures; Przeworski and Limongi suffer from omitted variable bias, sample selection bias, and small sample size; earlier (first) wave of democratization in Western Europe reveals a large endogenous effect (economic growth increases the incentives for the ruling faction to democratize); income equality causes dictatorships to fall and democracies to last</li>
+<li>Acemoglu and Robinson (2006): social choices are inherently conflictual between elites and citizens; “Occam’s razor” i.e. parsimony; as income inequality rises, democracy’s costs for the wealthy increase, lowering the probability of democratic transitions; political institutions regulate the future allocation of political power between various social groups; most moves toward democracy happen in the face of significant social conflict and possible threat of revolution</li>
+<li>Dunning (2008): oil impedes democratization in countries with low levels of inequality, but hastens democratization in countries with high inequality levels by alleviating the concern of wealthy elites that democracy will lead to the expropriation of their private assets e.g. pro-democratic effects in Latin America but antidemocratic effects in the rest of the world; oil is highly conditional on a host of contextual factors; Ross (2012) = regime stability after post-1979 rents; Haber and Menaldo (2011) = no resource curse but omitted variable bias (temporary revenue windfalls might make a dictator more popular in the short run but be insufficient to protect him from democratic forces when revenues fall)</li>
+<li>Cheibub, et al. (2010): measures of democracy; democracy vs. dictatorship; Freedom House (political rights and civil liberties); Polity IV (executive authority and political participation); problems with coding (categorical, continuous, or ordinal); minimalist definition of “offices” filled by “contested” elections links political regimes to outcomes, raises the issue of classification (again)</li>
+</ul>
+<p><strong>Democracy and regime type</strong></p>
+<ul>
+<li>Linz and Stepan (1996): different nondemocratic regimes characterized by different institutional properties; establishing democracy as “the only game in town”; consolidated democracy requires “stateness” (including civil society, political society, rule of law, state bureaucracy, and an institutionalized economic society/politically regulated market); impact of the prior regime on the democratic transition; consolidation of democratic rule; (1) inclusive and equal citizenship (2) leadership structure of prior regime and/or transition (3) international context (4) economic conditions (5) constitutional environment</li>
+<li>O’Donnell (1994): “delegative democracy” rests on the premise that whoever wins election to the presidency is thereby entitled to govern as he or she sees fit, constrained only by the hard facts of existing power relations and by a constitutionally limited term of office gives the president the apparent advantage of having practically no horizontal accountability; swift policy making; higher likelihood of gross mistakes, hazardous implementation, and concentrated responsibility</li>
+<li>Collier and Levitsky (1997): Sartori (1970) “ladder of generality” vs. “diminished” sub-types (e.g. “illiberal democracy”) BUT sub-types of democracy or authoritarianism?</li>
+<li>Geddes (1999): different kinds of authoritarianism break down in different ways (personalist, military, single-party); military regimes have more endogenous sources of instability and are more fragile; single-party regimes have few endogenous sources of instability and can weather the death of leaders; BUT regime transitions of all kinds are more likely during economic downturns</li>
+<li>Levitsky and Way (2002): possibility of “hybrid regimes” i.e. competitive authoritarianism; arenas of contestation (1) electoral arena (2) legislature (3) judiciary (4) media; decay of an authoritarian regime; collapse of an authoritarian regime; decay of democratic regime; regime consolidation requires elite cohesion and a minimally effective—and financially solvent—state apparatus</li>
+</ul>
+<p><strong>Patterns of democracy</strong></p>
+<ul>
+<li>Lijphart (1977): “consociationalism” = fragmented but stable democracy; (1) grand coalition (2) mutual veto (3) PR (4) segmental autonomy (5) shared executive; internal political cohesion of the subcultures, adequate articulation of interests, approval of elite cartel</li>
+<li>Horowitz (1993): ethno-national divides; inclusion vs. exclusion and subsequent polarization; democratic institutions may lead to undemocratic results; majority rule vs. minority exclusion; federal solutions to democratization; case study of Nigeria and India; devolution of power to homogenous federal units reduces conflict at the center and contests issues within ethnic groups rather than between them; ethnic power-sharing vs. federal solutions (PR vs. majoritarian)</li>
+<li>Putnam (1993): sub-national regional variation in Italy; governments performed best where there were strong traditions of civic engagement; social capital; trust bridging different groups; differences in medieval governing structures</li>
+<li>Lijphart (1999): majoritarian vs. consensus (negotiated) democracy; executives-parties dimension and federal-unitary dimension; consensus democracy in plural societies that are sharply divided along religious, ideological, linguistic, cultural, ethnic, or racial lines into virtually separate sub-societies with their own political parties, interest groups, and media of communication</li>
+</ul>
+<p><strong>Historical democratization</strong></p>
+<ul>
+<li>Capoccia (2005): in Belgium, Czechoslovakia and Finland the political elite managed to react effectively against severe anti-democratic threats by isolating the extremists and using both repressive and inclusive strategies; the high degree of political intolerance against the extremists generally reached in these democracies was in fact accompanied byparallel attempts to integrate some of them back into the system</li>
+<li>Capoccia and Ziblatt (2010): historically, democracy did not emerge as a singular coherent whole but rather as a set of different institutions, which resulted from conflicts across multiple lines of social and political cleavage that took place at different moments in time; institutional building blocks of democracy emerged asynchronically; analytically interesting “near misses”; underestimate the importance of the actual unfolding of the strategic interaction that led to the establishment or the reshaping of democratic institutions</li>
+<li>Ziblatt (2017): a robust conservative political party organization can unleash a self-reinforcing virtuous cycle of electoral competition and open-endedness in electoral outcomes, prompting democracy’s advocates to ratchet up their own mobilizational capacity to meet the challenge; a robust conservative political party may actually be a precondition for democracy</li>
+</ul>
+</div>
+<div id="authoritarianism" class="section level2">
+<h2>Authoritarianism</h2>
+<font color="#517CDE">
+<h4>
+<em>Authoritarianism</em>
+</h4>
+<p></font></p>
+<hr />
+<p><strong>Early literature</strong></p>
+<ul>
+<li>Arendt (1951/1966): defines totalitarian systems as differentiated based on the use of terror (role of police, coercion, violence, etc.); the state uses propaganda to create a largely fictional narrative that submerges individual and collective interests within an overriding national struggle</li>
+<li>O’Donnell (1973): “modernization and bureaucratic-authoritarianism”; to neutralize the threats to their rule that emerge from within society, autocrats attempt to co-opt or “encapsulate” the potential opposition i.e. the career patterns and power bases of most incumbents of technocratic roles; bureaucratic-authoritarianism arises in Brazil and Argentina because of (1) growing political weight of lower middle- and working-class groups (2) the appearance of economic bottlenecks, and increased significance of technocratic roles (3) horizontal industrial growth of the two countries, based on consumer goods, ISI, and expansion of domestic market; basis for populist coalitions that encouraged economic and political incorporation of popular sector; if the government is not successful in applying coercion, popular sector and domestic entrepreneurs can strike, demonstrate, or riot</li>
+<li>O’Donnell and Schmitter (1986): “there is no transition whose beginning is not the consequence—direct or indirect—of important divisions within the authoritarian regime itself”; thus opening the lens of analysis to elite cleavages within the authoritarian regime; liberalization can exist without democratization (putting democratic principles into practice) i.e. two different variables; hard-liners vs. soft-liners; the “cycle of mobilization”; degree of militarization; negotiation of “pacts” (series of temporary arrangements) that may in fact subsequently impede democratic consolidation</li>
+<li>Luebbert (1991): (1) interwar liberal democracy rested on a coalition of the center-right stabilized by the political isolation of the working classes and by the ineffectiveness of trade union organizations in liberal societies (2) social democratic political economies, by contrast, rested during the interwar years on alliances of the urban working classes and the family or middle peasantry (a democratic version of corporatism) (3) fascism repudiated both the politics and the economics of liberalism, substituting totalitarianism, or some approximation of it, for democratic competition, resting on a social coalition of the town and country (one that combined the family peasantry with the urban middle classes rather than the urban working classes)</li>
+<li>Wintrobe (1998): autocrats are fundamentally interested in their own survival in power; if autocrats rely too much on terror, repression, and intimidation to sustain their rule, they become more vulnerable to agency and moral-hazard problems on the part of their own security apparatus, upon which their ability to survive ultimately depends</li>
+<li>Bueno de Mesquita et al. (2003): dictators do not face a general threat from the rest of society, but instead face a threat from a subset called the “selectorate”;</li>
+<li>Haber (2006): in order to rule the country, autocrats have to bestow resources on elite members, who, in turn, can use these same resources to overthrow the regime</li>
+</ul>
+<p><strong>Authoritarianism as a regime type</strong></p>
+<ul>
+<li>Linz (2000): “authoritarian regimes” differentiated by limited pluralism and popular mobilization, in contrast with totalitarian and democratic regimes; hinting at the the role of limited and uncompetitive elections as a tool to maintain elite cohesion and facilitate elite recruitment; i.e. “authoritarian regimes” care what people do” as opposed to “totalitarian regimes,” which care what people think while</li>
+<li>Levitsky and Way (2002): literature suffers from a “democratizing bias”; competitive authoritarianism where there are formal democratic institutions, but incumbents violate these rules so often that the regime fails to meet conventional minimal standards for democracy</li>
+<li>Way (2005): autocrat competitiveness within the regime; incumbent capacity (1) authoritarian state power (2) know-how (3) elite organization; anti-incumbent national identity (1) central state control (2) utility/availability of external support; weaknesses (1) open elite contestation (2) administrative resources (3) vulnerability to democratizing pressures</li>
+<li>Howard and Roessler (2006): “liberalizing electoral outcome”; the political opposition can affect the electoral dynamic depending on whether it (1) creates a multiparty coalition or jointly supports a single candidate (2) initiates mobilization (antigovernment protests)</li>
+<li>Way (2015): “pluralism by default”; in many cases, democratic contestation has persisted because autocrats have been too weak to steal elections, reprise opposition, or keep allies in line; leaders lack the resources, authority, or coordination to prevent today’s allies from becoming tomorrow’s challengers, to control the legislature, impose censorship, manipulate elections, or use forced against political opponents; (1) disorganization (2) divided national identity; lead to (1) low electoral manipulation (2) strong parliamentary power (3) powerful opposition (4) media pluralism</li>
+</ul>
+<p><strong>Electoral authoritarianism</strong></p>
+<ul>
+<li>Schedler (2002): “menu of manipulation”; access to the electoral arena always has a cost and is never perfectly equal; the distinction between obeying and transgressing democratic norms is imprecise; splits in the party system; redistributive practices (electoral fraud); rules of representation (institutional bias); and the norm of irreversibility</li>
+<li>Magaloni (2006): “one-party rule” and large margins of victory (PRI in Mexico); more than using legislatures, dictators can use institutions within the ruling party in order to make credible inter-temporal power-sharing deals with potential elite opponents; the party controls succession and access-to-power positions; In Mexico, the ruling party’s central leadership controlled the nomination processes and, owing to a system of non-reelection for all competitive offices, the party could induce strong discipline from subnational office-seekers who had an incentive to align with the party leadership and with the president to obtain access to future rent-seeking positions; moreover, the regime strove to create “poverty traps” and systems of dependency with rural voters, who remained the PRI’s base of support until the deterioration of economic conditions; later, perceptions about the possibility of post-election violence changed and facilitated greater support for opposition parties</li>
+<li>Gandhi and Przeworkski (2007): autocrats face threats that emerge from (1) within the ruling elite (2) outsiders within society; when they need to neutralize threats from larger groups, autocrats frequently rely on nominally democratic institutions; partisan legislatures incorporate potential opposition forces, investing them with a stake in the ruler’s survival; and last longer</li>
+<li>Gandhi and Lust-Okar (2009): ruling elites also can manipulate the rules that shape voter and candidate behavior in elections; in selectively co-opting the opposition and manipulating electoral laws, dictators also create divided oppositions and increase coordination costs among their opponents; at the local level, corruption seems to be intended not so much to win elections as to show the ruling elites that the local officials can get out the vote (e.g. Russian regional governors); see</li>
+<li>Brownlee (2011): executive elections constitute a part of authoritarian resilience in MENA; function as both a political safety valve and performative aspect i.e. “window dressing” (“patronage fetes, and regime exhibitions”); but need some competition and turnout (Egypt)</li>
+<li>Svolik (2012): power sharing under authoritarianism is sustained by the ability of each side to punish the other party if it decides to deviate from that joint-governance arrangement and, in particular, by the credible threat of a rebellion by the ruler’s allies; authoritarian control vs. authoritarian power-sharing; reliance on repression creates a moral hazard</li>
+<li>Morse (2012): “the era of electoral authoritarianism”; electoral fraud as indicative of regime breakdown and greater oppositional capacity or of conditions that have compelled incumbents to engage in such fraudulent practices to begin with; lesser fraud can be seen as a sign of regime confidence in its capacity to win elections, leading to elections that are more competitive in terms of the actual contestation but less amenable to oppositions; not whether fraud plays a role or not in electoral outcomes but, rather, under what conditions regimes are likely to use it more often and intensively</li>
+<li>Schedler (2013): “the politics of uncertainty”; “elections as adornments” (Brownlee, 2007); “elections as tools” (Gandhi, 2008); “elections as arenas” (Schedler, 2013); authoritarian regimes suffer from institutional and informational uncertainties and use elections to overcome these unknowns</li>
+</ul>
+<p><strong>Democratic backsliding</strong></p>
+<ul>
+<li>Linz (1978/1990): the breakdown of democratic regimes; political agency and voluntarism i.e. the role of leadership and incumbents in carrying out actions that could defuse regime crises; declining authoritarian regime legitimacy; presidential systems more prone to political crisis and democratic breakdown (1) legitimacy (2/3) efficacy/effectiveness (4) stability and performance</li>
+<li>Fish (2002): super-presidentialism; power-seeking presidents unconstrained by powerful institutions or competing centers of power initiate backsliding</li>
+<li>Gibler and Randazzo (2011): the effects of independent judiciaries on the likelihood of democratic backsliding; judicial review as mechanism of horizontal accountability</li>
+<li>Ahmed (2014): the concept of backsliding as it is conventionally used implies a theoretical move back on an imagined linear trajectory; apparently exclusionary measures can further democratization, allowing regime stability necessary for further strengthening or, at other times, providing focal points or mobilizing narratives around which political forces rally, pressing for more democratic measures; certain safeguards that could be viewed as backsliding in some cases may, in fact, help to strengthen and consolidate democracy in the long run</li>
+<li>Mainwaring and Pérez-Liñán (2014): (1) the degree of radicalism of policy preferences (2) normative commitment to democracy; democracies whose leaders have radical policy preferences or lack normative commitments to democracy, or both, will be more fragile and vulnerable to breakdown; these democracies might also be vulnerable to backsliding, as actors may seek their policy goals without formally abolishing democracy</li>
+<li>Lust and Waldner (2014): backsliding may occur when party systems are unbalanced, with some parties being organizationally weak and others strong</li>
+<li>Levitsky and Ziblatt (2018): “how democracies die” (1) rejection of (or weak commitment to) democratic rules of the game (2) denial of the legitimacy of political opponents (3) toleration of encouragement of violence (4) readiness to curtail civil liberties of opponents, including media; successful gatekeeping requires mainstream parties to isolate and defeat extremist forces e.g. resist putting populists on the ballot who can potentially deliver votes, root out grass roots extremists, avoid all alliances with anti-democratic parties and candidates, isolate rather than legitimize extremists; must be willing to join with opponents ideologically distant but committed to the survival of the democratic political order</li>
+</ul>
+<p><strong>Bureaucratic monitoring in authoritarian regimes</strong></p>
+<ul>
+<li>Kuran (1991): “cascades”; the possibility that a protest today spurs more protests tomorrow by revealing information about the degree of popular support for the regime; attributed to the heterogeneous tolerance for “preference falsification” among the population</li>
+<li>Triesman (2011): although media manipulation, wars, terrorist attacks, and other events also mattered, Putin’s unprecedented popularity and the decline in Yeltsin’s are well explained by the contrasting economic circumstances over which each presided</li>
+<li>Reuter and Robinson (2012): the appointment of Russian governors depends on their ability to mobilize votes for the regime; and cooptation in Russian gubernatorial appointments, as governors with strong political machines were more likely to be reappointed initially</li>
+<li>Lorentzen (2013) authoritarian regimes may in fact benefit from localized, limited protests, as by doing so they gather information that is otherwise hard to collect in the absence of competitive elections or free media</li>
+<li>Little (2016) distinguishes between models in which the regime uses elections to gather information about its popular support (gather information) versus models in which elections signal the regime’s hold on power to external audiences (signal strength); within authoritarian regimes, institutions like parties, elections and legislatures are positively correlated with good outcomes like economic growth, investment, and even life expectancy (Miller, 2015); in the information-gathering model, the incumbent holds an election if k &lt; delta_g + delta_v; delta_g is high when the regime gets a much higher payoff when making the optimal concession (given what they have learned from the election result) than they would being unresponsive to the election; that is, when the information gathered by the election is useful for choosing how much to concede e.g. providing information not only about the incumbent strength in an entire country, but by region (Blaydes, 2010), polling station, or even individual vote choices; on average, the presence of elections as a tool to simply signal strength harms regimes (the more elections are held, the fewer resources the regime has to spend on other ways to stay in power)</li>
+<li>Gelbach and Simpser (2014): “electoral manipulation as bureaucratic control”; by influencing bureaucrats’ beliefs about the ruler’s hold on power, manipulation can encourage bureaucrats to work on behalf of the ruler when they would not otherwise do so; to cooperate with the ruler even when the citizen may not be responsive to bureaucratic effort</li>
+<li>Rundlett and Svolik (2016): even if the infrastructure of fraud favors the incumbent, his genuine popularity still plays a crucial role in shaping the agents’ perception of the risk of engaging in fraud; electoral authoritarianism should therefore be characterized by a punctuated dynamic, with an oversupply of fraud that lasts as long as the incumbent enjoys genuine popularity and is interrupted by an undersupply of fraud as soon as that popularity dwindles</li>
+<li>Reuter et al. (2016): autocrats can use local elections to assuage powerful subnational elites; when subnational elites control significant political resources, such as local political machines, leaders may need to co-opt them to govern cost-effectively; elections are an effective tool of co-optation because they provide elites with autonomy and the opportunity to cultivate their own power bases</li>
+</ul>
+<p>Corrupt structures</p>
+<ul>
+<li>Darden (2007): graft often serves as a form of unofficial compensation that reinforces rather than undermines the formal institutions of the state, and can provide leaders with additional means to control subordinate officials; graft may reinforce administrative hierarchies</li>
+<li>Ziblatt (2009): shaping democratic practice and the causes of electoral fraud (Germany); electoral fraud’s incidence is significantly related to a society’s level of inequality in landholding; landed elites exert influence indirectly via the capture of rural local public officials such as mayors, county commissioners, police officials, and election officials, who in turn are the actors that interfere with free and fair elections</li>
+<li>Hale (2014): patronal politics refers to politics in societies where individuals organize their political and economic pursuits primarily around the personalized exchange of concrete rewards and punishments through chains of actual acquaintance; regime dynamics depend upon how patronal networks are arranged (1) “single pyramid” (2) “multiple, usually competing pyramids”</li>
+<li>Kenny (2015): (1) greater centrifugal and disintegrative pressures at key moments in the state-building process give local elites more opportunity to institutionalize patronage at the subnational level (2) decentralized patronage systems are more resistant to reform than centralized ones; occurs where democratization precedes professionalization of the bureaucracy and mass mobilization by political parties</li>
+</ul>
+<p>Corrupt actors</p>
+<ul>
+<li>Stokes and Dunning, et al. (2013): strategies of clientelism, machine politics, and patronage as nonprogrammatic distributive strategies; clientelism = (1) patronage (2) vote buying (turnout buying) vs. partisan bias = (1) non-conditional benefits to individuals (2) pork-barrel politics; distributive politics should, in theory, favor swing districts but loyal individuals; information gathered and provided via intermediaries called “brokers” that solve information problems for political machines</li>
+<li>Bussell (2015): distinguishing between individuals with different corrupt incentives and different types of state resources (welfare benefits, natural resources, and public contracts); necessary to identify who has power over these resources; middlemen may exert informal influence in the distribution of resources; (1) legislative (2) contracting (3) employment (4) services</li>
+<li>Mares (2015): examines how the 1903 German legislation that introduced ballot envelopes and isolating spaces affected the strength of support for the Social Democratic Party, the major anti-system party in Germany; prior to the introduction of this legislation, support for the party had been suppressed through intimidation by employers and state employees i.e. the legislation protected voter secrecy by giving voters the opportunity to support the opposition party without fearing layoffs</li>
+<li>Mares and Young (2016): clientelism is an exchange relationship; positive rewards; negative threats of economic or physical sanctions; the protection of voter secrecy affects clientelistic strategies; threats of post-electoral punishments of voters are extremely powerful if electoral secrecy is imperfectly protected; Mares (2015)</li>
+<li>Auerbach (2016): clientelistic networks vary in their density and partisan balance across communities, with important consequences for the provision of public services (1) in slums with dense party networks, competition among party workers generates a degree of accountability in local patron-client hierarchies that encourages development (2) politicians are less likely to extend services to slums with multiparty networks because opposing networks can enjoy the services and even take credit for their provision; within settlements, partisan competition can also create perverse incentives for rival networks to undermine each other’s development efforts</li>
+</ul>
+</div>
+<div id="corruption" class="section level2">
+<h2>Corruption</h2>
+<font color="#517CDE">
+<h4>
+<em>Corruption</em>
+</h4>
+<p></font></p>
+<hr />
+<hr />
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
