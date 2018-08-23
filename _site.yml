@@ -16,6 +16,8 @@ navbar:
       href: cv.html
     - text: "Comparative Politics"
       href: cp.html
+    - text: "Data"
+      href: data.html
   right:
     - icon: fa-envelope-o fa-lg
       href: mailto:ojk@berkeley.edu

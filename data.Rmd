@@ -1,0 +1,25 @@
+---
+title: "Data"
+---
+
+<font color="#d2a107"><h3>Links</h4></font>
+
+<br>
+
+<img align="center" src="images/laxta.jpg" width = "650">
+
+<br>
+
+---
+
+[Varieties of Democratization](https://www.v-dem.net/en/)
+
+[European Election Database](http://www.nsd.uib.no/european_election_database/about/)
+
+[Eurostat](http://ec.europa.eu/eurostat/data/database)
+
+[Election Resources on the Internet](http://electionresources.org)
+
+[Fruits and Votes](https://fruitsandvotes.wordpress.com)
+
+[Politics Through Time](https://historicalelections.fas.harvard.edu)
