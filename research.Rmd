@@ -98,19 +98,6 @@ MA Thesis
 
 *Research at the Российский Государственный Исторический Архив (St. Petersburg, Russia)
 
-<br>
-
-<font color="#517CDE">
-
-#### __Sir Percy Loraine and Anglo-Turkish Rapprochement 1934-1939__
-</font>
-
-BA Honors Thesis
-
-* Chapter published in the Penn History Review, Volume 23, Issue 2, Fall 2016: pp. 87-114.
-* Winner of the Rose Undergraduate Research Award for the College of Arts and Sciences
-* Winner of the College Alumni Society Undergraduate Research Grant
-
 ## History
 
 ---
@@ -143,6 +130,23 @@ Working Paper
 </font>
 
 Working Paper
+
+---
+
+<font color="#d2a107"><h3>*Theses*</h3></font>
+
+---
+
+<font color="#517CDE">
+
+#### __Sir Percy Loraine and Anglo-Turkish Rapprochement 1934-1939__
+</font>
+
+BA Honors Thesis
+
+* Chapter published in the Penn History Review, Volume 23, Issue 2, Fall 2016: pp. 87-114.
+* Winner of the Rose Undergraduate Research Award for the College of Arts and Sciences
+* Winner of the College Alumni Society Undergraduate Research Grant
 
 ## Literature
 
