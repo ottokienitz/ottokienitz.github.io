@@ -2,15 +2,11 @@
 title: "Comparative Politics"
 ---
 
-<font color="#d2a107"><h3>Review Materials</h4></font>
-
-<br>
-
 <img align="center" src="images/laxta.jpg" width = "650">
 
 *Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
-<br>
+<font color="#d2a107"><h3>Review Materials</h3></font>
 
 # {.tabset .tabset-fade}
 
