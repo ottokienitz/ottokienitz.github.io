@@ -2,9 +2,9 @@
 title: "Otto Kienitz"
 ---
 
-<img align="right" src="images/OttoSPB.JPG" width = "300">
+<img align="right" src="images/OttoSPBbuffer.JPG" width = "400">
 
-<font color="#517CDE"><h4>
+<font color="#d2a107"><h3>
 PhD Student in Comparative Politics
 <br>
 University of California, Berkeley
@@ -12,11 +12,19 @@ University of California, Berkeley
 
 <br>
 
-Otto Kienitz is a PhD student in Comparative Politics at the University of California, Berkeley. His research interests include the historical comparative study of democracy, democratization, and democratic institutions in post-Communist Europe and Eurasia with a particular focus on Russian politics; as well as the development and manipulation of electoral systems; contemporary regime dynamics; and the historical legacies of imperial  democratization and pre-democratic coalitions.
+Otto Kienitz is a PhD student in [Comparative Politics](http://polisci.berkeley.edu) at the [University of California, Berkeley](https://www.berkeley.edu)
 
-Prior to attending Berkeley, Otto received his B.A. (Phi Beta Kappa, Summa Cum Laude) in History with a Minor in Political Science from the University of Pennsylvania, and an M.A. in Russian and Eurasian Studies from the European University at St. Petersburg (Russia).
+His research interests include the historical comparative study of democracy, democratization, and democratic institutions in post-Communist Europe and Eurasia with a particular focus on Russian politics; as well as the development and manipulation of electoral systems; contemporary regime dynamics; and the historical legacies of imperial  democratization and pre-democratic coalitions.
+
+Prior to attending Berkeley, he received his B.A. (Phi Beta Kappa, Summa Cum Laude) in History with a Minor in Political Science from the [University of Pennsylvania](https://www.upenn.edu), and an M.A. in Russian and Eurasian Studies from the [European University at St. Petersburg](https://eu.spb.ru/en/) (Russia).
 
 He enjoys music, soccer, and modernist art and literature, and comes from a family of musicains, educators, and writers.
 
 His full CV is available [here](cv.html).
+
+<br>
+
+<img align="center" src="images/vellumbanner.jpg" width = "1000">
+
+*Russian land grant charter on 17th century vellum*
 

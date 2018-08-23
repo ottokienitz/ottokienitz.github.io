@@ -8,7 +8,7 @@ title: "CV"
 
 <br>
 
-<font color="#517CDE">
+<font color="#d2a107">
 
 ## Education
 </font>
@@ -30,7 +30,7 @@ __Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasi
 __Professional Organizations__: [APSA: Comparative Democratization Subsection](https://www.apsanet.org/section35), [ASEEES](https://www.aseees.org)
 
 <br>
-<font color="#517CDE">
+<font color="#d2a107">
 
 ## Professional Experience
 </font>
@@ -42,7 +42,7 @@ Northern California World Trade Center, San Francisco, California __(2014)__
 Smilow Center for Translational Research, Philadelphia, Pennsylvania __(2013-2015)__
 
 <br>
-<font color="#517CDE">
+<font color="#d2a107">
 
 ## Undergraduate Activities
 </font>
@@ -64,7 +64,7 @@ Pi Sigma Alpha National Political Science Honor Society __(2015–2016)__
 Global Ties U.S. Emerging Leader 2015 (Washington, D.C.) __(2015)__
 
 <br>
-<font color="#517CDE">
+<font color="#d2a107">
 
 ## Languages
 </font>

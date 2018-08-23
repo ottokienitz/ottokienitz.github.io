@@ -14,7 +14,7 @@ title: "Politics and Government in Eastern Europe"
 
 ---
 
-<font color="#517CDE"><h4>*Week 1*</h4></font>
+<font color="#d2a107"><h4>*Week 1*</h4></font>
 
 ---
 
@@ -41,7 +41,7 @@ Two German words: the hegemony of 'Mitteleuropa' versus the pluralism of 'Zwisch
 
 ---
 
-<font color="#517CDE"><h4>*How to keep track of (Eastern) European politics:*</h4></font>
+<font color="#d2a107"><h4>*How to keep track of (Eastern) European politics:*</h4></font>
 
 ---
 
@@ -68,7 +68,4 @@ Two German words: the hegemony of 'Mitteleuropa' versus the pluralism of 'Zwisch
 [Vox Europe](https://voxeurop.eu/en) -- addressing urgent European affairs
 
 [Calvert Journal](http://www.calvertjournal.com) -- Eastern European culture (music, art, literature, photography, architecture)
-
-
-
 

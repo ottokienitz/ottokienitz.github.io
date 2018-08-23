@@ -14,7 +14,7 @@ Please [contact](mailto:ojk@berkeley.edu) for access to papers.
 
 ---
 
-<font color="#517CDE"><h3>*Working Papers*</h3></font>
+<font color="#d2a107"><h3>*Working Papers*</h3></font>
 
 ---
 
@@ -74,7 +74,7 @@ Working Paper
 
 ---
 
-<font color="#517CDE"><h3>*Theses*</h3></font>
+<font color="#d2a107"><h3>*Theses*</h3></font>
 
 ---
 
@@ -104,7 +104,7 @@ BA Honors Thesis
 
 ---
 
-<font color="#517CDE"><h3>*Working Papers*</h3></font>
+<font color="#d2a107"><h3>*Working Papers*</h3></font>
 
 ---
 
@@ -137,7 +137,7 @@ Working Paper
 
 ---
 
-<font color="#517CDE"><h3>*Working Papers*</h3></font>
+<font color="#d2a107"><h3>*Working Papers*</h3></font>
 
 ---
 
@@ -165,11 +165,4 @@ Working Paper
 </font>
 
 Working Paper
-
-
-
-
-
-
-
 
