@@ -28,3 +28,5 @@ title: "Data and Sources"
 
 [Electronic Library of Historical Documents (in Russian)](http://docs.historyrussia.org/ru/nodes/1-glavnaya)
 
+[Democratic Erosion Syllabus](http://democratic-erosion.com/syllabus/)
+
