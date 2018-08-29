@@ -38,6 +38,8 @@ title: "Diversify Your Mind"
 
 ["Tips for talking about your work with people you run into in the hallway at conferences" by Hakeem Jefferson](https://docs.google.com/document/d/1ND_wS2WnhP3D11juKdJ4OoD5-sUwIWtwKmaA7ip_ESk/edit) -- how to share your work with others!
 
+[Ed Rubin's Tutorial on Spatial Data](http://edrub.in/ARE212/section12.html) -- making sense of and manipulating spatial data in R straight from the source!
+
 ---
 
 <font color="#d2a107"><h3>Current Reads</h3></font>
