@@ -10,7 +10,7 @@ title: "Data and Sources"
 
 ---
 
-[Google "Database" Search Engine (Beta)](https://toolbox.google.com/datasetsearch)
+[Google "Dataset" Search Engine (Beta)](https://toolbox.google.com/datasetsearch)
 
 [Varieties of Democratization](https://www.v-dem.net/en/)
 
