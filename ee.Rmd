@@ -240,7 +240,7 @@ Introduction to [Electoral Laws and Their Political Consequences](http://www.soc
 
 [Votes from Seats: Logical Models of Electoral Systems](https://www.cambridge.org/core/books/votes-from-seats/890D24F8D0DB2FF9CCEA1C77CE4E463F) by Matthew S. Shugart and Rein Taagepera (2018)
 
-General resources on electoral systems:
+General resources on electoral system design and formulae:
 
 [Electoral System Design: The New International IDEA Handbook](https://www.idea.int/sites/default/files/publications/electoral-system-design-the-new-international-idea-handbook.pdf) from International Institute for Democracy and Electoral Assistance (2005)
 
@@ -279,4 +279,3 @@ General resources on electoral systems:
 [VoxEurop](https://voxeurop.eu/en) -- addressing urgent European affairs based in France
 
 [The Calvert Journal](http://www.calvertjournal.com) -- Eastern European culture (music, art, literature, photography, architecture) based in London
-
