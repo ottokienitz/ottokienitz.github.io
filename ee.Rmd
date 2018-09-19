@@ -230,8 +230,6 @@ Introduction to [Electoral Laws and Their Political Consequences](http://www.soc
 
 [Hungary: Holding Back the Tiers](http://www.oxfordscholarship.com.libproxy.berkeley.edu/view/10.1093/0199257566.001.0001/acprof-9780199257560-chapter-11) by Kenneth Benoit (2005)
 
-[Electoral System Design: The New International IDEA Handbook](https://www.idea.int/sites/default/files/publications/electoral-system-design-the-new-international-idea-handbook.pdf) from International Institute for Democracy and Electoral Assistance (2005)
-
 [When Left Is Right: Party Ideology and Policy in Post-Communist Europe](https://www.jstor.org/stable/pdf/27798525.pdf?refreqid=excelsior%3A05303e7876051bc3aa15216b27b93324) by Margit Tavits and Natalia Letki (2009)
 
 [Electoral Rules and Ethnic Representation and Accommodation: Combining Social Choice and Electoral System Perspectives](https://books.google.com/books?hl=en&lr=&id=u68In2tKRwoC&oi=fnd&pg=PA67&dq=Electoral+Rules+and+Ethnic+Representation+and+Accommodation:+Combining+Social+Choice+and+Electoral+System+Perspectives&ots=7oN3VZfBUt&sig=hpCEAYEaczvvO5LZHMhZylLDajA#v=onepage&q&f=false) by Bernard Grofman in O'Leary (2013)
@@ -241,6 +239,14 @@ Introduction to [Electoral Laws and Their Political Consequences](http://www.soc
 [Hoist On Their Own Petards? The Reinvention and Collapse of Authoritarian Successor Parties](http://journals.sagepub.com/doi/abs/10.1177/1354068817740336) by Anna Grzymala-Busse (2017)
 
 [Votes from Seats: Logical Models of Electoral Systems](https://www.cambridge.org/core/books/votes-from-seats/890D24F8D0DB2FF9CCEA1C77CE4E463F) by Matthew S. Shugart and Rein Taagepera (2018)
+
+General resources on electoral systems:
+
+[Electoral System Design: The New International IDEA Handbook](https://www.idea.int/sites/default/files/publications/electoral-system-design-the-new-international-idea-handbook.pdf) from International Institute for Democracy and Electoral Assistance (2005)
+
+[ACE Electoral Knowledge Network](http://aceproject.org/ace-en/topics/es/default)
+
+[WHO GOVERNS in Europe and Beyond: Party Systems and Governments](https://whogoverns.eu/party-systems/effective-number-of-parties/)
 
 ## News
 
