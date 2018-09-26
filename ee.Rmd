@@ -22,7 +22,7 @@ title: "Politics and Government in Eastern Europe"
 
 ---
 
-Readings:
+**Readings:**
 
 Wolchik and Curry, Part I: Introduction (Democracy, the Market, and the Return to Europe: From Communism to the European Union and NATO).
 
@@ -57,7 +57,7 @@ Questions:
 
 ---
 
-Read more: [The Aftermath of the First World War](https://www.bl.uk/world-war-one/articles/aftermath) on the Treaties of Versailles, Saint-Germain, Trianon, Neuilly, Sèvres, and Lausanne.
+**Read more:** [The Aftermath of the First World War](https://www.bl.uk/world-war-one/articles/aftermath) on the Treaties of Versailles, Saint-Germain, Trianon, Neuilly, Sèvres, and Lausanne.
 
 [The Fable of the Fourteen Points: Woodrow Wilson and National Self-Determination](https://scholar.harvard.edu/files/throntveit/files/fable_of_the_fourteen_points_dh_35.3_june_2011.pdf) by Trygve Throntveit (Diplomatic History, 2011)
 
@@ -71,7 +71,7 @@ Connecting politics and history in Eastern Europe: [The Great Divide: Literacy, 
 
 ---
 
-Readings:
+**Readings:**
 
 Richard E. Ericson, “The Classical Soviet-Type Economy: Nature of the System and Implications for Reform,’’ Journal of Economic Perspectives, Vol. 5, No. 4, Fall 1991, pp. 11-27. (You may skip stuff beginning with the “Implications for Reform” section.)
 
@@ -91,6 +91,8 @@ Vladimir Tismaneanu, “Understanding 1989: The Revolutionary Tradition Revisite
 
 ---
 
+**Find out more about the Russian Revolution:**
+
 On the historiography of the Russian Revolutions of 1917: [Kritika Vol. 16, No. 4](https://slavica.indiana.edu/journalListings/kritika/volume16_No4) (2015) 
 
 [In The Footsteps Of Revolution](https://www.rferl.org/a/footsteps-of-1917-revolution/28311776.html) photo essay on the centenary of 1917
@@ -104,6 +106,8 @@ Theory: [Economic Content of Socialism in Lenin: Is It the Same as in Marx?](htt
 Pictures: Soviet youth camps revitalized in contemporary Russia: [a photo essay](https://www.calvertjournal.com/features/show/10625/young-pioneers-soviet-russia-photography)
 
 ---
+
+**Find out more about the Soviet collapse:**
 
 An interview with Berkeley Professor Emeritus [Ken Jowitt](https://conversations.berkeley.edu/jowitt_1999) on his own biography and *The Individual, Charisma and the Leninist Extinction* (1999)
 
@@ -121,7 +125,7 @@ As well as the effect of communism on post-communist political behavior: [Commun
 
 ---
 
-Readings:
+**Readings:**
 
 Wolchik and Curry, Chapter 2 (The Political Transition).
 
@@ -135,7 +139,7 @@ Grzegorz Ekiert, Jan Kubik, and Milada Anna Vachudova, “Democracy in the Post-
 
 ---
 
-Additional readings on democratic institutions and reforms in Eastern Europe:
+**Additional readings on democratic institutions and reforms in Eastern Europe:**
 
 [The State against Society: Political Crises and Their Aftermath in East Central Europe](https://www.jstor.org/stable/j.ctt7rw0f) by Grzegorz Ekiert (1996)
 
@@ -147,9 +151,11 @@ Additional readings on democratic institutions and reforms in Eastern Europe:
 
 [Regime Diversity and Electoral Systems in Post-Communism](https://is.muni.cz/el/1423/jaro2017/POL589/um/Bielasiak.pdf) by Jack Bielasiak (2006)
 
-[Out of the Frying Pan, into the Fire? Post-Soviet Regime Changes in Comparative Perspective](https://www.jstor.org/stable/20445134?seq=1#metadata_info_tab_contents) by Vladimir Gel'man (2008)
+[Out of the Frying Pan, Into the Fire? Post-Soviet Regime Changes in Comparative Perspective](https://www.jstor.org/stable/20445134?seq=1#metadata_info_tab_contents) by Vladimir Gel'man (2008)
 
-Additional readings on economic transitions in Eastern Europe:
+---
+
+**Additional readings on economic transitions in Eastern Europe:**
 
 [Understanding Postcommunist Transitions](https://muse.jhu.edu/article/225365/summary) by Leszek Balcerowicz (1994)
 
@@ -161,11 +167,15 @@ Additional readings on economic transitions in Eastern Europe:
 
 Exploring an economic concept further: [current account deficits](https://mpra.ub.uni-muenchen.de/483/1/MPRA_paper_483.pdf) in Eastern Europe by Aleksander Aristovnik (2006)
 
-[25 Years of Transition: Post-Communist Europe and the IMF](http://www.imf.org/external/region/bal/rr/2014/25_years_of_transition.pdf) Regional Economic Issues Special Report by the IMF (2014)
+*[25 Years of Transition: Post-Communist Europe and the IMF](http://www.imf.org/external/region/bal/rr/2014/25_years_of_transition.pdf) Regional Economic Issues Special Report by the IMF (2014)
 
-GDP Per Capita [Evolution of Central and Eastern European EU Member States](http://statsvault.eu/economy/gdp-per-capita-evolution-of-eu-member-states/) from StatsVault.EU (2017)
+*GDP Per Capita [Evolution of Central and Eastern European EU Member States](http://statsvault.eu/economy/gdp-per-capita-evolution-of-eu-member-states/) from StatsVault.EU (2017)
 
-Classic readings on democratic institutions and reforms:
+*Economic [Transition Report 2016-17](https://www.ebrd.com/transition-report) from the European Bank for Reconstruction and Development (EBRD: 2017)
+
+---
+
+**Classic readings on democratic institutions and reforms:**
 
 [The Perils of Presidentialism](https://scholar.harvard.edu/levitsky/files/1.1linz.pdf) by Juan J. Linz (1990)
 
@@ -181,7 +191,7 @@ Classic readings on democratic institutions and reforms:
 
 ---
 
-Readings:
+**Readings:**
 
 Wolchik and Curry, Chapter 6 (Transitional Justice and Memory).
 
@@ -201,7 +211,7 @@ What side of the debate do you support: justice or revenge?
 
 ---
 
-Additional readings on transitional justice:
+**Additional readings on transitional justice:**
 
 The Haunted Land: Facing Europe's Ghosts After Communism [Book Review](https://archive.nytimes.com/www.nytimes.com/books/98/12/06/specials/rosenberg-haunted.html) by Tina Rosenberg (1995)
 
@@ -218,7 +228,9 @@ Monika Nalepa's [response](https://www.cambridge.org/core/services/aop-cambridge
 
 Social media: follow foreign correspondent [Leonid Ragozin](https://twitter.com/leonidragozin/status/1041866893865439233)'s recollection of historical memory, family, and perpetration on both sides of his family tree.
 
-Additional readings on electoral systems and party systems in Eastern Europe:
+---
+
+**Additional readings on electoral systems and party systems in Eastern Europe:**
 
 Introduction to [Electoral Laws and Their Political Consequences](http://www.socsci.uci.edu/~bgrofman/R21%20Grofman%20and%20Lijphart.%201986.%20Intro%20to%20%20Electoral%20Laws....pdf) by Arend Lijphart and Bernard Grofman (1986)
 
@@ -234,17 +246,21 @@ Introduction to [Electoral Laws and Their Political Consequences](http://www.soc
 
 [Hungary: Holding Back the Tiers](http://www.oxfordscholarship.com.libproxy.berkeley.edu/view/10.1093/0199257566.001.0001/acprof-9780199257560-chapter-11) by Kenneth Benoit (2005)
 
-[When Left Is Right: Party Ideology and Policy in Post-Communist Europe](https://www.jstor.org/stable/pdf/27798525.pdf?refreqid=excelsior%3A05303e7876051bc3aa15216b27b93324) by Margit Tavits and Natalia Letki (2009)
+*[When Left Is Right: Party Ideology and Policy in Post-Communist Europe](https://www.jstor.org/stable/pdf/27798525.pdf?refreqid=excelsior%3A05303e7876051bc3aa15216b27b93324) by Margit Tavits and Natalia Letki (2009)
 
 [Electoral Rules and Ethnic Representation and Accommodation: Combining Social Choice and Electoral System Perspectives](https://books.google.com/books?hl=en&lr=&id=u68In2tKRwoC&oi=fnd&pg=PA67&dq=Electoral+Rules+and+Ethnic+Representation+and+Accommodation:+Combining+Social+Choice+and+Electoral+System+Perspectives&ots=7oN3VZfBUt&sig=hpCEAYEaczvvO5LZHMhZylLDajA#v=onepage&q&f=false) by Bernard Grofman in O'Leary (2013)
 
-[Analyzing the Dynamics of Post-Communist Party Systems](http://journals.sagepub.com/doi/abs/10.1177/0888325414567327) by Herbert Kitschelt (2015)
+*[Analyzing the Dynamics of Post-Communist Party Systems](http://journals.sagepub.com/doi/abs/10.1177/0888325414567327) by Herbert Kitschelt (2015)
 
-[Hoist On Their Own Petards? The Reinvention and Collapse of Authoritarian Successor Parties](http://journals.sagepub.com/doi/abs/10.1177/1354068817740336) by Anna Grzymala-Busse (2017)
+Looking ahead: [Populism in Central and Eastern Europe](http://www.oxfordhandbooks.com.libproxy.berkeley.edu/view/10.1093/oxfordhb/9780198803560.001.0001/oxfordhb-9780198803560-e-6?print=pdf) by Ben Stanley (OUP: 2017)
+
+*[Hoist On Their Own Petards? The Reinvention and Collapse of Authoritarian Successor Parties](http://journals.sagepub.com/doi/abs/10.1177/1354068817740336) by Anna Grzymala-Busse (2017)
 
 [Votes from Seats: Logical Models of Electoral Systems](https://www.cambridge.org/core/books/votes-from-seats/890D24F8D0DB2FF9CCEA1C77CE4E463F) by Matthew S. Shugart and Rein Taagepera (2018)
 
-General resources on electoral system design and formulae:
+---
+
+**General resources on electoral system design and formulae:**
 
 [Electoral System Design: The New International IDEA Handbook](https://www.idea.int/sites/default/files/publications/electoral-system-design-the-new-international-idea-handbook.pdf) from International Institute for Democracy and Electoral Assistance (2005)
 
@@ -252,12 +268,15 @@ General resources on electoral system design and formulae:
 
 [WHO GOVERNS in Europe and Beyond: Party Systems and Governments](https://whogoverns.eu/party-systems/effective-number-of-parties/)
 
+---
+
 Comedy: John Oliver on the [Hungarian Party System](https://www.youtube.com/watch?v=LSmcW669sOs&frags=pl%2Cwn)
+
+---
 
 *New* Read: [The State as a Firm: Understanding the Autocratic Roots of Technocratic Populism](http://journals.sagepub.com/doi/pdf/10.1177/0888325418791723) by Lenka Buštíková and Petra Guasti
 
 Abstract: *Why, when, and how does populism emerge in a stable democracy? This article investigates the political logic and ideological appeal of a rarely explored form of populism: technocratic populism. Technocratic populism uses the appeal of technical expertise to connect directly with the people, promising to run the state as a firm, while at the same time delegitimizing political opponents and demobilizing the electorate by instilling civic apathy. Technocratic populism is an anti-elite ideology that exploits competence to create the appearance of authenticity and proximity to ordinary people. It is less exclusionary than nativist or economic forms of populisms and its broad appeal is therefore arguably more threatening to representative democracy. In order to understand the appeal of technocratic populism, as well as why it arises at critical junctures when dominant ideologies are in turmoil, we argue that one must not ignore its historical roots, which shows that it transcends both regime changes and the traditional left–right divide. The article develops and examines these points using evidence from communist-era populist campaigns against “elitist” dissidents (from Charter 77) in the Czech Republic, and demonstrates how post-1989 politicians have exploited and also adapted ideas and strategies from the authoritarian past for the new democratic setting. The article highlights the adaptive character of technocratic populism across political regimes.*
-
 
 ## News
 
