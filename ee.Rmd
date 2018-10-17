@@ -308,7 +308,7 @@ Dena Ringold, “Roma and the Transition in Central and Eastern Europe: Trends a
 
 **On Ethnicity and Nationalism:**
 
-Benedict Anderson [Imagined Communities](https://www2.bc.edu/marian-simion/th406/readings/0420anderson.pdf) [(summary)](http://www.nationalismproject.org/what.htm) (1983)
+Benedict Anderson on [Imagined Communities](https://www2.bc.edu/marian-simion/th406/readings/0420anderson.pdf) [(summary)](http://www.nationalismproject.org/what.htm) (1983)
 
 Ernest Gellner on [Defining "nation"](http://www.nationalismproject.org/what/gellner2.htm) (1983)
 
@@ -324,7 +324,7 @@ Brendan O'Leary on Ernest Gellner's [theories of nationalism](http://www.polisci
 
 [Poverty and Ethnicity: A Cross-Country Study of Roma Poverty in Central Europe](https://elibrary.worldbank.org/doi/abs/10.1596/0-8213-5339-X) by Ana Revenga et al. (2002)
 
-Video: Marci Shore on [The Totalitarian Legacy in the Post-Modern World](https://www.youtube.com/watch?v=mJIwRgF02eo&frags=pl%2Cwn) (2016)
+*Video: Marci Shore on [The Totalitarian Legacy in the Post-Modern World](https://www.youtube.com/watch?v=mJIwRgF02eo&frags=pl%2Cwn) (2016)
 
 [‘We don’t talk Gypsy here’: Minority language policies in Europe](https://www.degruyter.com/downloadpdf/j/jolace.2017.5.issue-2/jolace-2017-0015/jolace-2017-0015.pdf) by William S. New, Hristo Kyuchukov, and Jill de Villiers (2017)
 
@@ -361,3 +361,5 @@ Video: Marci Shore on [The Totalitarian Legacy in the Post-Modern World](https:/
 [VoxEurop](https://voxeurop.eu/en) -- addressing urgent European affairs based in France
 
 [The Calvert Journal](http://www.calvertjournal.com) -- Eastern European culture (music, art, literature, photography, architecture) based in London
+
+[Eurozine](https://www.eurozine.com) -- "Europe’s leading cultural magazines at your fingertips"
