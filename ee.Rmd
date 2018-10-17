@@ -18,7 +18,7 @@ title: "Politics and Government in Eastern Europe"
 
 ---
 
-<font color="#d2a107"><h4>*Topic 1*</h4></font>
+<font color="#d2a107"><h4>*Topic 1: Why Eastern Europe?*</h4></font>
 
 ---
 
@@ -67,7 +67,7 @@ Connecting politics and history in Eastern Europe: [The Great Divide: Literacy, 
 
 ---
 
-<font color="#d2a107"><h4>*Topic 2*</h4></font>
+<font color="#d2a107"><h4>*Topic 2: State-Socialism and Its Collapse*</h4></font>
 
 ---
 
@@ -121,7 +121,7 @@ As well as the effect of communism on post-communist political behavior: [Commun
 
 ---
 
-<font color="#d2a107"><h4>*Topic 3*</h4></font>
+<font color="#d2a107"><h4>*Topic 3: Creating Democracy and Capitalism? Political and Economic Transitions*</h4></font>
 
 ---
 
@@ -187,7 +187,7 @@ Exploring an economic concept further: [current account deficits](https://mpra.u
 
 ---
 
-<font color="#d2a107"><h4>*Topic 4*</h4></font>
+<font color="#d2a107"><h4>*Topic 4: Accounting for the Past? Transitional Justice*</h4></font>
 
 ---
 
@@ -292,7 +292,7 @@ More on contemporary Bulgaria: [Bulgaria’s Autocratic Model](http://neweastern
 
 ---
 
-<font color="#d2a107"><h4>*Topic 5*</h4></font>
+<font color="#d2a107"><h4>*Topic 5: Ethnicity and Nationalism*</h4></font>
 
 ---
 
@@ -332,7 +332,7 @@ Brendan O'Leary on Ernest Gellner's [theories of nationalism](http://www.polisci
 
 ---
 
-<font color="#d2a107"><h4>*How to keep track of (Eastern) European politics:*</h4></font>
+<font color="#d2a107"><h4>*Keeping track of (Eastern) European politics:*</h4></font>
 
 ---
 
@@ -363,3 +363,17 @@ Brendan O'Leary on Ernest Gellner's [theories of nationalism](http://www.polisci
 [The Calvert Journal](http://www.calvertjournal.com) -- Eastern European culture (music, art, literature, photography, architecture) based in London
 
 [Eurozine](https://www.eurozine.com) -- "Europe’s leading cultural magazines at your fingertips"
+
+## Writing
+
+---
+
+<font color="#d2a107"><h4>*Writing Resources:*</h4></font>
+
+---
+
+[Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
+
+[Research Writing Calculator](https://www.lib.umn.edu/ac/research-paper?d=2018-10-09.2018-11-20)
+
+[Three Templates for Introductions to Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew Little (2016)
