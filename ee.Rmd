@@ -145,6 +145,8 @@ Grzegorz Ekiert, Jan Kubik, and Milada Anna Vachudova, “Democracy in the Post-
 
 *[A Politics of Institutional Choice: Post-Communist Presidencies](http://journals.sagepub.com/doi/10.1177/0010414097030005001) by Timothy Frye (1997)
 
+[After the Break-Up: Institutional Design in Transitional States](http://journals.sagepub.com/doi/10.1177/0010414000033005001) by Pauline Jones Luong (2000)
+
 [Reconceptualizing the State: Lessons from Post-Communism](http://journals.sagepub.com/doi/abs/10.1177/0090591702030004002) by Anna Grzymala-Busse and Pauline Jones Luong (2002)
 
 [The Russian Predicament: A Fresh Look at Semipresidentialism](https://muse.jhu.edu/article/185266/pdf) by Timothy J. Colton and Cindy Skach (2006)
@@ -327,6 +329,62 @@ Brendan O'Leary on Ernest Gellner's [theories of nationalism](http://www.polisci
 *Video: Marci Shore on [The Totalitarian Legacy in the Post-Modern World](https://www.youtube.com/watch?v=mJIwRgF02eo&frags=pl%2Cwn) (2016)
 
 [‘We don’t talk Gypsy here’: Minority language policies in Europe](https://www.degruyter.com/downloadpdf/j/jolace.2017.5.issue-2/jolace-2017-0015/jolace-2017-0015.pdf) by William S. New, Hristo Kyuchukov, and Jill de Villiers (2017)
+
+---
+
+<font color="#d2a107"><h4>*Topic 6: Defeating Autocratic Incumbents*</h4></font>
+
+---
+
+**Readings:**
+
+Wolchik and Curry, Chapter 17 (Ukraine).
+
+Valerie J. Bunce and Sharon L. Wolchik, “International Diffusion and Post-Communist Electoral Revolutions,” Communist and Post-Communist Studies 39 (2006), pp. 283-304.
+
+Lucan Way, “The Real Causes of the Color Revolutions,” Journal of Democracy, Vol. 19, No. 3, July 2008, pp. 55-69.
+
+Valerie Bunce and Sharon Wolchik, "Getting Real About ‘Real Causes", Journal of Democracy, Vol. 20, No. 1, January 2009, pp. 69-73.
+
+---
+
+**More famous arguments about hybrid regimes and electoral manipulation**
+
+[The Menu of Manipulation](https://muse.jhu.edu/article/17201) by Andreas Schedler (2002)
+
+*[Regime Cycles: Democracy, Autocracy, and Revolution in Post-Soviet Eurasia](https://www.jstor.org/stable/40060127?seq=1#metadata_info_tab_contents) by Henry Hale (2005)
+
+[Authoritarian State Building and the Sources of Regime Competitiveness in the Fourth Wave: The Cases of Belarus, Moldova, Russia, and Ukraine](https://www.jstor.org/stable/25054293?seq=1#metadata_info_tab_contents) by Lucan Way (2005)
+
+[Ukraine's Orange Revolution](https://heinonline.org/HOL/Page?handle=hein.journals/fora84&div=30&g_sent=1&casa_token=Uy5lxvP7upIAAAAA:LU1RjT_MdSu0J1IPl15pnOS2Zaw3cz0xOLtzgRla0FPlf7AfQzcGS_B1mWQ_vgdqs9vuGNM5Yw&collection=journals#) by Adrian Karatnycky (2005)
+
+[Presidential Seat or Padishah's Throne?: The Distinctive Features of Supreme Power in Central Asian States](https://www.tandfonline.com/doi/abs/10.2753/RUP1061-1940450401) by Adzhar Kurtov (2007)
+
+[Elections and Political Development in Central Asia](https://www.tandfonline.com/doi/abs/10.1080/13523279708415359?journalCode=fjcs20) by John Anderson (2007)
+
+[Elections Under Authoritarianism](https://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.11.060106.095434) by Jennifer Gandhi and Ellen Lust-Okar (2009)
+
+[Electoral Protests and Democratization Beyond the Color Revolutions](http://journals.sagepub.com/doi/abs/10.1177/0010414009332131?casa_token=hozptZ02r3AAAAAA:kmvtrlMpvTBOfVb3yVSIFQeiD3KDYL8sOBY57FeC4WyyFmLOwWsJY7_qx6vkpJvXnP50D5SxvK632w) by Katya Kalandadze and Mitchell Orenstein (2009)
+
+[Competitive Authoritarianism: Hybrid Regimes after the Cold War](https://www.cambridge.org/core/books/competitive-authoritarianism/20A51BE2EBAB59B8AAEFD91B8FA3C9D6) [(Introduction)](http://scholar.harvard.edu/files/levitsky/files/SL_elections.pdf) by Steven Levitsky and Lucan Way (2012)
+
+[The Era of Electoral Authoritarianism](https://www.cambridge.org/core/journals/world-politics/article/the-era-of-electoral-authoritarianism/207FD78FC7E5A3A9B2C6BD7FC1194559) Review Essay by Yonatan L. Morse (2012)
+
+[Kyrgyzstan: A Parliamentary System Based on Inter-Elite Consensus](http://demokratizatsiya.pub/archives/20_4_G68164810860GH57.pdf) by Erica Marat (2012)
+
+[The Semblance of Democratic Revolution: Coalitions in Ukraine's Orange Revolution](https://www.cambridge.org/core/journals/american-political-science-review/article/semblance-of-democratic-revolution-coalitions-in-ukraines-orange-revolution/53FF5C5F3DA120ED4E0809B25999E0EF) by Mark Beissinger (2013)
+
+[Cracks in the Wall: Challenges to Electoral Authoritarianism in Russia](https://www.tandfonline.com/doi/abs/10.2753/PPC1075-8216600201) by Vladimir Gel'man (2013)
+
+[Patronal Politics: Eurasian Regime Dynamics in Comparative Perspective](https://www.cambridge.org/core/books/patronal-politics/4C1B4D49A7F17739E75A5AB7B66E2115) by Henry Hale (2014)
+
+[Electoral Manipulation as Bureaucratic Control](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12122) by Scott Gelbach and Alberto Simpser (2014)
+
+*[Pluralism by Default: Weak Autocrats and the Rise of Competitive Politics](https://muse.jhu.edu/book/43833) by Lucan Way (2015)
+
+[Deliver the Vote! Micromotives and Macrobehavior in Electoral Fraud](https://www.cambridge.org/core/journals/american-political-science-review/article/deliver-the-vote-micromotives-and-macrobehavior-in-electoral-fraud/348D3A1DB751D4D4C91ABCDE2056F15E) by Ashlea Rundlett and Milan Svolik (2016)
+
+*[25 Years After the USSR: What’s Gone Wrong?](https://www.journalofdemocracy.org/article/25-years-after-ussr-what’s-gone-wrong) by Henry Hale (2016)
 
 ## News
 
