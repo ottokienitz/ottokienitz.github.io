@@ -4,10 +4,11 @@ title: "Politics and Government in Eastern Europe"
 
 <br>
 
-<img align="center" src="images/horse.jpg" width = "750">
+<img align="center" src="images/horse.jpg" width = "650">
 
 *A wave-swept shore, remote, forlorn / here he stood, rapt in thought and drawn / to distant prospects.*
-*The Bronze Horseman, Alexander Pushkin (1837)*
+
+*The Bronze Horseman, Alexander Pushkin (1837) Photo from Senatskaya Ploshchad, St. Petersburg (2018)*
 
 <br>
 
@@ -28,6 +29,7 @@ Wolchik and Curry, Part I: Introduction (Democracy, the Market, and the Return t
 ---
 
 *The East-West border is always wandering, sometimes eastward, sometimes west, and we do not know exactly where it is just now...*
+
 (Jaan Kaplinski, 1987)
 
 Geo-political framing and the ethno-national imagination (i.e. "historical mythology")
@@ -45,7 +47,7 @@ Why study Eastern Europe?
 * Corruption
 * Geopolitics (EU and Russia)
 * Parties and populism
-* Variation
+* Variation across *time* and *space*
 
 Questions:
 

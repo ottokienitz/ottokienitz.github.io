@@ -12,7 +12,7 @@ title: "Data and Sources"
 
 [Google "Dataset" Search Engine (Beta)](https://toolbox.google.com/datasetsearch)
 
-[Varieties of Democratization](https://www.v-dem.net/en/)
+[Varieties of Democratization (V-Dem)](https://www.v-dem.net/en/)
 
 [European Election Database](http://www.nsd.uib.no/european_election_database/about/)
 
