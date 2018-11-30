@@ -12,6 +12,20 @@ title: "Diversify Your Mind"
 
 [Ed Rubin's Useful Links](http://edrub.in/links.html) -- "useful and/or interesting links for research/productivity/fun" and the inspiration for this website
 
+---
+
+[Bear Market Brief](https://twitter.us13.list-manage.com/subscribe?u=3b0ef1746b4ae1af4ff5a7544&id=928ed11748) -- sign up for the best e-mailing list-serv for your daily dose of in-depth Russian politics
+
+[The Moscow Times' Michelle Berdy Exploring the Russian Language](https://themoscowtimes.com/authors/18) -- learn the ins and outs of завораживающие Russian phrases
+
+[The Village (in Russian)](https://www.the-village.ru) -- what is going on in your favorite Russian city today? tomorrow? this weekend?
+
+[The Calvert Journal](https://www.calvertjournal.com) -- explore post-Soviet culture through music, art, literature, photography, and architecture
+
+[Soviet Jokes Collected and De-Classified by the CIA](https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf) -- a good government-endorsed laugh
+
+---
+
 [NPR Tiny Desk](https://www.npr.org/series/tiny-desk-concerts/) -- discover new live music or listen to your favorite artists navigate the acoustic world!
 - [Mumu Fresh Feat. Black Thought](https://www.youtube.com/watch?v=ivR988qCPik&frags=pl%2Cwn)
 - [Saba](https://www.youtube.com/watch?v=LTzmjU8aOR4)
@@ -38,39 +52,44 @@ title: "Diversify Your Mind"
 - [Rhye](https://www.youtube.com/watch?v=YkkKUARRpeU&frags=pl%2Cwn)
 - [Jorja Smith](https://www.youtube.com/watch?v=yXrlhebkpIQ&frags=pl%2Cwn)
 
-[BBC Radio 1Xtra](https://www.bbc.co.uk/1xtra) -- the UK is where radio is still alive and thrives!
+[BBC Radio 1Xtra](https://www.bbc.co.uk/1xtra) -- the UK is where radio is still alive and thrives
 
 [COLORS](https://www.youtube.com/channel/UC2Qw1dzXDBAZPwS7zm37g8g) -- "a unique aesthetic music platform showcasing exceptional talent from all around the globe, focused on promoting the most distinctive new artists"
+- [James Vickery](https://www.youtube.com/watch?v=ivR988qCPik&frags=pl%2Cwn)
+- [Dennis Lloyd](https://www.youtube.com/watch?v=WYeAUpvWeI8)
+- [Angèle](https://www.youtube.com/watch?v=XQKYEs4llzg)
+- [Parcels](https://www.youtube.com/watch?v=bJl-avjRgzU)
+- [Masego](https://www.youtube.com/watch?v=fuAE3U1NvOs)
+- [Sampa the Great](https://www.youtube.com/watch?v=MddG0quhiFY)
+- [Snoh Aalegra](https://www.youtube.com/watch?v=ElINqEyx7GM)
+- [Mahalia](https://www.youtube.com/watch?v=QK7JQl9jNzM)
+- [Jaz Karis](https://www.youtube.com/watch?v=6zMgQMEqga8)
 
-[Music & Literature](http://www.musicandliterature.org) -- formally *post-modern* scholarship on the intersections between music and literature!
+[Music & Literature](http://www.musicandliterature.org) -- formally *post-modern* scholarship on the intersections between music and literature
 
-[Bear Market Brief](https://twitter.us13.list-manage.com/subscribe?u=3b0ef1746b4ae1af4ff5a7544&id=928ed11748) -- sign up for the best e-mailing list-serv for your daily dose of in-depth Russian politics!
+---
 
-[The Moscow Times' Michelle Berdy Exploring the Russian Language](https://themoscowtimes.com/authors/18) -- learn the ins and outs of завораживающие Russian phrases!
+[PennSound](http://writing.upenn.edu/pennsound/) -- find your favorite or an obscure poet read and discuss their work
 
-[Soviet Jokes Collected and De-Classified by the CIA](https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf) -- a good government-endorsed laugh!
+[Jacket2](http://jacket2.org) -- keep the pulse on modern and contemporary poetry and poetics
 
-[The Village (in Russian)](https://www.the-village.ru) -- what is going on in your favorite Russian city today? tomorrow? this weekend?
+[George Lakoff's Blog](https://georgelakoff.com/blog/) -- George Lakoff on cognitive science, linguistics, and the "moral politics" of the day
 
-[PennSound](http://writing.upenn.edu/pennsound/) -- find your favorite or an obscure poet read and discuss their work!
+[Lazarus Text Mixing Desk](http://www.lazaruscorporation.co.uk/cutup/text-mixing-desk) -- paste in your text and let modernism do the rest
 
-[Jacket2](http://jacket2.org) -- keep the pulse on modern and contemporary poetry and poetics!
+---
 
-[George Lakoff's Blog](https://georgelakoff.com/blog/) -- George Lakoff on cognitive science, linguistics, and the "moral politics" of the day!
+["Tips for talking about your work with people you run into in the hallway at conferences"](https://docs.google.com/document/d/1ND_wS2WnhP3D11juKdJ4OoD5-sUwIWtwKmaA7ip_ESk/edit) -- how to share your work with others by Hakeem Jefferson
 
-[Lazarus Text Mixing Desk](http://www.lazaruscorporation.co.uk/cutup/text-mixing-desk) -- paste in your text and let modernism do the rest!
+[Ed Rubin's Tutorial on Spatial Data](http://edrub.in/ARE212/section12.html) -- making sense of and manipulating spatial data in R straight from the source
 
-[The Calvert Journal](https://www.calvertjournal.com) -- explore post-Soviet culture through music, art, literature, photography, and architecture
+---
 
-[SF Eater](https://sf.eater.com) -- where to eat in SF / East Bay
+[SF Eater](https://sf.eater.com) -- where to eat in SF-Bay Area-Berkeley-Oakland
 
-[Imperfect Produce](https://www.imperfectproduce.com/home.php) -- reduced price veggies!
+[Imperfect Produce](https://www.imperfectproduce.com/home.php) -- reduced price veggies
 
-[The Graphic Arts Loan Collection at the Morrison Library](http://galc.lib.berkeley.edu) -- rent artwork at Berkeley!
-
-["Tips for talking about your work with people you run into in the hallway at conferences" by Hakeem Jefferson](https://docs.google.com/document/d/1ND_wS2WnhP3D11juKdJ4OoD5-sUwIWtwKmaA7ip_ESk/edit) -- how to share your work with others!
-
-[Ed Rubin's Tutorial on Spatial Data](http://edrub.in/ARE212/section12.html) -- making sense of and manipulating spatial data in R straight from the source!
+[The Graphic Arts Loan Collection at the Morrison Library](http://galc.lib.berkeley.edu) -- rent artwork at Berkeley
 
 ---
 

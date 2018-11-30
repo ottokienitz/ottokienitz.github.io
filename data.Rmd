@@ -24,6 +24,8 @@ title: "Data and Sources"
 
 [Politics Through Time](https://historicalelections.fas.harvard.edu)
 
+[The Imperiia Project](https://scholar.harvard.edu/koneill/imperiia-project)
+
 [Levada Center](http://www.levada.ru/en/)
 
 ВЦИОМ [Russian Public Opinion Research Center (in Russian)](https://wciom.ru/)
