@@ -52,7 +52,7 @@ Fish (2018) — What Has Russia Become?
 
 Taylor (2018) — The Code of Putinism
 
-Treisman Ed. (2018) — The New Autocracy: Information, Politics, and Policy in Putin’s Russia
+Treisman, Ed. (2018) — The New Autocracy: Information, Politics, and Policy in Putin’s Russia
 
 __Electoral Dynamics__
 
@@ -240,6 +240,8 @@ McFaul (2005) — Transitions from Post-Communism
 
 Way (2005) — Authoritarian State-Building and the Sources of Regime Competitiveness in the Fourth Wave: The Cases of Belarus, Moldova, Russia, and Ukraine
 
+Bielasiak (2006) — Regime Diversity and Electoral Systems in Post-Communism
+
 Bunce & Wolchik (2006) — International Diffusion and Postcommunist Electoral Revolutions
 
 Darden (2007) — The Integrity of Corrupt States: Graft as an Informal State Institution
@@ -282,6 +284,8 @@ Libman and Obydenkova (2018) — Understanding Authoritarian Regionalism
 
 __Eastern Europe__
 
+Havel (1978) — The Power of the Powerless
+
 Kuran (1991) — Now Out of Never: The Element of Surprise in the Eastern European Revolutions of 1989
 
 Kitschelt (1992) — The Formation of Party Systems in East Central Europe
@@ -290,17 +294,25 @@ Ekiert (1996) — The State Against Society: Political Crises and Their Aftermat
 
 Moser (1999) — Electoral Systems and the Number of Parties in Postcommunist States
 
+Zielonka, Ed. (2001) — Democratic Consolidation in Eastern Europe Volume 1: Institutional Engineering
+
 Morje Howard (2002) — The Weakness of Postcommunist Civil Society
 
 Ekiert (2003) — Patterns of Postcommunist Transformation in Central and Eastern Europe
 
 Kitschelt (2003) — Accounting for Postcommunist Regime Diversity
 
+Appel (2005) — Anti-Communist Justice and Founding the Post-Communist Order: Lustration and Restitution in Central Europe
+
 Ganev (2005) — Post-Communism as an Episode of State Building: A Reversed Tillyan Perspective 
+
+Vachudova (2005) — Europe Undivided: Democracy, Leverage, and Integration After Communism
 
 Gryzmala-Busse (2006) — The Discreet Charm of Formal Institutions: Postcommunist Party Competition and State Oversight
 
 Gryzmala-Busse (2007) — Rebuilding Leviathan: Party Competition and State Exploitation in Post-Communist Democracies
+
+Krastev (2007) — The Strange Death of the Liberal Consensus
 
 Tavits & Letki (2009) — When Left Is Right: Party Ideology and Policy in Post-Communist Europe 
 
@@ -310,21 +322,31 @@ Grzymala-Busse (2011) — Why There Is (Almost) No Christian Democracy in Post-C
 
 Scheppele (2013) — The Rule of Law and the Frankenstate: Why Governance Checklists Do Not Work
 
+Tismaneanu (2014) — Understanding 1989: The Revolutionary Tradition Revisited
+
 Tóka (2014) — Constitutional Principles and Electoral Democracy in Hungary
 
 Grzymala-Busse (2015) — Thy Will Be Done? Religious Nationalism and Its Effects in East Central Europe
 
-Kitschelt (2015) — Analyzing the Dynamics of Post- Communist Party Systems:
+Kitschelt (2015) — Analyzing the Dynamics of Post-Communist Party Systems
+
+Orenstein (2015) — Geopolitics of a Divided Europe
 
 Rovny (2015) — Party Competition Structure in Eastern Europe: Aggregate Uniformity versus Idiosyncratic Diversity? 
 
 Scheppele (2015) — Understanding Hungary’s Constitutional Revolution
+
+Dawson & Hanley (2016) — The Fading Mirage of the "Liberal Consensus"
+
+Magyar (2016) — Post-Communist Mafia State: The Case of Hungary
 
 Ahlquist, Ichino, Wittenberg & Ziblatt (2017) — How Do Voters Perceive Changes to the Rules of the Game? Evidence from the 2014 Hungarian Elections
 
 Ekiert, Kubik, & Wenzel (2017) — Civil Society and Three Dimensions of Inequality in Post-1989 Poland
 
 Grzymala-Busse (2017) — Hoist on Their Own Petards? The Reinvention and Collapse of Authoritarian Successor Parties
+
+Keleman (2017) — Europe’s Other Democratic Deficit: National Authoritarianism in Europe’s Democratic Union
 
 Bogaards (2018) — De-Democratization in Hungary: Diffusely Defective Democracy
 
@@ -334,7 +356,11 @@ Bustikova & Gusati (2018) — The State as a Firm: Understanding the Autocratic 
 
 Grzymala-Busse & Slater (2018) — Making Godly Nations: Church-State Pathways in Poland and the Philippines
 
+Krastev & Holmes (2018) — Imitation and Its Discontents
+
 Mares & Young (2018) — The Core Voter’s Curse: Clientelistic Threats and Promises in Hungarian Elections
+
+Sadurski (2018) — How Democracy Dies (in Poland): A Case Study of Anti-Constitutional Populist Backsliding
 
 Stanley (2018) — A New Populist Divide? Correspondences of Supply and Demand in the 2015 Polish Parliamentary Elections
 
@@ -362,7 +388,7 @@ Howe (2017) — Habsburg Legacies and the Fate of Consociationalism in Interwar 
 
 Kopstein & Wittenberg (2018) — Intimate Violence: Anti-Jewish Pogroms on the Eve of the Holocaust
 
-Lankina & Libman (2019) — Soviet Legacies of Economic Development, Oligarchic Rule and Electoral Quality in Eastern Europe’s Partial Democracies: The Case of Ukraine (*Historical Legacies)
+Lankina & Libman (2019) — Soviet Legacies of Economic Development, Oligarchic Rule and Electoral Quality in Eastern Europe’s Partial Democracies: The Case of Ukraine
 
 __CPE__
 
