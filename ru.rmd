@@ -272,20 +272,6 @@ Hanson (2017) — The Evolution of Regimes: What Can Twenty-Five Years of Post-S
 
 Libman and Obydenkova (2018) — Understanding Authoritarian Regionalism
 
-__Central Asia__
-
-Anderson (1997) — Elections and Political Development in Central Asia
-
-Collins (2004) — The Logic of Clan Politics: Evidence from the Central Asian Trajectories
-
-Luong (2004) — Institutional Change and Political Continuity in Post-Soviet Central Asia
-
-Kurtov (2007) — Presidential Seat or Padishah's Throne?: The Distinctive Features of Supreme Power in Central Asian States
-
-Radnitz (2010) — Weapons of the Wealthy: Predatory Regimes and Elite-Led Protests in Central Asia
-
-Marat (2012) — Kyrgyzstan: a Parliamentary system Based on inter-elite Consensus
-
 
 
 ## Eastern Europe
@@ -324,7 +310,7 @@ Grzymala-Busse (2011) — Why There Is (Almost) No Christian Democracy in Post-C
 
 Scheppele (2013) — The Rule of Law and the Frankenstate: Why Governance Checklists Do Not Work
 
-Toka (2014) — Constitutional Principles and Electoral Democracy in Hungary
+Tóka (2014) — Constitutional Principles and Electoral Democracy in Hungary
 
 Grzymala-Busse (2015) — Thy Will Be Done? Religious Nationalism and Its Effects in East Central Europe
 
@@ -389,6 +375,42 @@ Orenstein (1999) —How Politics and Institutions Affect Pension Reform in Three
 Tucker (2006) — Regional Economic Voting: Russia, Poland, Hungary, Slovakia, and the Czech Republic, 1990–1999
 
 Kaufman (2007) — Market Reform and Social Protection: Lessons from the Czech Republic, Hungary, and Poland
+
+Johnson (2016) — Priests of Prosperity: How Central Bankers Transformed the Postcommunist World
+
+Wilson Sohkey (2017) — The Political Economy of Pension Policy Reversal in Post-Communist Countries
+
+
+
+## Central Asia
+
+<font color="#517CDE"><h4>*Central Asia*</h4></font>
+
+---
+
+__Central Asia__
+
+Anderson (1997) — Elections and Political Development in Central Asia
+
+Collins (2004) — The Logic of Clan Politics: Evidence from the Central Asian Trajectories
+
+Luong (2004) — Institutional Change and Political Continuity in Post-Soviet Central Asia
+
+Cummings (2005) — Kazakhstan: Power and the Elite
+
+Kurtov (2007) — Presidential Seat or Padishah's Throne?: The Distinctive Features of Supreme Power in Central Asian States
+
+Schatz (2009) — The Soft Authoritarian Tool Kit: Agenda-Setting Power in Kazakhstan and Kyrgyzstan
+
+Radnitz (2010) — Weapons of the Wealthy: Predatory Regimes and Elite-Led Protests in Central Asia
+
+Ziegler (2010) — Civil Society, Political Stability, and State Power in Central Asia: Cooperation and Contestation
+
+Marat (2012) — Kyrgyzstan: a Parliamentary system Based on inter-elite Consensus
+
+Ó Beacháin & Kevlihan (2015) — Imagined Democracy? Nation-Building and Elections in Central Asia
+
+Spector (2017) — Order at the Bazaar: Power and Trade in Central Asia
 
 
 
