@@ -80,9 +80,13 @@ Frye, Reuter, and Szakonyi (2014) — Political Machines at Work: Voter Mobiliza
 
 Reuter et al. (2016) — Local Elections in Authoritarian Regimes: An Elite-Based Theory With Evidence From Russian Mayoral Elections
 
+Reuter & Beazer (2016) — Who’s to Blame? Political Centralization and Electoral Punishment under Authoritarianism"
+
 Gorokhovskaia (2017) — Testing for Sources of Electoral Competition under Authoritarianism: An Analysis of Russia’s Gubernatorial Elections
 
 Reuter (2017) — The Origins of Dominant Parties: Building Authoritarian Institutions in Post-Soviet Russia
+
+Reuter & Szakonyi (2018) — Elite Defection under Autocracy: Evidence from Russia
 
 __Social Dynamics__
 
@@ -95,6 +99,8 @@ Chaisty and Whitfield (2013) — Forward to Democracy or Back to Authoritarianis
 Triesman (2014) — Putin's Popularity Since 2010: Why Did Support for the Kremlin Plunge, Then Stabilize?
 
 Gontmakher & Ross (2015) — The Middle Class and Democratization in Russia
+
+Frye, Gelbach, Marquardt & Reuter (2017) — Is Putin’s Popularity Real?
 
 Greene & Robertson (2017) — Agreeable Authoritarians: Personality and Politics in Contemporary Russia
 
@@ -195,6 +201,8 @@ Yakovlev (2006) — The Evolution of Business-State Interaction in Russia: From 
 Aslund (2007) — How Capitalism Was Built: The Transformation of Central and Eastern Europe, Russia, and Central Asia
 
 Triesman (2010) — Is Russia Cursed by Oil?
+
+Ross (2015) — What Have We Learned about the Resource Curse?
 
 Miller (2016) — The Struggle to Save the Soviet Economy
 
