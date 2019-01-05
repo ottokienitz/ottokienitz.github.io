@@ -88,6 +88,8 @@ Reuter (2017) — The Origins of Dominant Parties: Building Authoritarian Instit
 
 Reuter & Szakonyi (2018) — Elite Defection under Autocracy: Evidence from Russia
 
+Szakonyi (2018) — Businesspeople in Elected Office: Identifying Private Benefits from Firm-Level Returns
+
 __Social Dynamics__
 
 Hale (2011) — The Myth of Mass Russian Support for Autocracy: The Public Opinion Foundations of a Hybrid Regime
@@ -96,7 +98,7 @@ Volkov (2012) — The Protesters and The Public
 
 Chaisty and Whitfield (2013) — Forward to Democracy or Back to Authoritarianism? The Attitudinal Bases of Mass Support for the Russian Election Protests of 2011–2012
 
-Triesman (2014) — Putin's Popularity Since 2010: Why Did Support for the Kremlin Plunge, Then Stabilize?
+Treisman (2014) — Putin's Popularity Since 2010: Why Did Support for the Kremlin Plunge, Then Stabilize?
 
 Gontmakher & Ross (2015) — The Middle Class and Democratization in Russia
 
@@ -200,7 +202,7 @@ Yakovlev (2006) — The Evolution of Business-State Interaction in Russia: From 
 
 Aslund (2007) — How Capitalism Was Built: The Transformation of Central and Eastern Europe, Russia, and Central Asia
 
-Triesman (2010) — Is Russia Cursed by Oil?
+Treisman (2010) — Is Russia Cursed by Oil?
 
 Ross (2015) — What Have We Learned about the Resource Curse?
 
@@ -418,6 +420,10 @@ Lankina & Libman (2019) — Soviet Legacies of Economic Development, Oligarchic 
 
 __CPE__
 
+Offe (1991) — Capitalism by Democratic Design?
+
+Kornai (1992) — The Socialist System: The Political Economy of Communism
+
 Balcerowicz (1994) — Understanding Postcommunist Transitions
 
 Hellman (1998) — Winners Take All: The Politics of Partial Reform in Postcommunist Transitions
@@ -426,7 +432,13 @@ Orenstein (1999) —How Politics and Institutions Affect Pension Reform in Three
 
 Tucker (2006) — Regional Economic Voting: Russia, Poland, Hungary, Slovakia, and the Czech Republic, 1990–1999
 
+Boyle & Greskovits (2007a) — The State, Internationalization, and Capitalist Diversity in Eastern Europe
+
+Boyle & Greskovits (2007b) — Neoliberalism, Embedded Neoliberalism and Neo-corporatism: Towards Transnational Capitalism in Central-Eastern Europe
+
 Kaufman (2007) — Market Reform and Social Protection: Lessons from the Czech Republic, Hungary, and Poland
+
+Greskovits (2014) — Legacies of Industrialization and Paths of Transnational Integration after Socialism
 
 Johnson (2016) — Priests of Prosperity: How Central Bankers Transformed the Postcommunist World
 
