@@ -8,14 +8,14 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+    - text: "CV"
+      href: cv.html      
     - text: "Teaching"
       menu: 
       - text: Comparative Politics
         href: ps2.html
       - text: Eastern Europe
         href: ee.html
-    - text: "CV"
-      href: cv.html
     - text: "Comparative Politics"
       href: cp.html
     - text: "Post-Communism"

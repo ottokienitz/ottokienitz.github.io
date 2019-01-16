@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
 [PDF](okpscv.pdf)
@@ -8,12 +8,14 @@ title: "CV"
 
 *Facade of the European University at St. Petersburg from Gagarinskaya Ulitsa (2017)*
 
-<br>
+---
 
 <font color="#d2a107">
 
 ## Education
 </font>
+
+---
 
 PhD, University of California, Berkeley, Department of Political Science, Berkeley, California __(2017--)__
 
@@ -25,15 +27,31 @@ BA, University of Pennsylvania, College of Arts and Sciences, Philadelphia, Penn
 
 __Subfields__: Comparative Politics, Eastern Europe and Post-Soviet Studies, Methodology and Formal Theory
 
-__Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasian Studies, European Politics](https://iseees.berkeley.edu)
+__Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasian Studies](https://iseees.berkeley.edu)
 
 __Professional Organizations__: [APSA: Comparative Democratization Subsection](https://www.apsanet.org/section35), [ASEEES](https://www.aseees.org)
 
-<br>
+---
+
+<font color="#d2a107">
+
+## Teaching
+</font>
+
+---
+
+PS 141C: Politics and Government in Eastern Europe (Jason Wittenberg)
+
+PS2: Comparative Politics (Steven Fish)
+
+---
+
 <font color="#d2a107">
 
 ## Professional Experience
 </font>
+
+---
 
 Foreign Policy Research Institute, Philadelphia, Pennsylvania __(2015-2016)__
 
@@ -41,11 +59,14 @@ Northern California World Trade Center, San Francisco, California __(2014)__
 
 Smilow Center for Translational Research, Philadelphia, Pennsylvania __(2013-2015)__
 
-<br>
+---
+
 <font color="#d2a107">
 
 ## Undergraduate Activities
 </font>
+
+---
 
 University of Pennsylvania Club Soccer Team __(2013–2016)__
 
@@ -63,26 +84,31 @@ Pi Sigma Alpha National Political Science Honor Society __(2015–2016)__
 
 Global Ties U.S. Emerging Leader 2015 (Washington, D.C.) __(2015)__
 
-<br>
+---
+
 <font color="#d2a107">
 
 ## Languages
 </font>
 
+---
+
 __Russian__
 
-* Ongoing Coursework __(2017--)__
+* Ongoing coursework (Berkeley, California) __(in progress)__
 
 * IU Russian Summer Language Workshop (Bloomington, Indiana) __(Summer 2018)__
 
 * IMARES Program (Saint Petersburg, Russia) __(2016-2017)__
 
+---
+
 __Spanish__
 
 * University of Pennsylvania Language Requirement __(2012-2016)__
 
+---
+
 __Italian__
 
 * Penn in Venice Program (Venice, Italy) __(Summer 2013)__
-
-
