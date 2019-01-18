@@ -26,9 +26,11 @@ title: "Data and Sources"
 
 [The Imperiia Project](https://scholar.harvard.edu/koneill/imperiia-project)
 
-[Levada Center](http://www.levada.ru/en/)
+[Levada Center](http://www.levada.ru/) (in Russian)
 
-ВЦИОМ [Russian Public Opinion Research Center (in Russian)](https://wciom.ru/)
+ВЦИОМ [Russian Public Opinion Research Center](https://wciom.ru/) (in Russian)
+
+ФОМ [Public Opinion Foundation](https://bd.fom.ru/) (in Russian)
 
 [The Eclectic, Erratic Bibliography on the Extreme Right in Western Europe](http://www.kai-arzheimer.com/extreme-right-western-europe-bibliography)
 
