@@ -18,7 +18,7 @@ title: "Comparative Politics"
 
 ---
 
-<font color="#d2a107"><h4>*Topic 1*</h4></font>
+<font color="#d2a107"><h4>*Week 1 (January 22 & 24)*</h4></font>
 
 ---
 
@@ -26,6 +26,17 @@ title: "Comparative Politics"
 
 ---
 
+<ins> Introduction to Comparative Politics </ins>
+
+* Patrick H. O’Neil, Essentials of Comparative Politics, 6th ed. (New York: W. W. Norton, 2018), pp. 6-19.
+
+* Jeffrey Kopstein, Mark Lichbach, and Stephen E. Hanson, “What is Comparative Politics?” in Jeffrey Kopstein, Mark Lichbach, and Stephen E. Hanson, eds., Comparative Politics: Interests, Identities, and Institutions in a Changing Global Order, 4th ed. (New York: Cambridge University Press, 2014), pp. 1-7, 12-13.*
+
+* Daniel L. Posner, “The Political Salience of Cultural Differences: Why Chewas and Tumbukas Are Allies in Zambia and Adversaries in Malawi,” American Political Science Review 98, 4 (November 2004), pp. 529-545.*
+
+* Lussier, Constraining Elites in Russia and Indonesia, pp. 22-27, 29-39.
+
+_What is comparative politics all about? What is the role of comparison in our thinking in comparative politics— or for that matter in any attempt to make sense of the world around us? How does Posner make use of comparison to understand when cultural cleavages between Chewas and Tumbukas become politically salient and when they do not? What is a “natural experiment,” and how does Posner use one to investigate relations between Chewas and Tumbukas?_
 
 
 
