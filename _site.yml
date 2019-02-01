@@ -16,13 +16,13 @@ navbar:
         href: ps2.html
       - text: Eastern Europe
         href: ee.html
-    - text: "Comparative Politics"
+    - text: "Comparative"
       href: cp.html
     - text: "Post-Communism"
       href: ru.html      
-    - text: "Data/Sources"
+    - text: "Data"
       href: data.html
-    - text: "Diversify It!"
+    - text: "Diversify"
       href: diversify.html
   right:
     - icon: fa-envelope-o fa-lg
