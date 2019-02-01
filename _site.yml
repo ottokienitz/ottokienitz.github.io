@@ -22,7 +22,7 @@ navbar:
       href: ru.html      
     - text: "Data"
       href: data.html
-    - text: "Diversify"
+    - text: "Diversify!"
       href: diversify.html
   right:
     - icon: fa-envelope-o fa-lg
@@ -33,5 +33,4 @@ navbar:
     html_document:
       theme: flatly
       highlight: pygments
-      
       
