@@ -1,0 +1,85 @@
+---
+title: "Intro to Quantitative Methods"
+---
+
+<br>
+
+<img align="center" src="images/horse.jpg" width = "650">
+
+*A wave-swept shore, remote, forlorn / here he stood, rapt in thought and drawn / to distant prospects.*
+
+*The Bronze Horseman, Alexander Pushkin (1837) Photo from Senatskaya Ploshchad, St. Petersburg (2018)*
+
+<br>
+
+# {.tabset .tabset-fade}
+
+## Discussion
+
+---
+
+<font color="#d2a107"><h4>*Introduction*</h4></font>
+
+---
+
+**Some History:**
+
+[David Freedman, "From Association to Causation: Some Remarks on the History of Statistics," (1999)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409)
+
+[David A. Freedman, "Statistical Models and Shoe Leather," (1991)](http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf)
+
+[Thomas S. Coleman, "Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference," (2019)](https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&EXT=pdf)
+
+**Methods Guide:**
+
+[Research Design Guide](https://t.co/LKF218UfqP) (2017)
+
+[Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
+
+**Sample Articles:**
+
+[Tariq Thachil, "Elite Parties and Poor Voters: Theory and Evidence from India," (2014)](https://static1.squarespace.com/static/5310a4d8e4b05a56d51f81c8/t/54aee94de4b07527f320bfa2/1420749133576/Thachil+APSR.pdf)
+
+[Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
+
+[Lori Beaman, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande and Petia Topalova, "Powerful Women: Does Exposure Reduce Bias?" (2008)](https://economics.mit.edu/files/3122)
+
+[Susan Hyde, "The Observer Effect in International Politics: Evidence from a Natural Experiment," (2007)](https://www.cambridge.org/core/journals/world-politics/article/observer-effect-in-international-politics-evidence-from-a-natural-experiment/B72409C4FB717F72CAB765024468511F)
+
+---
+
+## Math
+
+---
+
+<font color="#d2a107"><h4>*Math & Coding Resources:*</h4></font>
+
+---
+
+[What It Feels Like to Be Bad at Math](https://mathwithbaddrawings.com/2013/04/25/were-all-bad-at-math-1-i-feel-stupid-too/)
+
+[Getting Started in R](http://edrub.in/ARE212/notes.html)
+
+[Math Prefresher for Political Scientists](https://bookdown.org/mjschwenzfeier/prefresher/)
+
+## Reading & Writing
+
+---
+
+<font color="#d2a107"><h4>*Reading Resources:*</h4></font>
+
+---
+
+[How to Read Political Science: A Guide in Four Steps](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) from Amelia Hoover Green, Drexel University (2013)
+
+---
+
+<font color="#d2a107"><h4>*Writing Resources:*</h4></font>
+
+---
+
+[Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
+
+[Research Writing Calculator](https://www.lib.umn.edu/ac/research-paper?d=2018-10-09.2018-11-20)
+
+[Three Templates for Introductions to Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew Little (2016)

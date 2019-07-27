@@ -12,6 +12,8 @@ navbar:
       href: cv.html      
     - text: "Teaching"
       menu: 
+      - text: Quantitative Methods
+        href: ps3.html
       - text: Comparative Politics
         href: ps2.html
       - text: Eastern Europe
