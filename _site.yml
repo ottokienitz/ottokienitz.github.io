@@ -16,9 +16,9 @@ navbar:
         href: ps3.html
       - text: Comparative Politics
         href: ps2.html
-      - text: Eastern Europe
+      - text: Eastern Europen Politics
         href: ee.html
-    - text: "Comparative"
+    - text: "CP"
       href: cp.html
     - text: "Post-Communism"
       href: ru.html      

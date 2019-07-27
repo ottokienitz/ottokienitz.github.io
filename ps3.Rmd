@@ -32,7 +32,7 @@ title: "Intro to Quantitative Methods"
 
 **Methods Guide:**
 
-[Research Design Guide](https://t.co/LKF218UfqP) (2017)
+[Research Design Guide (2017)](https://t.co/LKF218UfqP)
 
 [Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
 

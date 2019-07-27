@@ -8,21 +8,43 @@ title: "Diversify Your Mind"
 
 <font color="#d2a107"><h3>Links</h3></font>
 
+# {.tabset .tabset-fade}
+
+## Links to Politics/Culture
+
 ---
 
 [Ed Rubin's Useful Links](http://edrub.in/links.html) -- "useful and/or interesting links for research/productivity/fun" and the inspiration for this website
 
 ---
 
-[Bear Market Brief](https://twitter.us13.list-manage.com/subscribe?u=3b0ef1746b4ae1af4ff5a7544&id=928ed11748) -- sign up for the best e-mailing list-serv for your daily dose of in-depth Russian politics
+[Bear Market Brief](https://twitter.us13.list-manage.com/subscribe?u=3b0ef1746b4ae1af4ff5a7544&id=928ed11748) --list-serv for your daily dose of Russian politics
 
-[The Moscow Times' Michelle Berdy Exploring the Russian Language](https://themoscowtimes.com/authors/18) -- learn the ins and outs of завораживающие Russian phrases
+[The Bell](https://thebell.io/en/) -- more Russian news/politics delivered to your inbox 
 
-[The Village (in Russian)](https://www.the-village.ru) -- what is going on in your favorite Russian city today? tomorrow? this weekend?
+[The Moscow Times' Michelle Berdy Exploring the Russian Language](https://themoscowtimes.com/authors/18) -- the ins-and-outs of Russian speech
+
+[The Village (in Russian)](https://www.the-village.ru) -- what is going on in your favorite Russian city? today? tomorrow? this weekend?
 
 [The Calvert Journal](https://www.calvertjournal.com) -- explore post-Soviet culture through music, art, literature, photography, and architecture
 
-[Soviet Jokes Collected and De-Classified by the CIA](https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf) -- a good government-endorsed laugh
+[Soviet Jokes Collected and De-Classified by the CIA](https://www.cia.gov/library/readingroom/docs/CIA-RDP89G00720R000800040003-6.pdf) -- government-endorsed laughs
+
+---
+
+[SF Eater](https://sf.eater.com) -- where to eat in SF-Bay Area-Berkeley-Oakland
+
+[Imperfect Produce](https://www.imperfectproduce.com/home.php) -- reduced price veggies
+
+[The Graphic Arts Loan Collection at the Morrison Library](http://galc.lib.berkeley.edu) -- rent artwork at Berkeley
+
+---
+
+["Tips for talking about your work with people you run into in the hallway at conferences"](https://docs.google.com/document/d/1ND_wS2WnhP3D11juKdJ4OoD5-sUwIWtwKmaA7ip_ESk/edit) -- how to share your work with others by Hakeem Jefferson
+
+---
+
+## Links to Music/Literature
 
 ---
 
@@ -90,23 +112,17 @@ title: "Diversify Your Mind"
 
 ---
 
-["Tips for talking about your work with people you run into in the hallway at conferences"](https://docs.google.com/document/d/1ND_wS2WnhP3D11juKdJ4OoD5-sUwIWtwKmaA7ip_ESk/edit) -- how to share your work with others by Hakeem Jefferson
-
-[Ed Rubin's Tutorial on Spatial Data](http://edrub.in/ARE212/section12.html) -- making sense of and manipulating spatial data in R straight from the source
+## Links to Current Reads
 
 ---
 
-[SF Eater](https://sf.eater.com) -- where to eat in SF-Bay Area-Berkeley-Oakland
+[The Full Chernobyl Thread from Slava Malamud on Twitter (2019)](https://twitter.com/SlavaMalamud/status/1132029943297265664)
 
-[Imperfect Produce](https://www.imperfectproduce.com/home.php) -- reduced price veggies
+[Three Ukrainian Reformers Pay an Unexpected Price for Their Success (On the Ups and Downs of Ukrainian Politics), July 2019](https://www.newyorker.com/news/dispatch/three-ukrainian-reformers-pay-an-unexpected-price-for-their-success)
 
-[The Graphic Arts Loan Collection at the Morrison Library](http://galc.lib.berkeley.edu) -- rent artwork at Berkeley
+[If God Is Dead, Your Time Is Everything (A Review of Martin Hägglund) New Yorker, May 2019](https://www.newyorker.com/magazine/2019/05/20/if-god-is-dead-your-time-is-everything)
 
----
-
-<font color="#d2a107"><h3>Current Reads</h3></font>
-
----
+[Conspiratorial Realism: On Vladimir Sorokin, Victor Pelevin, and Russia’s Post-Postmodern Turn (by Maya Vinokour) LA Review of Books, April 2019](https://lareviewofbooks.org/article/conspiratorial-realism-on-vladimir-sorokin-victor-pelevin-and-russias-post-postmodern-turn/)
 
 [Khlebnikov, Tatlin, and the Utopian Geopoetics of the Russian Avant-Garde](https://www.youtube.com/watch?v=UGBALFEVhyM&frags=pl%2Cwn) by Harsha Ram (17 January 2019)
 
