@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,9 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +72,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,6 +95,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -113,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -133,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +190,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -560,7 +650,7 @@ Review Materials
 <ul>
 <li>O’Brien (1996): “rightful resistance”; form of political action in which the people use established laws, policies, and values to show that some officials have failed to live up to those same ideals; seek to make allies of other leaders who must prove their own dedication to the prescribed laws and values; between the two classical types of resistance (1) the direct and aggressive rebellion (2) ‘’everyday resistance’’ of subtle, anonymous, and disguised forms of dissent</li>
 <li>Ekiert (1996): during two periods (1) the late 1950s (2) late 1980s; state-socialist regimes experienced profound instability caused by the overlapping of the domestic economic and political crisis with geopolitical pressures and uncertainty; generated splits and struggles within the ruling elites, led to the fall of powerful leaders, and created openings in the political space; a crisis in one country tends to foster parallel processes in other countries and generates preemptive responses of their ruling elites</li>
-<li>Tarrow (1996): “power in movement”; social movements are collective challenges, based on common purposes and social solidarities, in sustained interaction with elites, opponents, and authorities; “cycles of contention” i.e. as one movement widens and information spreads about the susceptibility of a polity to challenge, additional activists and also ordinary people may “begin to test the limits of social control; rely on symbols and frames e.g. inherited cultural frames</li>
+<li>Tarrow (1996): “power in movement”; social movements are collective challenges, based on common purposes and social solidarities, in sustained interaction with elites, opponents, and authorities; “cycles of contention” i.e. as one movement widens and information spreads about the susceptibility of a polity to challenge, additional activists and also ordinary people may &quot;begin to test the limits of social control; rely on symbols and frames e.g. inherited cultural frames</li>
 <li>Norris et al. (2005): protest politics has risen dramatically; demonstrators are drawn disproportionately from the left, and the people who demonstrate are also significantly more likely to be civic joiners, party members, and labor organization members, not less; demonstrations have become a major channel of public participation in democracies</li>
 <li>Wilkinson (2006): “electoral incentives for ethnic violence”: interstate and town-level variation in ethnic violence in India via the conditions under which the politicians who control the police and army have an incentive both to foment and to prevent ethnic violence; important political incentives when politicians in government will increase the supply of protection to minorities (1) when minorities are an important part of their party’s current support base (2) the support base of one of their coalition partners in a coalition government (3) when the overall electoral system in a state is so competitive that there is therefore a high probability that the governing party will have to negotiate or form coalitions with minority supported parties in the future</li>
 <li>McAdam and Tarrow (2010): “dynamics of contention;”political opportunities provide the major incentives for transforming mobilizational potential into action; signal the vulnerability of the state to collective action and thereby open up opportunity for others and affecting both alliances and conflict systems; the process leads to state responses which, in one way or another, produce a new structure of opportunity</li>
@@ -869,6 +959,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

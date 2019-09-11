@@ -18,33 +18,41 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+<font color="#d2a107"><h4>*Causailty*</h4></font>
+
+---
+
+**Causality:**
+
+* A video introduction: [What is Causality?](https://www.youtube.com/watch?v=eBij0BFc-RM&list=PLcTBLulJV_AKmUTH-nUsxxFyRQoWnUzxU&index=2&t=0s)
+
+* [Causation and Explanation in Social Science](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199604456.001.0001/oxfordhb-9780199604456-e-049)
+
+* [The Metaphysics of Causation](https://plato.stanford.edu/entries/causation-metaphysics/)
+
+---
+
 <font color="#d2a107"><h4>*Introduction*</h4></font>
 
 ---
 
-**Some History:**
+**Some History of Statistics:**
 
-[David Freedman, "From Association to Causation: Some Remarks on the History of Statistics," (1999)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409)
+* [David Freedman, "From Association to Causation: Some Remarks on the History of Statistics," (1999)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409)
 
-[David A. Freedman, "Statistical Models and Shoe Leather," (1991)](http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf)
+* [David A. Freedman, "Statistical Models and Shoe Leather," (1991)](http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf)
 
-[Thomas S. Coleman, "Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference," (2019)](https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&EXT=pdf)
+* [Thomas S. Coleman, "Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference," (2019)](https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&EXT=pdf)
 
 **Methods Guide:**
 
-[Research Design Guide (2017)](https://t.co/LKF218UfqP)
+* [Research Design Guide (2017)](https://t.co/LKF218UfqP)
 
-[Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
+* [Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
 
-**Sample Articles:**
+**Comparing Big Ideas:**
 
-[Tariq Thachil, "Elite Parties and Poor Voters: Theory and Evidence from India," (2014)](https://static1.squarespace.com/static/5310a4d8e4b05a56d51f81c8/t/54aee94de4b07527f320bfa2/1420749133576/Thachil+APSR.pdf)
-
-[Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
-
-[Lori Beaman, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande and Petia Topalova, "Powerful Women: Does Exposure Reduce Bias?" (2008)](https://economics.mit.edu/files/3122)
-
-[Susan Hyde, "The Observer Effect in International Politics: Evidence from a Natural Experiment," (2007)](https://www.cambridge.org/core/journals/world-politics/article/observer-effect-in-international-politics-evidence-from-a-natural-experiment/B72409C4FB717F72CAB765024468511F)
+* [Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
 
 ---
 

@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,9 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +72,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,6 +95,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -113,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -133,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +190,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -306,9 +396,9 @@ $(document).ready(function () {
 <p></font></p>
 <hr />
 <p><strong>Readings:</strong></p>
-<p>Richard E. Ericson, “The Classical Soviet-Type Economy: Nature of the System and Implications for Reform,’’ Journal of Economic Perspectives, Vol. 5, No. 4, Fall 1991, pp. 11-27. (You may skip stuff beginning with the “Implications for Reform” section.)</p>
+<p>Richard E. Ericson, “The Classical Soviet-Type Economy: Nature of the System and Implications for Reform,’’ Journal of Economic Perspectives, Vol. 5, No. 4, Fall 1991, pp. 11-27. (You may skip stuff beginning with the “Implications for Reform” section.)</p>
 <p>Katherine Verdery, “What Was Socialism and Why Did it Fall?,” pp. 19-38.</p>
-<p>Vladimir Tismaneanu, “Understanding 1989: The Revolutionary Tradition Revisited,” East European Politics &amp; Societies Vol. 24, No. 4, Nov 2014, pp. 644-middle of p. 648.</p>
+<p>Vladimir Tismaneanu, “Understanding 1989: The Revolutionary Tradition Revisited,” East European Politics &amp; Societies Vol. 24, No. 4, Nov 2014, pp. 644-middle of p. 648.</p>
 <hr />
 <ol style="list-style-type: decimal">
 <li><p>Often it is most difficult to explain large and complicated events in a few sentences or paragraphs. How would you answer the main question related to this week’s readings i.e. what is state-socialism and how/why did it collapse?</p></li>
@@ -318,7 +408,7 @@ $(document).ready(function () {
 <p>***) Challenge Question: what is the difference(s) between communism and state-socialism as a political–economic idea? Where does one place Leninism on this ideological spectrum?</p>
 <hr />
 <p><strong>Find out more about the Russian Revolution:</strong></p>
-<p>On the historiography of the Russian Revolutions of 1917: <a href="https://slavica.indiana.edu/journalListings/kritika/volume16_No4">Kritika Vol. 16, No. 4</a> (2015)</p>
+<p>On the historiography of the Russian Revolutions of 1917: <a href="https://slavica.indiana.edu/journalListings/kritika/volume16_No4">Kritika Vol. 16, No. 4</a> (2015)</p>
 <p><a href="https://www.rferl.org/a/footsteps-of-1917-revolution/28311776.html">In The Footsteps Of Revolution</a> photo essay on the centenary of 1917</p>
 <p>Read more: John Reed, <a href="http://www.gutenberg.org/ebooks/3076">Ten Days that Shook the World</a> (1919)</p>
 <p>Listen more: Sheila Fitzpatrick, <a href="https://youtu.be/-AQW7B_eFO4">Was the Russian Revolution a Failure?</a> lecture at the NYU Jordan Center for the Advanced Study of Russia (2017)</p>
@@ -342,8 +432,8 @@ $(document).ready(function () {
 <p>Wolchik and Curry, Chapter 2 (The Political Transition).</p>
 <p>Jan Zielonka, “New Institutions in the Old East Bloc,” in Larry Diamond and Marc F. Plattner, eds., The Global Resurgence of Democracy. (Johns Hopkins University Press, 1996), pp. 207-224.</p>
 <p>Wolchik and Curry, Chapter 3 (Re-Creating the Market).</p>
-<p>Mitchell Orenstein, “What Happened in East European (Political) Economies? A Balance Sheet for Neoliberal Reform,” East European Politics &amp; SocietiesVol. 23, No. 4, Fall 2009, pp. 479-490.</p>
-<p>Grzegorz Ekiert, Jan Kubik, and Milada Anna Vachudova, “Democracy in the Post-Communist World: An Unending Quest?,” East European Politics &amp; Societies, Vol. 21, No. 1, March 2007, pp. 7-30.</p>
+<p>Mitchell Orenstein, “What Happened in East European (Political) Economies? A Balance Sheet for Neoliberal Reform,” East European Politics &amp; SocietiesVol. 23, No. 4, Fall 2009, pp. 479-490.</p>
+<p>Grzegorz Ekiert, Jan Kubik, and Milada Anna Vachudova, “Democracy in the Post-Communist World: An Unending Quest?,” East European Politics &amp; Societies, Vol. 21, No. 1, March 2007, pp. 7-30.</p>
 <hr />
 <p><strong>Additional readings on democratic institutions and reforms in Eastern Europe:</strong></p>
 <p><a href="https://www.jstor.org/stable/j.ctt7rw0f">The State against Society: Political Crises and Their Aftermath in East Central Europe</a> by Grzegorz Ekiert (1996)</p>
@@ -378,9 +468,9 @@ $(document).ready(function () {
 <hr />
 <p><strong>Readings:</strong></p>
 <p>Wolchik and Curry, Chapter 6 (Transitional Justice and Memory).</p>
-<p>Hillary Appel, “Anti-Communist Justice and Founding the Post-Communist Order: Lustration and Restitution in Central Europe,” East European Politics &amp; Societies, Summer 2005, Vol. 19. No. 3, pp. 379-405.</p>
+<p>Hillary Appel, “Anti-Communist Justice and Founding the Post-Communist Order: Lustration and Restitution in Central Europe,” East European Politics &amp; Societies, Summer 2005, Vol. 19. No. 3, pp. 379-405.</p>
 <p>Jan Elster, “On Doing What One Can: An Argument Against Post-Communist Restitution and Retribution,” pp. 566-568.</p>
-<p>Adam Michnik and Václav Havel, “Justice or Revenge?” Journal of Democracy, Vol. 4, No. 1, January 1993, pp. 20-27.</p>
+<p>Adam Michnik and Václav Havel, “Justice or Revenge?” Journal of Democracy, Vol. 4, No. 1, January 1993, pp. 20-27.</p>
 <hr />
 <p>Adam Michnik: <em>There are two symbolic names for two different ways of thinking about what our attitude should be toward communists or people of the old regime. One is polemically called in Poland the “policy of the thick line” (polityka grubej kreski). [Former prime minister] Tadeusz Mazowiecki used this term in his first speech. He meant that a thick line should be drawn between the present and the past, and that competence and loyalty toward the new government should be the only criteria for evaluating public officials. He was then accused of wanting, by means of the policy of the thick line, to protect communists, criminals, thieves, and the like.</em></p>
 <p><em>The other way originated in the Czech and Slovak Federative Republic (CSFR), and is symbolized by the term “lustration” [verification or screening], These are two opposite ways of thinking about those issues. What do you think about the philosophy offered by Mazowiecki and the one offered by the supporters of lustration?</em></p>
@@ -458,8 +548,8 @@ $(document).ready(function () {
 <p><strong>Readings:</strong></p>
 <p>Wolchik and Curry, Chapter 17 (Ukraine).</p>
 <p>Valerie J. Bunce and Sharon L. Wolchik, <a href="https://www.sciencedirect.com/science/article/pii/S0967067X06000249">“International Diffusion and Post-Communist Electoral Revolutions”</a>, Communist and Post-Communist Studies 39 (2006), pp. 283-304.</p>
-<p>Lucan Way, <a href="https://www.journalofdemocracy.org/article/real-causes-color-revolutions">“The Real Causes of the Color Revolutions”</a>, Journal of Democracy, Vol. 19, No. 3, July 2008, pp. 55-69.</p>
-<p>Valerie Bunce and Sharon Wolchik, <a href="https://muse.jhu.edu/article/257588">“Getting Real About ‘Real Causes”</a>, Journal of Democracy, Vol. 20, No. 1, January 2009, pp. 69-73.</p>
+<p>Lucan Way, <a href="https://www.journalofdemocracy.org/article/real-causes-color-revolutions">“The Real Causes of the Color Revolutions”</a>, Journal of Democracy, Vol. 19, No. 3, July 2008, pp. 55-69.</p>
+<p>Valerie Bunce and Sharon Wolchik, <a href="https://muse.jhu.edu/article/257588">“Getting Real About ‘Real Causes”</a>, Journal of Democracy, Vol. 20, No. 1, January 2009, pp. 69-73.</p>
 <hr />
 <p><strong>More famous arguments about hybrid regimes and electoral manipulation</strong></p>
 <p><a href="https://muse.jhu.edu/article/225426/summary">Delegative Democracy</a> by Guillermo O’Donnell (1994)</p>
@@ -491,7 +581,7 @@ $(document).ready(function () {
 <hr />
 <p><strong>Readings:</strong></p>
 <p>Ivan Krastev, <a href="https://www.foreignaffairs.com/articles/hungary/2018-04-16/eastern-europes-illiberal-revolution">“Eastern Europe’s Illiberal Revolution”</a>, Foreign Affairs, May/June 2018, pp 49-56.</p>
-<p>James Dawson and Seán Hanley, <a href="https://muse.jhu.edu/article/607613/pdf">“The Fading Mirage of the ‘Liberal Consensus’”</a>, Journal of Democracy, Vol. 27, No. 1, Jan 2016, pp. 20-34.</p>
+<p>James Dawson and Seán Hanley, <a href="https://muse.jhu.edu/article/607613/pdf">“The Fading Mirage of the ‘Liberal Consensus’”</a>, Journal of Democracy, Vol. 27, No. 1, Jan 2016, pp. 20-34.</p>
 <hr />
 <p><strong>More on ‘Illiberal Disillusionment’:</strong></p>
 <p><a href="https://www.journalofdemocracy.org/sites/default/files/Krastev-18-4.pdf">Is East-Central Europe Backsliding? The Strange Death of the Liberal Consensus</a> by Ivan Krastev (2007)</p>
@@ -509,7 +599,7 @@ $(document).ready(function () {
 <hr />
 <p><strong>Readings:</strong></p>
 <p>Wolchik and Curry, Chapter 9 (Poland); Chapter 11 (Hungary).</p>
-<p>János Kornai, “Hungary’s U-Turn: Retreat from Democracy,” Journal of Democracy, Vol. 26, No. 3, July 2015, pp. 34-48.</p>
+<p>János Kornai, “Hungary’s U-Turn: Retreat from Democracy,” Journal of Democracy, Vol. 26, No. 3, July 2015, pp. 34-48.</p>
 <p>Seán Hanley and James Dawson, “Poland Was Never as Democratic as It Looked,” ForeignPolicy.com, January 3, 2017.</p>
 <p>Ireneusz Pawel Karolewski and Roland Benedikter, “Europe’s New Rogue States, Poland and Hungary: A Narrative and Its Perspectives,” Chinese Political Science Review, 2016.</p>
 <hr />
@@ -557,7 +647,7 @@ $(document).ready(function () {
 <p><strong>Readings:</strong></p>
 <p>Peter Pomerantsev, “The Big Chill: The Battle for Central Europe,” World Affairs Journal, January/February 2015.</p>
 <p>Jeffrey Tayler, “The Seething Anger of Putin’s Russia,” The Atlantic, Sept 22, 2014.</p>
-<p>Mitchell Orenstein, “Geopolitics of a Divided Europe,” East European Politics &amp; Societies, Vol. 29, No. 2, May 2015, pp. 531-540.</p>
+<p>Mitchell Orenstein, “Geopolitics of a Divided Europe,” East European Politics &amp; Societies, Vol. 29, No. 2, May 2015, pp. 531-540.</p>
 <hr />
 <p><strong>More on Russia’s role in its near abroad:</strong></p>
 <p><a href="https://www.researchgate.net/publication/235164696_Ukraine_Russia_and_the_Black_Sea_Fleet_Accords">Ukraine, Russia, and the Black Sea Fleet Accords</a> by Tyler Felgenhauer (1999)</p>
@@ -585,8 +675,8 @@ $(document).ready(function () {
 </h4>
 <p></font></p>
 <hr />
-<p>Grzegorz Ekiert and Daniel Ziblatt, <a href="https://journals.sagepub.com/doi/abs/10.1177/0888325412465310">Democracy in Central and Eastern Europe One Hundred Years On</a>, East European Politics &amp; Societies, Vol. 27, No. 1, Feb 2013, pp. 90-107.</p>
-<p>Jason Wittenberg, <a href="https://journals.sagepub.com/doi/abs/10.1177/0888325415577864">Conceptualizing Historical Legacies</a>, East European Politics &amp; Societies, Vol. 29, No. 1, May 2015, pp. 366–378.</p>
+<p>Grzegorz Ekiert and Daniel Ziblatt, <a href="https://journals.sagepub.com/doi/abs/10.1177/0888325412465310">Democracy in Central and Eastern Europe One Hundred Years On</a>, East European Politics &amp; Societies, Vol. 27, No. 1, Feb 2013, pp. 90-107.</p>
+<p>Jason Wittenberg, <a href="https://journals.sagepub.com/doi/abs/10.1177/0888325415577864">Conceptualizing Historical Legacies</a>, East European Politics &amp; Societies, Vol. 29, No. 1, May 2015, pp. 366–378.</p>
 <p>Alberto Simpser, Dan Slater, and Jason Wittenberg, <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-062615-020900">Dead But Not Gone: Contemporary Legacies of Communism, Imperialism, and Authoritarianism</a>, Annual Review of Political Science, Vol. 21, May 2018, pp. 419-439.</p>
 </div>
 <div id="news" class="section level2">
@@ -658,6 +748,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

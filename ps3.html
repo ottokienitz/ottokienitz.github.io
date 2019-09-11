@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,9 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +72,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,6 +95,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -113,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -133,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +190,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -262,22 +352,38 @@ $(document).ready(function () {
 <hr />
 <font color="#d2a107">
 <h4>
+<em>Causailty</em>
+</h4>
+<p></font></p>
+<hr />
+<p><strong>Causality:</strong></p>
+<ul>
+<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=eBij0BFc-RM&amp;list=PLcTBLulJV_AKmUTH-nUsxxFyRQoWnUzxU&amp;index=2&amp;t=0s">What is Causality?</a></p></li>
+<li><p><a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199604456.001.0001/oxfordhb-9780199604456-e-049">Causation and Explanation in Social Science</a></p></li>
+<li><p><a href="https://plato.stanford.edu/entries/causation-metaphysics/">The Metaphysics of Causation</a></p></li>
+</ul>
+<hr />
+<font color="#d2a107">
+<h4>
 <em>Introduction</em>
 </h4>
 <p></font></p>
 <hr />
-<p><strong>Some History:</strong></p>
-<p><a href="https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409">David Freedman, “From Association to Causation: Some Remarks on the History of Statistics,” (1999)</a></p>
-<p><a href="http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf">David A. Freedman, “Statistical Models and Shoe Leather,” (1991)</a></p>
-<p><a href="https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&amp;EXT=pdf">Thomas S. Coleman, “Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference,” (2019)</a></p>
+<p><strong>Some History of Statistics:</strong></p>
+<ul>
+<li><p><a href="https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409">David Freedman, “From Association to Causation: Some Remarks on the History of Statistics,” (1999)</a></p></li>
+<li><p><a href="http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf">David A. Freedman, “Statistical Models and Shoe Leather,” (1991)</a></p></li>
+<li><p><a href="https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&amp;EXT=pdf">Thomas S. Coleman, “Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference,” (2019)</a></p></li>
+</ul>
 <p><strong>Methods Guide:</strong></p>
-<p><a href="https://t.co/LKF218UfqP">Research Design Guide (2017)</a></p>
-<p><a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15">Alan Gerber and Donald Green, “Field Experiments and Natural Experiments,” (2011)</a></p>
-<p><strong>Sample Articles:</strong></p>
-<p><a href="https://static1.squarespace.com/static/5310a4d8e4b05a56d51f81c8/t/54aee94de4b07527f320bfa2/1420749133576/Thachil+APSR.pdf">Tariq Thachil, “Elite Parties and Poor Voters: Theory and Evidence from India,” (2014)</a></p>
-<p><a href="https://books.google.ru/books?id=0-Z0LMVOaaAC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Jared Diamond and James A. Robinson (eds.), “Natural Experiments of History,” (2010)</a></p>
-<p><a href="https://economics.mit.edu/files/3122">Lori Beaman, Raghabendra Chattopadhyay, Esther Duflo, Rohini Pande and Petia Topalova, “Powerful Women: Does Exposure Reduce Bias?” (2008)</a></p>
-<p><a href="https://www.cambridge.org/core/journals/world-politics/article/observer-effect-in-international-politics-evidence-from-a-natural-experiment/B72409C4FB717F72CAB765024468511F">Susan Hyde, “The Observer Effect in International Politics: Evidence from a Natural Experiment,” (2007)</a></p>
+<ul>
+<li><p><a href="https://t.co/LKF218UfqP">Research Design Guide (2017)</a></p></li>
+<li><p><a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15">Alan Gerber and Donald Green, “Field Experiments and Natural Experiments,” (2011)</a></p></li>
+</ul>
+<p><strong>Comparing Big Ideas:</strong></p>
+<ul>
+<li><a href="https://books.google.ru/books?id=0-Z0LMVOaaAC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Jared Diamond and James A. Robinson (eds.), “Natural Experiments of History,” (2010)</a></li>
+</ul>
 <hr />
 </div>
 <div id="math" class="section level2">
@@ -333,6 +439,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
