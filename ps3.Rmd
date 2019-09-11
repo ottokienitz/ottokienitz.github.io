@@ -22,6 +22,7 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+<<<<<<< HEAD
 **Causality:**
 
 * A video introduction: [What is Causality?](https://www.youtube.com/watch?v=eBij0BFc-RM&list=PLcTBLulJV_AKmUTH-nUsxxFyRQoWnUzxU&index=2&t=0s)
@@ -53,6 +54,30 @@ title: "Intro to Quantitative Methods"
 **Comparing Big Ideas:**
 
 * [Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
+=======
+**Approaching Causality:**
+
+- [Causation and Explanation in Social Science](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199604456.001.0001/oxfordhb-9780199604456-e-049)
+- [The Metaphysics of Causation](https://plato.stanford.edu/entries/causation-metaphysics/)
+
+**Some History of Statistics:**
+
+- [David Freedman, "From Association to Causation: Some Remarks on the History of Statistics," (1999)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409)
+
+- [David A. Freedman, "Statistical Models and Shoe Leather," (1991)](http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf)
+
+- [Thomas S. Coleman, "Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference," (2019)](https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&EXT=pdf)
+
+**Methods Guide:**
+
+- [Research Design Guide (2017)](https://t.co/LKF218UfqP)
+
+- [Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
+
+**Comparing Big Ideas:**
+
+[Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
+>>>>>>> 5ba81af229ae61b5dcf0fd83303be3610c6d12d1
 
 ---
 
@@ -65,6 +90,8 @@ title: "Intro to Quantitative Methods"
 ---
 
 [What It Feels Like to Be Bad at Math](https://mathwithbaddrawings.com/2013/04/25/were-all-bad-at-math-1-i-feel-stupid-too/)
+
+[Getting Started in Python](https://ds-modules.github.io/modules-textbook/introduction/ds-intro.html)
 
 [Getting Started in R](http://edrub.in/ARE212/notes.html)
 
