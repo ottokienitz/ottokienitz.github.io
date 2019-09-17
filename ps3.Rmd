@@ -18,7 +18,21 @@ title: "Intro to Quantitative Methods"
 
 ---
 
-<font color="#d2a107"><h4>*Causailty*</h4></font>
+<font color="#d2a107"><h4>*Models of Politics*</h4></font>
+
+---
+
+* A video introduction: [Median Voter Thereom](https://www.youtube.com/watch?v=1LupYrO_-Cw)
+
+* [Advanced applications](https://ocw.mit.edu/courses/economics/14-75-political-economy-and-economic-development-fall-2012/lecture-notes/MIT14_75F12_Lec6.pdf) of the Median Voter Thereom
+
+* A video introduction: [The Condorcet Method](https://www.youtube.com/watch?v=5RtOCvFqIKk)
+
+* [Historical examples of Condorcet cycling](images/Cycling_Examples.pdf) from __Gaming the Vote__ by William Poundstone (New York: Hill and Wang, 2008)
+
+---
+
+<font color="#d2a107"><h4>*Causality*</h4></font>
 
 ---
 
