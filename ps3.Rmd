@@ -22,6 +22,8 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+* A video introduction: [Intro to Game Theory](https://www.youtube.com/watch?v=pC--lK8KNwo)
+
 * A video introduction: [The Prisoner's Dilemma](https://www.youtube.com/watch?v=t9Lo2fgxWHw)
 
 * A video introduction: [Median Voter Thereom](https://www.youtube.com/watch?v=1LupYrO_-Cw)
