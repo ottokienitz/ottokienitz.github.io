@@ -18,7 +18,15 @@ title: "Intro to Quantitative Methods"
 
 ---
 
-<font color="#d2a107"><h4>*Models of Politics*</h4></font>
+<font color="#d2a107"><h4>*Inductive Models of Politics*</h4></font>
+
+---
+
+* [Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States (Graham and Svolik, March 2019)](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf)
+
+---
+
+<font color="#d2a107"><h4>*Deductive Models of Politics*</h4></font>
 
 ---
 
