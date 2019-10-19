@@ -18,6 +18,16 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+<font color="#d2a107"><h4>*Research Designs*</h4></font>
+
+---
+
+* [An introduction to randomized controlled trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
+
+* Nobel Prize in Economics winner [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
+
+---
+
 <font color="#d2a107"><h4>*Inductive Models of Politics*</h4></font>
 
 ---
