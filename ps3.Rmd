@@ -22,7 +22,11 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+* [Analysis of Field Experiments](https://egap.shinyapps.io/gotv-app/) Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock)
+
 * [Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials](https://advances.sciencemag.org/content/5/7/eaaw2612)
+
+* [African Borders as Sources of Natural Experiments: Promise and Pitfalls](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
 
 * Nobel Prize in Economics winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
 
