@@ -22,9 +22,11 @@ title: "Intro to Quantitative Methods"
 
 ---
 
-* [An introduction to randomized controlled trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
+* [Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials](https://advances.sciencemag.org/content/5/7/eaaw2612/tab-pdf)
 
-* Nobel Prize in Economics winner [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
+* Nobel Prize in Economics winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
+
+* [An introduction to randomized controlled trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
 
 ---
 
