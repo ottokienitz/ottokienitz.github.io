@@ -18,6 +18,24 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+<font color="#d2a107"><h4>*Inferential Statistics*</h4></font>
+
+---
+
+* A video introduction: [Central Limit Theorem](https://vimeo.com/75089338)
+
+---
+
+<font color="#d2a107"><h4>*Descriptive Statistics*</h4></font>
+
+---
+
+* A video introduction: [The Normal Distribution and the 68-95-99.7 Rule](https://www.youtube.com/watch?v=mtbJbDwqWLE)
+
+* A video introduction: [Mode, Median, Mean, Range, and Standard Deviation](https://www.youtube.com/watch?v=mk8tOD0t8M0)
+
+---
+
 <font color="#d2a107"><h4>*Research Designs*</h4></font>
 
 ---
