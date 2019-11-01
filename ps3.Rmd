@@ -24,6 +24,14 @@ title: "Intro to Quantitative Methods"
 
 * A video introduction: [Central Limit Theorem](https://vimeo.com/75089338)
 
+* A video introduction: [Confidence Intervals and the Margin of Error](https://www.youtube.com/watch?v=hlM7zdf7zwU)
+
+* A video introduction: [How to Calculate the Standard Error of the Mean and Why It's Important (Central Limit Theorem)](https://www.youtube.com/watch?v=Gak9AxlV1NI)
+
+* An example: [Confidence Interval Example](https://www.youtube.com/watch?v=SeQeYVJZ2gE)
+
+* A clarification: [Standard Deviation vs. Standard Error](https://www.youtube.com/watch?v=A82brFpdr9g)
+
 ---
 
 <font color="#d2a107"><h4>*Descriptive Statistics*</h4></font>
@@ -52,11 +60,13 @@ title: "Intro to Quantitative Methods"
 
 ---
 
-<font color="#d2a107"><h4>*Inductive Models of Politics*</h4></font>
+<font color="#d2a107"><h4>*Induction Meets Deduction (Examples)*</h4></font>
 
 ---
 
-* [Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States (Graham and Svolik, March 2019)](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf)
+* [Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf) by Graham and Svolik, March 2019
+
+* [The Demise of Mexico's One-Party Dominant Regime: Elite Choices and the Masses in the Establishment of Democracy](https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/demise-of-mexicos-oneparty-dominant-regime-elite-choices-and-the-masses-in-the-establishment-of-democracy/E1D4013ACCBE26310D6E728E813593BB) by Magaloni (2005)
 
 ---
 
