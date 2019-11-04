@@ -44,19 +44,35 @@ title: "Intro to Quantitative Methods"
 
 ---
 
+<font color="#d2a107"><h4>*Conceptualization and Measurement*</h4></font>
+
+---
+
+* [The State of State Capacity : A Review of Concepts, Evidence and Measures](https://ideas.repec.org/p/unm/unumer/2013053.html)
+
+* [Democracy with Adjectives: Conceptual Innovation in Comparative Research](https://www.jstor.org/stable/25054009?seq=1#metadata_info_tab_contents)
+
+---
+
 <font color="#d2a107"><h4>*Research Designs*</h4></font>
 
 ---
 
-* [Analysis of Field Experiments](https://egap.shinyapps.io/gotv-app/) Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock)
+* [Analysis of Field Experiments](https://egap.shinyapps.io/gotv-app/) Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock) with reference to ["Getting out the Latino Vote: How Door-to-Door Canvassing Influences Voter Turnout in Rural Central California"](https://www.jstor.org/stable/3657320?seq=1#metadata_info_tab_contents) by Michelson (2003)
 
 * [Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials](https://advances.sciencemag.org/content/5/7/eaaw2612)
 
 * [African Borders as Sources of Natural Experiments: Promise and Pitfalls](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
 
-* Nobel Prize in Economics winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
+* Nobel Prize in Economics Winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
 
-* [An introduction to randomized controlled trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
+* [An Introduction to Randomized Controlled Trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
+
+* [Durably Reducing Transphobia: A Field Experiment on Door-to-Door Canvassing](https://science.sciencemag.org/content/352/6282/220) by Broockman and Kalla (2016)
+
+* [Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering](https://www.jstor.org/stable/40506254?seq=1#metadata_info_tab_contents) by Clingingsmith, Khwaja and Kremer (2009)
+
+* [Women as Policy Makers: Evidence from a India-Wide Randomized Policy Experiment](https://economics.mit.edu/files/792) by Duflo and Chattopadhyay (2004)
 
 ---
 
