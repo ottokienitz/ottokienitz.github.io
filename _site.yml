@@ -12,11 +12,13 @@ navbar:
       href: cv.html      
     - text: "Teaching"
       menu: 
-      - text: Quantitative Methods
+      - text: Comparative Politics (S20)
+        href: ps2_s20.html
+      - text: Quantitative Methods (F19)
         href: ps3.html
-      - text: Comparative Politics
-        href: ps2.html
-      - text: Eastern Europen Politics
+      - text: Comparative Politics (S19)
+        href: ps2_s19.html
+      - text: Eastern Europen Politics (F18)
         href: ee.html
     - text: "CP"
       href: cp.html

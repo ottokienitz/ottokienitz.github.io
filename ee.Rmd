@@ -1,10 +1,10 @@
 ---
-title: "Politics and Government in Eastern Europe"
+title: "PS 141C: Politics and Government in Eastern Europe (Fall 2018)"
 ---
 
 <br>
 
-<img align="center" src="images/horse.jpg" width = "650">
+<img align="center" src="images/horse.jpg" width = "500">
 
 *A wave-swept shore, remote, forlorn / here he stood, rapt in thought and drawn / to distant prospects.*
 

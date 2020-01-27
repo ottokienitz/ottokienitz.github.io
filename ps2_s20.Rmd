@@ -1,0 +1,99 @@
+---
+title: "PS 2: Comparative Politics (Spring 2020)"
+---
+
+<br>
+
+<img align="center" src="images/yabloko_cropped_.jpg" width = "500">
+
+*Sakharova Prospekt, Moscow (Summer 2019)*
+
+<br>
+
+# {.tabset .tabset-fade}
+
+## Discussion
+
+---
+
+<font color="#d2a107"><h4>*Week 1*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Introduction to Comparative Politics </ins>
+
+<br/>
+
+_What is the value of comparison?_ 
+
+_What is political order?_
+
+* David Collier. 1993. "The Comparative Method," in Ada Winfter, ed. Political Science: The State of the Discipline II, pp. 105-119.
+
+* Robert Bates. 2009. "From Case Studies to Social Science: A Strategy for Political Research" in Carles Boix and Susan C. Stokes, ed. The Oxford Handbook of Comparative Politics. Oxford University Press.
+
+For more on the country cases (China, Hungary, India, Mexico, and Nigeria):
+
+[CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/): Introduction, Geography, People and Society, Government, and Economy (Overview).
+
+[Freedom House: Freedom in the World](https://freedomhouse.org/report/countries-world-freedom-2019): Overview and Country Reports.
+
+[The Economist Intelligence Unit](https://www.eiu.com/topic/democracy-index): Democracy Index and Country Reports.
+
+Video: [Democracy Index 2019: A Year of Democratic Setbacks and Popular Protest](https://www.youtube.com/watch?v=X9hgyhuniB8&feature=emb_title)
+
+Video: [2019: A Year of Major Protests](https://www.youtube.com/watch?v=oHJ5MLPhWBs)
+
+---
+
+<font color="#d2a107"><h4>*Week 2*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> State and Citizens </ins>
+
+<br/>
+
+_What is the State?_
+
+_Does the State solve the problem of political order?_
+
+_What is the difference between jus soli and jus sanguinis citizenship? Are these useful concepts to understand debates over citizenship in many parts of the world?_
+
+* Thomas Hobbes. Leviathan. Of Commonwealth: Chapter XVII-XVIII (any edition)
+
+* Max Weber, "Politics as a Vocation" -- Selected Pages ("Monopoly of Violence").
+
+* Maarten Vink. 2017. "Comparing Citizenship Regimes," in Ayelet Shachar, Rainer Bauböck, Irene Bloemraad, and Maarten Vink, ed. The Oxford Handbook of Citizenship. Oxford University Press.
+
+* Ornit Shani. 2010. "Conceptions of Citizenship in India and the 'Muslim Question'." Modern South Asian Studies. Vol. 44, No. 1, pp. 145-173.
+
+## Reading & Writing
+
+---
+
+<font color="#d2a107"><h4>*Reading Resources:*</h4></font>
+
+---
+
+[How to Read Political Science: A Guide in Four Steps](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf) from Amelia Hoover Green, Drexel University (2013)
+
+---
+
+<font color="#d2a107"><h4>*Writing Resources:*</h4></font>
+
+---
+
+[Chicago Manual of Style](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
+
+[Research Writing Calculator](https://www.lib.umn.edu/ac/research-paper?d=2018-10-09.2018-11-20)
+
+[Three Templates for Introductions to Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew Little (2016)

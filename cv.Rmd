@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[PDF](okpscv.pdf)
+[PDF](Kienitz_Resume.pdf)
 
 <img align="center" src="images/EUSP.jpg" width = "400">
 
@@ -27,7 +27,7 @@ BA, University of Pennsylvania, College of Arts and Sciences, Philadelphia, Penn
 
 ---
 
-__Subfields__: Comparative Politics, Eastern Europe and Post-Soviet Studies, Methodology and Formal Theory
+__Subfields__: Comparative Politics, Post-Soviet Studies, Methodology and Formal Theory
 
 __Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasian Studies](https://iseees.berkeley.edu)
 

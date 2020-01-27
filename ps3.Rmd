@@ -1,10 +1,10 @@
 ---
-title: "Intro to Quantitative Methods"
+title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 ---
 
 <br>
 
-<img align="center" src="images/horse.jpg" width = "650">
+<img align="center" src="images/horse.jpg" width = "500">
 
 *A wave-swept shore, remote, forlorn / here he stood, rapt in thought and drawn / to distant prospects.*
 
@@ -15,6 +15,20 @@ title: "Intro to Quantitative Methods"
 # {.tabset .tabset-fade}
 
 ## Discussion
+
+---
+
+<font color="#d2a107"><h4>*Regression*</h4></font>
+
+---
+
+[Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+
+[Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+
+[A Beginner’s Guide to Linear Regression](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)
+
+[Regression Analysis (OLS method)](https://mgimond.github.io/Stats-in-R/regression.html) -- in R -- but more nice pictures illustrating the geometric properties of regression
 
 ---
 
