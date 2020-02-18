@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[PDF](Kienitz_Resume.pdf)
+[PDF](Kienitz_CV Dec19.pdf)
 
 <img align="center" src="images/EUSP.jpg" width = "400">
 
@@ -42,7 +42,9 @@ __Professional Organizations__: [APSA: Comparative Democratization Subsection](h
 
 ---
 
-PS 3: Introduction to Empirical Analysis and Quantitative Methods with Professor Jason Wittenberg (Fall 2019)
+PS 2: Comparative Politics with Professor Pradeep Chhibber (Spring 2020) -- Head GSI
+
+PS 3: Introduction to Empirical Analysis and Quantitative Methods with Professor Jason Wittenberg (Fall 2019) -- Head GSI
 
 PS 2: Comparative Politics with Professor Steven Fish (Spring 2019)
 
