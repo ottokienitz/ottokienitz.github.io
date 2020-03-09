@@ -50,6 +50,16 @@ Video: [2019: A Year of Major Protests](https://www.youtube.com/watch?v=oHJ5MLPh
 
 ---
 
+**Regime Change:**
+
+---
+
+[Conceptual Issues in the Comparative Study of Regime Change and Democratization](https://www.jstor.org/stable/422351?seq=1#metadata_info_tab_contents) by Stephanie Lawson in _Comparative Politics_ (1993)
+
+[Review: Rethinking Regime Change](https://www.jstor.org/stable/421966?seq=1#metadata_info_tab_contents) by Nancy Bermeo in _Comparative Politics_ (1990)
+
+---
+
 <font color="#d2a107"><h4>*Week 2*</h4></font>
 
 ---
@@ -78,6 +88,8 @@ _What is the difference between jus soli and jus sanguinis citizenship? Are thes
 
 India's Government Wants to Block Some Muslims From Citizenship: Here's What to Know About a Controversial New Bill -- [(read here)](https://time.com/5746688/india-citizenship-amendment-bill/)
 
+John Oliver on [India's Prime Minister Narendra Modi](https://www.youtube.com/watch?v=qVIXUhZ2AWs)
+
 ---
 
 <font color="#d2a107"><h4>*Week 3*</h4></font>
@@ -98,7 +110,7 @@ _How is political inequality express itself in Nigeria?_
 
 _What is the relationship between political inequality and political order?_
 
-* Robert Dahl. 1996. "Equality versus Inequality." Political Science and Politics. Vol. 29, No.4, pp. 639-48.
+* Robert Dahl. 1996. "Equality versus Inequality." Political Science and Politics. Vol. 29, No. 4, pp. 639-48.
 
 * Sidney Verba. 2003. "Would the Dream of Political Equality Turn out to Be a Nightmare?." Perspectives on Politics. Vol. 1, No. 4, pp.663-79.
 
@@ -112,7 +124,7 @@ _What is the relationship between political inequality and political order?_
 
 Women as Policy Makers: Evidence from a Randomized Policy Experiment in India by Raghabendra Chattopadhyay and Esther Duflo -- Nobel Prize in Economics Winners (2019) -- [(read here)](https://www.jstor.org/stable/3598894?seq=1#metadata_info_tab_contents)
 
-Reserving political seats for women increases female electoral participation and responsiveness to women’s policy concerns -- [(read here)](https://gap.hks.harvard.edu/political-reservation-and-substantive-representation-evidence-indian-village-councils)
+Reserving political seats for women increases female electoral participation and responsiveness to women's policy concerns -- [(read here)](https://gap.hks.harvard.edu/political-reservation-and-substantive-representation-evidence-indian-village-councils)
 
 ---
 
@@ -136,11 +148,13 @@ _How do political scientists define democracy? What are the weaknesses of this d
 
 * Milan Svolik. 2012. "Chapter 1: The Anatomy of Dictatorship"; "Chapter 2: The World of Authoritarian Politics." _The Politics of Authoritarian Rule_. Cambridge University Press.
 
-* Andrew Nathan. 2003. "China’s Changing of the Guard: Authoritarian Resilience." Journal of Democracy. Vol. 14, No. 1, pp. 6-17.
+* Andrew Nathan. 2003. "China's Changing of the Guard: Authoritarian Resilience." Journal of Democracy. Vol. 14, No. 1, pp. 6-17.
 
 * Susan Shirk. 2018. "China in Xi's 'New Era': The Return to Personalistic." Journal of Democracy. Vol. 29, No. 2, pp. 22-36.
 
 * Philippe Schmitter and Terry Lynn Karl. 1991. "What Democracy Is... and Is Not." Journal of Democracy. Vol 2, No. 3, pp. 75-88.
+
+John Oliver on [authoritarian leaders around the world](https://www.youtube.com/watch?v=ximgPmJ9A5s)
 
 ---
 
@@ -156,13 +170,13 @@ _How do political scientists define democracy? What are the weaknesses of this d
 
 [Authoritarian Resilience Revisited: Joseph Fewsmith with Response from Andrew J. Nathan](https://www.tandfonline.com/doi/full/10.1080/10670564.2018.1511390?src=recsys)
 
-[An Institutional Analysis of Xi Jinping’s Centralization of Power](https://www.tandfonline.com/doi/full/10.1080/10670564.2016.1245505?src=recsys)
+[An Institutional Analysis of Xi Jinping's Centralization of Power](https://www.tandfonline.com/doi/full/10.1080/10670564.2016.1245505?src=recsys)
 
 [The Powers of Xi Jinping](https://www.tandfonline.com/doi/full/10.1080/03068374.2016.1267435?src=recsys)
 
 [How Xi Jinping Made His Power Grab: With Stealth, Speed and Guile](https://www.nytimes.com/2018/03/07/world/asia/china-xi-jinping-party-term-limit.html)
 
-[As China’s Troubles Simmer, Xi Reinforces His Political Firewall](https://www.nytimes.com/2019/10/28/world/asia/china-xi-jinping-communist-party-plenum.html)
+[As China's Troubles Simmer, Xi Reinforces His Political Firewall](https://www.nytimes.com/2019/10/28/world/asia/china-xi-jinping-communist-party-plenum.html)
 
 ---
 
@@ -182,7 +196,7 @@ _How does the state reinforce or broaden existing income inequality?_
 
 _When does income inequality become a source of political mobilisation?_
 
-* Joseph Stiglitz. 2012. "Chapter 1: America’s 1 Percent Problem." The Price of Inequality: How Today’s Divided Society Endangers Our Future." W.W. Norton and Company.
+* Joseph Stiglitz. 2012. "Chapter 1: America's 1 Percent Problem." The Price of Inequality: How Today's Divided Society Endangers Our Future." W.W. Norton and Company.
 
 * Kenneth Scheve and David Stasavage. 2017. "Wealth Inequality and Democracy." Annual Review of Political Science. Vol. 20, pp. 451-68.
 
@@ -193,6 +207,135 @@ _When does income inequality become a source of political mobilisation?_
 * Additional reading: Karl Marx. Excerpts from Part I, Section B of The German Ideology: "Conclusions from the Materialist Conception of History" -- [(read here)](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm).
 
 Experimental evidence from South Africa: "Local Exposure to Inequality Among the Poor Increases Support for Taxing the Rich" by Melissa Sands and Daniel de Kadt (2019) -- [(read here)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjOzfyKz9vnAhWbHzQIHcOrDZMQFjAAegQIAhAB&url=https%3A%2F%2Fosf.io%2Fpreprints%2Fsocarxiv%2F9ktg2%2Fdownload&usg=AOvVaw3UESJF_fKFDZPJ2laP6xQj)
+
+---
+
+**Paper:**
+
+---
+
+[Notes on Gurr: Why Men Rebel (1970) on "Relative Deprivation"](https://adambrown.info/p/notes/gurr_why_men_rebel)
+
+[Resource Mobilization Theories](https://publishing.cdlib.org/ucpressebooks/view?docId=ft40000586&chunk.id=d0e7705&toc.id=&brand=ucpress)
+
+[Resource Mobilization as a Theoretical Framework](https://www.sciencedirect.com/topics/social-sciences/resource-mobilization)
+
+[Resource Mobilization Theory and the Study of Social Movements](https://www.jstor.org/stable/2946077?seq=1#metadata_info_tab_contents)
+
+---
+
+<font color="#d2a107"><h4>*Week 6*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Ethnicity and Ethnic Conflict </ins>
+
+<br/>
+
+_What is ethnic identity?_
+
+_What is ethnic conflict?_
+
+_How are ethnic conflict and ethnic identity related?_
+
+_What is the role of ethnicity in the Niger Delta rebellion?_
+
+* Kanchan Chandra. 2006. "What is Ethnic identity and does it matter?" Annual Review
+of Political Science. Vol. 9: pp.397-424.
+
+* Daniel Posner. 2004. "The Political Salience of Cultural Difference: Why Chewas and Tumbukas Are Allies in Zambia and Adversaries in Malawi." American Political Science Review. Vol. 98, No. 4. pp: 529-45.
+
+* Omolade Adunbi. 2018. ’The Rise and Decline (and Rise) of the Niger Delta Rebellion’ in A. Carl LeVan and Patrick Ukata, ed. The Oxford Handbook of Nigerian Politics. Oxford University Press.
+
+---
+
+**Paper:**
+
+---
+
+[Review: Ethnicity and Ethnic Conflict](https://www.jstor.org/stable/160969?seq=1#metadata_info_tab_contents)
+
+[Politics, Ethno-Religious Conflicts and Democratic Consolidation in Nigeria](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/politics-ethnoreligious-conflicts-and-democratic-consolidation-in-nigeria/8CB2BC179AB118A9B0F1C07AB064AE28)
+
+["Blood Oil," Ethnicity, and Conflict in the Niger Delta](https://www.tandfonline.com/doi/full/10.1080/23311886.2017.1358526)
+
+[Who Owns the Oil? The Politics of Ethnicity in the Niger Delta of Nigeria](https://www.jstor.org/stable/4187306?seq=1#metadata_info_tab_contents)
+
+[Ethnic-Conflict and its Manifestations in the Politics of Recognition in a Multi-Ethnic Niger Delta Region](https://www.tandfonline.com/doi/pdf/10.1080/23311886.2017.1358526?needAccess=true)
+
+---
+
+<font color="#d2a107"><h4>*Week 7*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Religion </ins>
+
+<br/>
+
+_Is religion just another 'ethnic' identity?_
+
+_What is a secular state?_
+
+_Is religious conflict inevitable?_
+
+_Why is there Hindu-Muslim violence in India?_
+
+* Anna Grzymala-Busse. 2012. "Why Comparative Politics Should Take Religion (More) Seriously?" Annual Review of Political Science. Vol. 15: pp. 421-42.
+
+* Jonathan Fox. 2017. "Political Secularism and Democracy in Theory and Practice." in Phil Zuckerman and John R. Shook, ed. The Oxford Handbook of Secularism.
+
+* Ashutosh Varshney. 2013. "The State and Civil Society in Communal Violence" in Atul Kohli and Prerna Singh, ed. Routledge Handbook of Indian Politics.
+
+---
+
+**Paper:**
+
+---
+
+Varshney, "Ethnicity and Ethnic Conflict" [(Oxford Handbook of Comparative Politics)](https://www-oxfordhandbooks-com.libproxy.berkeley.edu/view/10.1093/oxfordhb/9780199566020.001.0001/oxfordhb-9780199566020-e-12?print=pdf)
+
+Varshney, "Ethnic Conflict and Civil Society: India and Beyond" [(full article)](https://www.jstor.org/stable/25054154?seq=28#metadata_info_tab_contents)
+
+---
+
+<font color="#d2a107"><h4>*Week 8*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Culture, Social Capital, and Institutions </ins>
+
+<br/>
+
+_Are certain cultures more conducive for political order?_
+
+_What is the difference between institutions and organizations?_
+
+_Is institutional weakness a source of political disorder?_
+
+* Robert Putnam. 1995. "Tuning In, Tuning Out: The Strange Disappearance of Social Capital in America." PS: Political Science and Politics. Vol. 28, No. 4: pp. 664-83.
+
+* Sheri Berman. "Civil Society and the collapse of the Weimar Republic." World Development. Vol. 49, No. 3: pp. 401-29.
+
+* Samuel Huntington. 1968. "Chapter 1: Political Order and the Political Decay." Political Order in Changing Societies (pp. 1-32 only).
+
+* Douglas North. 1991. "Institutions." Journal of Economic Perspectives. Vol. 5, No. 1. (pp. 1-2 only).
+
+* Daniel Mattingly. 2016. "Elite Capture: How Decentralization and Informal Institutions Weaken Property Rights in Rural China." World Politics. Vol. 68, No. 3: pp. 383-412.
+
+
 
 ## Reading & Writing
 
