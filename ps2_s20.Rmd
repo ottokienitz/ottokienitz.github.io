@@ -351,7 +351,7 @@ Guiso et al. [Civic Capital as the Missing Link](https://www.nber.org/papers/w15
 
 ---
 
-<font color="#d2a107"><h4>*Week 10*</h4></font>
+<font color="#d2a107"><h4>*Week 9.5*</h4></font>
 
 ---
 
@@ -363,7 +363,7 @@ Guiso et al. [Civic Capital as the Missing Link](https://www.nber.org/papers/w15
 
 <br/>
 
-Assigned:
+Assigned readings:
 
 [Coronavirus and Autocrats: Never Let Pandemic Go to Waste](https://www.wsj.com/articles/coronavirus-and-autocrats-never-let-pandemic-go-to-waste-11585400400)
 
@@ -373,6 +373,8 @@ Additional:
 
 [Ivan Krastev, "Seven early lessons from the coronavirus"](https://www.ecfr.eu/article/commentary_seven_early_lessons_from_the_coronavirus)
 
+United States:
+
 [Saez and Zucman, "Keeping Business Alive: The Government Will Pay"](http://gabriel-zucman.eu/files/coronavirus2.pdf)
 
 [Adam Tooze, "Coronavirus has shattered the myth that the economy must come first"](https://www.theguardian.com/commentisfree/2020/mar/20/coronavirus-myth-economy-uk-business-life-death)
@@ -381,7 +383,47 @@ Additional:
 
 [Partisanship, Health Behavior, and Policy Attitudes in the Early Stages of the COVID-19 Pandemic](https://poseidon01.ssrn.com/delivery.php?ID=635090098026018005092104102017029113035055008027063057097126082071104125123025114023103053058028021063113098016000127094008120118025036001009122114075071114093085093032069067098123024104069096009112074125104076066074118090123088093094024107105068105127&EXT=pdf)
 
+India:
+
+[Pandemic and Politics in India](https://indianexpress.com/article/opinion/columns/coronavirus-covid-19-pandemic-india-6319313/)
+
+[Containing fallout for the poor in India](https://indianexpress.com/article/opinion/columns/india-lockdown-coronavirus-threat-covid-19-spread-6335042/)
+
+Post-Soviet Responses:
+
 [Post-Soviet State Responses to COVID-19](http://www.ponarseurasia.org/sites/default/files/policy-memos-pdf/Pepm641_Laruelle-McCann_March2020.pdf)
+
+[How Is Russia Coping With Coronavirus?](https://carnegie.ru/commentary/81351)
+
+[Pandemic Unsettles Ukraine's Zelensky](https://carnegie.ru/commentary/81374)
+
+---
+
+<font color="#d2a107"><h4>*Week 10*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Presidents, Prime Ministers, and Federalism </ins>
+
+<br/>
+
+_Distinguish between presidential and parliamentary system and unitary and federal system?_
+
+_What are the various forms of federalism?_
+
+_Are certain forms of government more stable than others?_
+
+* Juan Linz. 1990. "Perils of Presidentialism?" Journal of Democracy. Vol. 1, No. 1, pp. 51-69.
+
+* Alfred Stepan. 1999. "Federalism and Democracy: Beyond the US Model." Journal of Democracy. Vol. 10, No. 4.
+
+* Victoria E. Rodríguez. 1998. "Recasting Federalism in Mexico." Publius. Vol. 28, No. 1, pp. 235-254.
+
+---
 
 ## Reading & Writing
 
