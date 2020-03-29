@@ -375,6 +375,8 @@ Additional:
 
 United States:
 
+[Data: COVID-19 Dashboard by County (NYT)](https://rcharlie.shinyapps.io/covid-19-data/_w_9ea373be/)
+
 [Saez and Zucman, "Keeping Business Alive: The Government Will Pay"](http://gabriel-zucman.eu/files/coronavirus2.pdf)
 
 [Adam Tooze, "Coronavirus has shattered the myth that the economy must come first"](https://www.theguardian.com/commentisfree/2020/mar/20/coronavirus-myth-economy-uk-business-life-death)
@@ -383,11 +385,19 @@ United States:
 
 [Partisanship, Health Behavior, and Policy Attitudes in the Early Stages of the COVID-19 Pandemic](https://poseidon01.ssrn.com/delivery.php?ID=635090098026018005092104102017029113035055008027063057097126082071104125123025114023103053058028021063113098016000127094008120118025036001009122114075071114093085093032069067098123024104069096009112074125104076066074118090123088093094024107105068105127&EXT=pdf)
 
+[Pandemic Politics: Timing State-Level Social Distancing Responses to COVID-19](https://faculty.washington.edu/cadolph/papers/AABFW2020.pdf)
+
 India:
 
 [Pandemic and Politics in India](https://indianexpress.com/article/opinion/columns/coronavirus-covid-19-pandemic-india-6319313/)
 
 [Containing fallout for the poor in India](https://indianexpress.com/article/opinion/columns/india-lockdown-coronavirus-threat-covid-19-spread-6335042/)
+
+Organized crime:
+
+[Drug gangs in Brazil's favelas enforce coronavirus lockdown](https://www.ft.com/content/aaef1591-2fc5-4e6f-ab84-0e83b5a146ca)
+
+[Video from Chechnya](https://twitter.com/KevinRothrock/status/1244352318851764224?s=20)
 
 Post-Soviet Responses:
 
