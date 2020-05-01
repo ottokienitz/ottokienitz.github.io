@@ -413,6 +413,8 @@ Updates:
 
 [The Comparative Politics and Political Economy of Pandemic](https://drive.google.com/file/d/1D83LF1IPufNTBhT6yN_n4SdLEuz72t3_/view) by Noah Buckley (Trinity College Dublin)
 
+[The Pandemic Challenges Democracies -- But Really Hurts Dictators](https://www.washingtonpost.com/politics/2020/04/30/pandemic-challenges-democracies-really-hurts-dictators/)
+
 ---
 
 <font color="#d2a107"><h4>*Week 10*</h4></font>
@@ -500,6 +502,120 @@ _What have been the salient changes in party organisation in the last century?_
 [Chapter Nine, "Party Fortunes and Electoral Rules,"](https://www-cambridge-org.libproxy.berkeley.edu/core/books/cultural-backlash/party-fortunes-and-electoral-rules/612B1AF47DD220CDD6FE3DFF26B255DA) in Cultural Backlash: Trump, Brexit, and Authoritarian Populism by Pippa Norris and Ronald Inglehart (2018)
 
 [Chapter Ten, "Electoral System Design"](https://www.researchgate.net/publication/266316259_Electoral_Systems_and_the_Lund_Recommendations) by Brendan O'Leary in Political Participation of Minorities: A Commentary on International Standards and Practice, Eds. Marc Weller and Katherine Nobbs. Oxford University Press, 2010.
+
+---
+
+<font color="#d2a107"><h4>*Week 12*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Reservations and Representation </ins>
+
+<br/>
+
+_Distinguish between symbolic, descriptive and substantive representation_
+
+_Does descriptive representation lead to substantive representation?_
+
+_Did gender quotas lead to an improvement in status of women in India?_
+
+* Hanna Pitkin. 1969. "Chapter 1: Representation."
+
+* Raghabendra Chattopadhyay and Esther Duflo. 2004. "Women as Policy Makers." Econometrica. Vol. 72, No. 5: pp. 1409-43.
+
+* Rohini Pande and Deanna Ford. 2011. [Gender Quotas and Female Leadership: A Review. World Development Report on Gender](http://www.tinyurl.com/yxhp8v6z)
+
+* Mala Htun and Francesca R. Jensenius. 2020. "Fighting Violence Against Women: Laws, Norms, and Challenges Ahead." Daedalus. Vol. 149, No. 1: pp. 144-59.
+
+Pamela Paxton, et al., [The International Women's Movement and Women's Political Representation, 1893-2003](https://www.jstor.org/stable/25472436?seq=1#metadata_info_tab_contents) (2006)
+
+Pamela Paxton, [Women's Suffrage in the Measurement of Democracy: Problems of Operationalization](https://link-springer-com.libproxy.berkeley.edu/article/10.1007/BF02699767) (2000)
+
+Nobel Prize in Economics Winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
+
+[What Does Esther Duflo's Nobel Prize Mean For Gender Equity In Economics?](https://www.forbes.com/sites/meghanmccormick/2019/10/19/what-does-esther-duflos-nobel-prize-mean-for-gender-equity-in-economics/#44e5c466a281)
+
+---
+
+<font color="#d2a107"><h4>*Week 13*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Nationalism and Populism </ins>
+
+<br/>
+
+_Distinguish between nationalism and sub-nationalism?_
+
+_Does sub-nationalism challenge political order_
+
+_How do left-wing and right-wing populism differ?_
+
+_Is populism a solution to the perceived problem of political order?_
+
+* Prerna Singh. 2015. "Chapter 1: Subnationalism and Social Development: An Introductionm," in _How Solidarity Works for Welfare: Subnationalism and Social Development in India_. Cambridge University Press.
+
+* William Galston. 2018. "The Populist Challenge to Liberal Democracy." Journal of Democracy. Vol. 29, No. 2: pp. 5-19.
+
+* Anna Grzymala Busse. 2019. "How Populists Rule: The Consequences for Democratic Governance." Polity. Vol. 51, No. 4: pp. 707-17.
+
+* Anna Grzymala Busse. 2017. "Populism and the Erosion of Democracy in Poland and Hungary." Working Paper.
+
+[Populism](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199585977.001.0001/oxfordhb-9780199585977-e-026), in _The Oxford Handbook of Political Ideologies_ (2013) by Cas Mudde and Cristobal Rovira Kaltwasser.
+
+Cas Mudde, ["Populism in the Twenty-First Century: An Illiberal Democratic Response to Undemocratic Liberalism"](https://www.sas.upenn.edu/andrea-mitchell-center/cas-mudde-populism-twenty-first-century)
+
+Bart Bonikowski, ["Three Lessons of Contemporary Populism in Europe and the United States"](https://scholar.harvard.edu/files/bonikowski/files/bonikowski_-_three_lessons_of_contemporary_populism_in_the_united_states_and_europe.pdf), _Brown Journal of World Affairs_ (2016)
+
+Discussion of the defintion of populism by Bonikowski (2016):
+
+_To ground the discussion, it is useful to begin with a simple definition of populism that captures its most fundamental features. Most scholars would agree with political scientist Cas Mudde that, at its core, populism is a form of politics predicated on the juxtaposition of a corrupt elite with a morally virtuous people.[3] Studies of populism are not concerned with adjudicating whether such moral judgments are accurate, but rather with understanding when this form of politics becomes prevalent, why it is able to garner public support, how it affects existing configurations of political power, and what impact it has on political institutions and policy._
+
+_While a binary moral classification is common to all populist rhetoric, the identities of the vilified elites vary. They frequently include political actors— either elected representatives or civil servants—but also journalists, academics, and business leaders. The boundaries placed around "the people" are often less specific so as to maximize the scope of populist claims. Despite this common vagueness, some varieties of populism exploit antipathies toward particular out- groups, such as ethnic, racial, or religious minorities, by accusing them of having co-opted the elites for their own nefarious ends. The result of such exclusionary discourse is the implicit narrowing of "the people" to a subset of the public that qualifies as the legitimate source of political power. In recent cases of right-wing populism, such as the Trump campaign and European anti-immigrant move- ments, appeals to "the people" have primarily targeted white, native-born voters, by tapping into their grievances with demographic and cultural change, as well as their dissatisfaction with mainstream politics.[4] Nonetheless, such targeting strategies are often subtle and subsumed under ostensibly universal appeals to the public will._
+
+_Besides its vilification of elites and glorification of the people, populism also entails a particular understanding of political institutions. Like most political strategies, populist appeals not only diagnose a political problem -- in this case, the elites' abandonment of the common good in favor of their own self-interest -- but also offer a solution, namely the acquisition of political power by the populist politician or party on behalf of the people. What complicates this simple political calculus, however, is populists' persistent delegitimization of democratic institutions. The moral suspicion cast on ostensibly corrupt elites, often extends to the institutions from which those elites profit, as evidenced by frequent references in populist discourse to rigged elections and the power of special interests. As a result, populism often calls for the replacement of existing intermediate political institutions with more direct forms of participation (e.g., referenda instead of legislative action by elected representatives).[5] This presents a legitimacy challenge for those populist actors who successfully gain entry into the same institutions they disparage._
+
+[3]. Cas Mudde, Populist Radical Right Parties in Europe (Cambridge: Cambridge University Press, 2007), 23.
+
+[4]. Elisabeth Ivarsflaten, "What Unites Right-Wing Populists in Western Europe? Re-Examining Grievance Mobilization Models in Seven Successful Cases," Comparative Political Studies 41, no. 1 (2008): 14–15; Oliver and Rahn, "Rise of the Trumpenvolk," 196–201.
+
+[5]. Margaret Canovan, "Taking Politics to the People: Populism as the Ideology of Democracy," in Democracies and the Populist Challenge, ed. Yves Meny and Yves Surel (New York: Palgrave, 2002), 134–8. 6. Steven Levitsky and Kenneth M. Roberts, eds. The Resurgence of the Latin American Left (Baltimore: John Hopkins University Press, 2011), 4–5.
+
+---
+
+<font color="#d2a107"><h4>*Week 13*</h4></font>
+
+---
+
+**Readings:**
+
+---
+
+<ins> Conclusion </ins>
+
+<br/>
+
+_Emerging challenges to political order_
+
+* Solomon Hsiang, Marshall Burke, Edward Miguel. 2013. "Quantifying the Influence of Climate on Human Conflict." Science. Vol. 341, No. 6151.
+
+Solomon Hsiang, ["The Costs of Climate Change: Risks to the U.S. Economy and the Federal Budget"](https://static1.squarespace.com/static/596e4bf92994caa4c352f95a/t/5d091146ebe4d40001cfbc96/1560875334588/Testimony_Hsiang_6_10_19.pdf), Testimony to the U.S. Congress (2019)
+
+Berkeley [Global Policy Lab: Social Science Research on Climate Change](http://www.globalpolicy.science/research)
+
+New York Times, ["Researchers Link Syrian Conflict to a Drought Made Worse by Climate Change"](https://www.nytimes.com/2015/03/03/science/earth/study-links-syria-conflict-to-drought-caused-by-climate-change.html) (2015)
+
+For social science research on climate politics, see: [Leah Stokes](https://www.leahstokes.com). 2020. [Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States](https://global.oup.com/academic/product/short-circuiting-policy-9780190074265?cc=us&lang=en) and the [ENVENT Lab at UCSB](https://www.enventlab.com)
+
+History: [Epidemics and Revolutions: Cholera in Nineteenth-Century Europe](https://www.jstor.org/stable/650924?seq=1#metadata_info_tab_contents) (1988)
 
 ---
 
