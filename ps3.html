@@ -13,25 +13,38 @@
 
 <title>PS 3: Intro to Quantitative Methods (Fall 2019)</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -79,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +83,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +117,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +129,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +140,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +168,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -335,7 +304,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -354,81 +323,27 @@ $(document).ready(function () {
 <div id="discussion" class="section level2">
 <h2>Discussion</h2>
 <p><br></p>
-<p>Note: <em>topics listed in reverse order, newest at the top, oldest at the bottom</em>.</p>
 <hr />
 <font color="#d2a107">
 <h4>
-<em>Regression</em>
+<em>Introduction</em>
 </h4>
 <p></font></p>
 <hr />
-<p><a href="https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9">Simple and Multiple Linear Regression in Python</a></p>
-<p><a href="https://realpython.com/linear-regression-in-python/">Linear Regression in Python</a></p>
-<p><a href="https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f">A Beginner’s Guide to Linear Regression</a></p>
-<p><a href="https://mgimond.github.io/Stats-in-R/regression.html">Regression Analysis (OLS method)</a> – in R – but more nice pictures illustrating the geometric properties of regression</p>
-<hr />
-<font color="#d2a107">
-<h4>
-<em>Inferential Statistics</em>
-</h4>
-<p></font></p>
-<hr />
+<p><strong>Some History of Statistics:</strong></p>
 <ul>
-<li><p>A video introduction: <a href="https://vimeo.com/75089338">Central Limit Theorem</a></p></li>
-<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=hlM7zdf7zwU">Confidence Intervals and the Margin of Error</a></p></li>
-<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=Gak9AxlV1NI">How to Calculate the Standard Error of the Mean and Why It’s Important (Central Limit Theorem)</a></p></li>
-<li><p>An example: <a href="https://www.youtube.com/watch?v=SeQeYVJZ2gE">Confidence Interval Example</a></p></li>
-<li><p>A clarification: <a href="https://www.youtube.com/watch?v=A82brFpdr9g">Standard Deviation vs. Standard Error</a></p></li>
+<li><p><a href="https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409">David Freedman, “From Association to Causation: Some Remarks on the History of Statistics,” (1999)</a></p></li>
+<li><p><a href="http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf">David A. Freedman, “Statistical Models and Shoe Leather,” (1991)</a></p></li>
+<li><p><a href="https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&amp;EXT=pdf">Thomas S. Coleman, “Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference,” (2019)</a></p></li>
 </ul>
-<hr />
-<font color="#d2a107">
-<h4>
-<em>Descriptive Statistics</em>
-</h4>
-<p></font></p>
-<hr />
+<p><strong>Methods Guide:</strong></p>
 <ul>
-<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=mtbJbDwqWLE">The Normal Distribution and the 68-95-99.7 Rule</a></p></li>
-<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=mk8tOD0t8M0">Mode, Median, Mean, Range, and Standard Deviation</a></p></li>
+<li><p><a href="https://t.co/LKF218UfqP">Research Design Guide (2017)</a></p></li>
+<li><p><a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15">Alan Gerber and Donald Green, “Field Experiments and Natural Experiments,” (2011)</a></p></li>
 </ul>
-<hr />
-<font color="#d2a107">
-<h4>
-<em>Conceptualization and Measurement</em>
-</h4>
-<p></font></p>
-<hr />
+<p><strong>Comparing Big Ideas:</strong></p>
 <ul>
-<li><p><a href="https://ideas.repec.org/p/unm/unumer/2013053.html">The State of State Capacity : A Review of Concepts, Evidence and Measures</a></p></li>
-<li><p><a href="https://www.jstor.org/stable/25054009?seq=1#metadata_info_tab_contents">Democracy with Adjectives: Conceptual Innovation in Comparative Research</a></p></li>
-</ul>
-<hr />
-<font color="#d2a107">
-<h4>
-<em>Research Designs</em>
-</h4>
-<p></font></p>
-<hr />
-<ul>
-<li><p><a href="https://egap.shinyapps.io/gotv-app/">Analysis of Field Experiments</a> Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock) with reference to <a href="https://www.jstor.org/stable/3657320?seq=1#metadata_info_tab_contents">“Getting out the Latino Vote: How Door-to-Door Canvassing Influences Voter Turnout in Rural Central California”</a> by Michelson (2003)</p></li>
-<li><p><a href="https://advances.sciencemag.org/content/5/7/eaaw2612">Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials</a></p></li>
-<li><p><a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432">African Borders as Sources of Natural Experiments: Promise and Pitfalls</a></p></li>
-<li><p>Nobel Prize in Economics Winner (2019) <a href="https://www.youtube.com/watch?v=0zvrGiPkVcs&amp;t=1s">Esther Duflo on using social experiments to fight poverty</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=Wy7qpJeozec">An Introduction to Randomized Controlled Trials (RCTs)</a></p></li>
-<li><p><a href="https://science.sciencemag.org/content/352/6282/220">Durably Reducing Transphobia: A Field Experiment on Door-to-Door Canvassing</a> by Broockman and Kalla (2016)</p></li>
-<li><p><a href="https://www.jstor.org/stable/40506254?seq=1#metadata_info_tab_contents">Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering</a> by Clingingsmith, Khwaja and Kremer (2009)</p></li>
-<li><p><a href="https://economics.mit.edu/files/792">Women as Policy Makers: Evidence from a India-Wide Randomized Policy Experiment</a> by Duflo and Chattopadhyay (2004)</p></li>
-</ul>
-<hr />
-<font color="#d2a107">
-<h4>
-<em>Induction Meets Deduction (Examples)</em>
-</h4>
-<p></font></p>
-<hr />
-<ul>
-<li><p><a href="https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf">Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States</a> by Graham and Svolik (2019)</p></li>
-<li><p><a href="https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/demise-of-mexicos-oneparty-dominant-regime-elite-choices-and-the-masses-in-the-establishment-of-democracy/E1D4013ACCBE26310D6E728E813593BB">The Demise of Mexico’s One-Party Dominant Regime: Elite Choices and the Masses in the Establishment of Democracy</a> by Magaloni (2005)</p></li>
+<li><a href="https://books.google.ru/books?id=0-Z0LMVOaaAC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Jared Diamond and James A. Robinson (eds.), “Natural Experiments of History,” (2010)</a></li>
 </ul>
 <hr />
 <font color="#d2a107">
@@ -461,24 +376,77 @@ $(document).ready(function () {
 <hr />
 <font color="#d2a107">
 <h4>
-<em>Introduction</em>
+<em>Research Designs</em>
 </h4>
 <p></font></p>
 <hr />
-<p><strong>Some History of Statistics:</strong></p>
 <ul>
-<li><p><a href="https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409">David Freedman, “From Association to Causation: Some Remarks on the History of Statistics,” (1999)</a></p></li>
-<li><p><a href="http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf">David A. Freedman, “Statistical Models and Shoe Leather,” (1991)</a></p></li>
-<li><p><a href="https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&amp;EXT=pdf">Thomas S. Coleman, “Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference,” (2019)</a></p></li>
+<li><p><a href="https://egap.shinyapps.io/gotv-app/">Analysis of Field Experiments</a> Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock) with reference to <a href="https://www.jstor.org/stable/3657320?seq=1#metadata_info_tab_contents">“Getting out the Latino Vote: How Door-to-Door Canvassing Influences Voter Turnout in Rural Central California”</a> by Michelson (2003)</p></li>
+<li><p><a href="https://advances.sciencemag.org/content/5/7/eaaw2612">Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials</a></p></li>
+<li><p><a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432">African Borders as Sources of Natural Experiments: Promise and Pitfalls</a></p></li>
+<li><p>Nobel Prize in Economics Winner (2019) <a href="https://www.youtube.com/watch?v=0zvrGiPkVcs&amp;t=1s">Esther Duflo on using social experiments to fight poverty</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=Wy7qpJeozec">An Introduction to Randomized Controlled Trials (RCTs)</a></p></li>
+<li><p><a href="https://science.sciencemag.org/content/352/6282/220">Durably Reducing Transphobia: A Field Experiment on Door-to-Door Canvassing</a> by Broockman and Kalla (2016)</p></li>
+<li><p><a href="https://www.jstor.org/stable/40506254?seq=1#metadata_info_tab_contents">Estimating the Impact of the Hajj: Religion and Tolerance in Islam’s Global Gathering</a> by Clingingsmith, Khwaja and Kremer (2009)</p></li>
+<li><p><a href="https://economics.mit.edu/files/792">Women as Policy Makers: Evidence from a India-Wide Randomized Policy Experiment</a> by Duflo and Chattopadhyay (2004)</p></li>
 </ul>
-<p><strong>Methods Guide:</strong></p>
+<hr />
+<font color="#d2a107">
+<h4>
+<em>Conceptualization and Measurement</em>
+</h4>
+<p></font></p>
+<hr />
 <ul>
-<li><p><a href="https://t.co/LKF218UfqP">Research Design Guide (2017)</a></p></li>
-<li><p><a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15">Alan Gerber and Donald Green, “Field Experiments and Natural Experiments,” (2011)</a></p></li>
+<li><p><a href="https://ideas.repec.org/p/unm/unumer/2013053.html">The State of State Capacity : A Review of Concepts, Evidence and Measures</a></p></li>
+<li><p><a href="https://www.jstor.org/stable/25054009?seq=1#metadata_info_tab_contents">Democracy with Adjectives: Conceptual Innovation in Comparative Research</a></p></li>
 </ul>
-<p><strong>Comparing Big Ideas:</strong></p>
+<hr />
+<font color="#d2a107">
+<h4>
+<em>Descriptive Statistics</em>
+</h4>
+<p></font></p>
+<hr />
 <ul>
-<li><a href="https://books.google.ru/books?id=0-Z0LMVOaaAC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Jared Diamond and James A. Robinson (eds.), “Natural Experiments of History,” (2010)</a></li>
+<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=mtbJbDwqWLE">The Normal Distribution and the 68-95-99.7 Rule</a></p></li>
+<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=mk8tOD0t8M0">Mode, Median, Mean, Range, and Standard Deviation</a></p></li>
+</ul>
+<hr />
+<font color="#d2a107">
+<h4>
+<em>Inferential Statistics</em>
+</h4>
+<p></font></p>
+<hr />
+<ul>
+<li><p>A video introduction: <a href="https://vimeo.com/75089338">Central Limit Theorem</a></p></li>
+<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=hlM7zdf7zwU">Confidence Intervals and the Margin of Error</a></p></li>
+<li><p>A video introduction: <a href="https://www.youtube.com/watch?v=Gak9AxlV1NI">How to Calculate the Standard Error of the Mean and Why It’s Important (Central Limit Theorem)</a></p></li>
+<li><p>An example: <a href="https://www.youtube.com/watch?v=SeQeYVJZ2gE">Confidence Interval Example</a></p></li>
+<li><p>A clarification: <a href="https://www.youtube.com/watch?v=A82brFpdr9g">Standard Deviation vs. Standard Error</a></p></li>
+</ul>
+<hr />
+<font color="#d2a107">
+<h4>
+<em>Linear Regression</em>
+</h4>
+<p></font></p>
+<hr />
+<p><a href="https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9">Simple and Multiple Linear Regression in Python</a></p>
+<p><a href="https://realpython.com/linear-regression-in-python/">Linear Regression in Python</a></p>
+<p><a href="https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f">A Beginner’s Guide to Linear Regression</a></p>
+<p><a href="https://mgimond.github.io/Stats-in-R/regression.html">Regression Analysis (OLS method)</a> – in R – but more nice pictures illustrating the geometric properties of regression</p>
+<hr />
+<font color="#d2a107">
+<h4>
+<em>Induction Meets Deduction (Examples)</em>
+</h4>
+<p></font></p>
+<hr />
+<ul>
+<li><p><a href="https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf">Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States</a> by Graham and Svolik (2019)</p></li>
+<li><p><a href="https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/demise-of-mexicos-oneparty-dominant-regime-elite-choices-and-the-masses-in-the-establishment-of-democracy/E1D4013ACCBE26310D6E728E813593BB">The Demise of Mexico’s One-Party Dominant Regime: Elite Choices and the Masses in the Establishment of Democracy</a> by Magaloni (2005)</p></li>
 </ul>
 <hr />
 </div>
@@ -537,7 +505,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -555,7 +523,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

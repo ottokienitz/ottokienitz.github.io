@@ -13,25 +13,38 @@
 
 <title>Comparative Politics</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -79,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +83,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +117,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +129,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +140,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +168,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -335,7 +304,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -546,7 +515,7 @@ Review Materials
 <li>Young (1994): legacy of the colonial state (1) denied sovereignty (2) denied doctrine of nationalism (3) denied actor in IR; advanced colonial institutions were oriented toward exploitations, not development, in Africa</li>
 <li>Herbst (2000/2003): borders, geography, and population density (1) cost of expanding the domestic power infrastructure (2) nature of national boundaries (3) design of state systems</li>
 <li>Kohli (2004): in Nigeria the British set the long-term pattern of a neo-patrimonial state whose power was entangled in and weakened by particularistic and personalistic networks; South Korea benefited from the legacies of Japanese colonialism including (1) effective bureaucracy (2) educated civil service (3) police force (4) modern, centralized state with vast capacity and deep penetration into society</li>
-<li>Bates (2008): “state failure”" (1) the transformation of the state into an instrument of predation (2) a loss of the monopoly over the means of coercion</li>
+<li>Bates (2008): “state failure”” (1) the transformation of the state into an instrument of predation (2) a loss of the monopoly over the means of coercion</li>
 <li>Vu (2010): bureaucratic centralization; sites (arenas) for competition; e.g. in Latin America bureaucratization was more costly; economies were poorer to build war machines; liberalism and federalism were dominant ideologies; rulers and dominant elites had little interest in state building because they were in a low-threat environment and because of the availability of foreign loans</li>
 </ul>
 <p><strong>State capacity</strong></p>
@@ -654,7 +623,7 @@ Review Materials
 <ul>
 <li>O’Brien (1996): “rightful resistance”; form of political action in which the people use established laws, policies, and values to show that some officials have failed to live up to those same ideals; seek to make allies of other leaders who must prove their own dedication to the prescribed laws and values; between the two classical types of resistance (1) the direct and aggressive rebellion (2) ‘’everyday resistance’’ of subtle, anonymous, and disguised forms of dissent</li>
 <li>Ekiert (1996): during two periods (1) the late 1950s (2) late 1980s; state-socialist regimes experienced profound instability caused by the overlapping of the domestic economic and political crisis with geopolitical pressures and uncertainty; generated splits and struggles within the ruling elites, led to the fall of powerful leaders, and created openings in the political space; a crisis in one country tends to foster parallel processes in other countries and generates preemptive responses of their ruling elites</li>
-<li>Tarrow (1996): “power in movement”; social movements are collective challenges, based on common purposes and social solidarities, in sustained interaction with elites, opponents, and authorities; “cycles of contention” i.e. as one movement widens and information spreads about the susceptibility of a polity to challenge, additional activists and also ordinary people may "begin to test the limits of social control; rely on symbols and frames e.g. inherited cultural frames</li>
+<li>Tarrow (1996): “power in movement”; social movements are collective challenges, based on common purposes and social solidarities, in sustained interaction with elites, opponents, and authorities; “cycles of contention” i.e. as one movement widens and information spreads about the susceptibility of a polity to challenge, additional activists and also ordinary people may “begin to test the limits of social control; rely on symbols and frames e.g. inherited cultural frames</li>
 <li>Norris et al. (2005): protest politics has risen dramatically; demonstrators are drawn disproportionately from the left, and the people who demonstrate are also significantly more likely to be civic joiners, party members, and labor organization members, not less; demonstrations have become a major channel of public participation in democracies</li>
 <li>Wilkinson (2006): “electoral incentives for ethnic violence”: interstate and town-level variation in ethnic violence in India via the conditions under which the politicians who control the police and army have an incentive both to foment and to prevent ethnic violence; important political incentives when politicians in government will increase the supply of protection to minorities (1) when minorities are an important part of their party’s current support base (2) the support base of one of their coalition partners in a coalition government (3) when the overall electoral system in a state is so competitive that there is therefore a high probability that the governing party will have to negotiate or form coalitions with minority supported parties in the future</li>
 <li>McAdam and Tarrow (2010): “dynamics of contention;”political opportunities provide the major incentives for transforming mobilizational potential into action; signal the vulnerability of the state to collective action and thereby open up opportunity for others and affecting both alliances and conflict systems; the process leads to state responses which, in one way or another, produce a new structure of opportunity</li>
@@ -955,7 +924,7 @@ Review Materials
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -973,7 +942,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

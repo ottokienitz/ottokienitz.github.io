@@ -18,89 +18,29 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 <br>
 
-Note: _topics listed in reverse order, newest at the top, oldest at the bottom_.
+---
+
+<font color="#d2a107"><h4>*Introduction*</h4></font>
 
 ---
 
-<font color="#d2a107"><h4>*Regression*</h4></font>
+**Some History of Statistics:**
 
----
+* [David Freedman, "From Association to Causation: Some Remarks on the History of Statistics," (1999)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409)
 
-[Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+* [David A. Freedman, "Statistical Models and Shoe Leather," (1991)](http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf)
 
-[Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+* [Thomas S. Coleman, "Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference," (2019)](https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&EXT=pdf)
 
-[A Beginner’s Guide to Linear Regression](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)
+**Methods Guide:**
 
-[Regression Analysis (OLS method)](https://mgimond.github.io/Stats-in-R/regression.html) -- in R -- but more nice pictures illustrating the geometric properties of regression
+* [Research Design Guide (2017)](https://t.co/LKF218UfqP)
 
----
+* [Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
 
-<font color="#d2a107"><h4>*Inferential Statistics*</h4></font>
+**Comparing Big Ideas:**
 
----
-
-* A video introduction: [Central Limit Theorem](https://vimeo.com/75089338)
-
-* A video introduction: [Confidence Intervals and the Margin of Error](https://www.youtube.com/watch?v=hlM7zdf7zwU)
-
-* A video introduction: [How to Calculate the Standard Error of the Mean and Why It's Important (Central Limit Theorem)](https://www.youtube.com/watch?v=Gak9AxlV1NI)
-
-* An example: [Confidence Interval Example](https://www.youtube.com/watch?v=SeQeYVJZ2gE)
-
-* A clarification: [Standard Deviation vs. Standard Error](https://www.youtube.com/watch?v=A82brFpdr9g)
-
----
-
-<font color="#d2a107"><h4>*Descriptive Statistics*</h4></font>
-
----
-
-* A video introduction: [The Normal Distribution and the 68-95-99.7 Rule](https://www.youtube.com/watch?v=mtbJbDwqWLE)
-
-* A video introduction: [Mode, Median, Mean, Range, and Standard Deviation](https://www.youtube.com/watch?v=mk8tOD0t8M0)
-
----
-
-<font color="#d2a107"><h4>*Conceptualization and Measurement*</h4></font>
-
----
-
-* [The State of State Capacity : A Review of Concepts, Evidence and Measures](https://ideas.repec.org/p/unm/unumer/2013053.html)
-
-* [Democracy with Adjectives: Conceptual Innovation in Comparative Research](https://www.jstor.org/stable/25054009?seq=1#metadata_info_tab_contents)
-
----
-
-<font color="#d2a107"><h4>*Research Designs*</h4></font>
-
----
-
-* [Analysis of Field Experiments](https://egap.shinyapps.io/gotv-app/) Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock) with reference to ["Getting out the Latino Vote: How Door-to-Door Canvassing Influences Voter Turnout in Rural Central California"](https://www.jstor.org/stable/3657320?seq=1#metadata_info_tab_contents) by Michelson (2003)
-
-* [Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials](https://advances.sciencemag.org/content/5/7/eaaw2612)
-
-* [African Borders as Sources of Natural Experiments: Promise and Pitfalls](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
-
-* Nobel Prize in Economics Winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
-
-* [An Introduction to Randomized Controlled Trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
-
-* [Durably Reducing Transphobia: A Field Experiment on Door-to-Door Canvassing](https://science.sciencemag.org/content/352/6282/220) by Broockman and Kalla (2016)
-
-* [Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering](https://www.jstor.org/stable/40506254?seq=1#metadata_info_tab_contents) by Clingingsmith, Khwaja and Kremer (2009)
-
-* [Women as Policy Makers: Evidence from a India-Wide Randomized Policy Experiment](https://economics.mit.edu/files/792) by Duflo and Chattopadhyay (2004)
-
----
-
-<font color="#d2a107"><h4>*Induction Meets Deduction (Examples)*</h4></font>
-
----
-
-* [Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf) by Graham and Svolik (2019)
-
-* [The Demise of Mexico's One-Party Dominant Regime: Elite Choices and the Masses in the Establishment of Democracy](https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/demise-of-mexicos-oneparty-dominant-regime-elite-choices-and-the-masses-in-the-establishment-of-democracy/E1D4013ACCBE26310D6E728E813593BB) by Magaloni (2005)
+* [Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
 
 ---
 
@@ -136,27 +76,85 @@ Note: _topics listed in reverse order, newest at the top, oldest at the bottom_.
 
 ---
 
-<font color="#d2a107"><h4>*Introduction*</h4></font>
+<font color="#d2a107"><h4>*Research Designs*</h4></font>
 
 ---
 
-**Some History of Statistics:**
+* [Analysis of Field Experiments](https://egap.shinyapps.io/gotv-app/) Shiny App from Donald Green and Alan Gerber (designed by Alexander Coppock) with reference to ["Getting out the Latino Vote: How Door-to-Door Canvassing Influences Voter Turnout in Rural Central California"](https://www.jstor.org/stable/3657320?seq=1#metadata_info_tab_contents) by Michelson (2003)
 
-* [David Freedman, "From Association to Causation: Some Remarks on the History of Statistics," (1999)](https://projecteuclid.org/download/pdf_1/euclid.ss/1009212409)
+* [Voter Information Campaigns and Political Accountability: Cumulative Findings from a Pre-Registered Meta-Analysis of Coordinated Trials](https://advances.sciencemag.org/content/5/7/eaaw2612)
 
-* [David A. Freedman, "Statistical Models and Shoe Leather," (1991)](http://psychology.okstate.edu/faculty/jgrice/psyc5314/Freedman_1991A.pdf)
+* [African Borders as Sources of Natural Experiments: Promise and Pitfalls](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
 
-* [Thomas S. Coleman, "Causality in the Time of Cholera: John Snow as a Prototype for Causal Inference," (2019)](https://poseidon01.ssrn.com/delivery.php?ID=974110106091099106030104091087018090122078057047002065122085028091105005018030074096060017121055126111014099108127002113106004041053089019092103124025094108027091048084032084008020070009074028102070089116098121076096071084104030074123111075125118081&EXT=pdf)
+* Nobel Prize in Economics Winner (2019) [Esther Duflo on using social experiments to fight poverty](https://www.youtube.com/watch?v=0zvrGiPkVcs&t=1s)
 
-**Methods Guide:**
+* [An Introduction to Randomized Controlled Trials (RCTs)](https://www.youtube.com/watch?v=Wy7qpJeozec)
 
-* [Research Design Guide (2017)](https://t.co/LKF218UfqP)
+* [Durably Reducing Transphobia: A Field Experiment on Door-to-Door Canvassing](https://science.sciencemag.org/content/352/6282/220) by Broockman and Kalla (2016)
 
-* [Alan Gerber and Donald Green, "Field Experiments and Natural Experiments," (2011)](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-15)
+* [Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering](https://www.jstor.org/stable/40506254?seq=1#metadata_info_tab_contents) by Clingingsmith, Khwaja and Kremer (2009)
 
-**Comparing Big Ideas:**
+* [Women as Policy Makers: Evidence from a India-Wide Randomized Policy Experiment](https://economics.mit.edu/files/792) by Duflo and Chattopadhyay (2004)
 
-* [Jared Diamond and James A. Robinson (eds.), "Natural Experiments of History," (2010)](https://books.google.ru/books?id=0-Z0LMVOaaAC&printsec=frontcover#v=onepage&q&f=false)
+---
+
+<font color="#d2a107"><h4>*Conceptualization and Measurement*</h4></font>
+
+---
+
+* [The State of State Capacity : A Review of Concepts, Evidence and Measures](https://ideas.repec.org/p/unm/unumer/2013053.html)
+
+* [Democracy with Adjectives: Conceptual Innovation in Comparative Research](https://www.jstor.org/stable/25054009?seq=1#metadata_info_tab_contents)
+
+---
+
+<font color="#d2a107"><h4>*Descriptive Statistics*</h4></font>
+
+---
+
+* A video introduction: [The Normal Distribution and the 68-95-99.7 Rule](https://www.youtube.com/watch?v=mtbJbDwqWLE)
+
+* A video introduction: [Mode, Median, Mean, Range, and Standard Deviation](https://www.youtube.com/watch?v=mk8tOD0t8M0)
+
+---
+
+<font color="#d2a107"><h4>*Inferential Statistics*</h4></font>
+
+---
+
+* A video introduction: [Central Limit Theorem](https://vimeo.com/75089338)
+
+* A video introduction: [Confidence Intervals and the Margin of Error](https://www.youtube.com/watch?v=hlM7zdf7zwU)
+
+* A video introduction: [How to Calculate the Standard Error of the Mean and Why It's Important (Central Limit Theorem)](https://www.youtube.com/watch?v=Gak9AxlV1NI)
+
+* An example: [Confidence Interval Example](https://www.youtube.com/watch?v=SeQeYVJZ2gE)
+
+* A clarification: [Standard Deviation vs. Standard Error](https://www.youtube.com/watch?v=A82brFpdr9g)
+
+---
+
+<font color="#d2a107"><h4>*Linear Regression*</h4></font>
+
+---
+
+[Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+
+[Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+
+[A Beginner’s Guide to Linear Regression](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)
+
+[Regression Analysis (OLS method)](https://mgimond.github.io/Stats-in-R/regression.html) -- in R -- but more nice pictures illustrating the geometric properties of regression
+
+---
+
+<font color="#d2a107"><h4>*Induction Meets Deduction (Examples)*</h4></font>
+
+---
+
+* [Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/6/1038/files/2012/12/Graham-and-Svolik-Democracy-in-America-web-1ngqg71.pdf) by Graham and Svolik (2019)
+
+* [The Demise of Mexico's One-Party Dominant Regime: Elite Choices and the Masses in the Establishment of Democracy](https://www.cambridge.org/core/books/third-wave-of-democratization-in-latin-america/demise-of-mexicos-oneparty-dominant-regime-elite-choices-and-the-masses-in-the-establishment-of-democracy/E1D4013ACCBE26310D6E728E813593BB) by Magaloni (2005)
 
 ---
 
