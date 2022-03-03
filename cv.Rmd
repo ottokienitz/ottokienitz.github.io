@@ -17,21 +17,21 @@ title: "Curriculum Vitae"
 
 ---
 
-PhD, University of California, Berkeley, Department of Political Science, Berkeley, California __(2017--)__
+PhD, University of California, Berkeley, Department of Political Science, Berkeley, California __(Expected 2023)__
 
-MA, University of California, Berkeley, Department of Political Science, Berkeley, California __(2017-2019)__
+MA, University of California, Berkeley, Department of Political Science, Berkeley, California __(2019)__
 
-MA, European University at St. Petersburg, IMARES, St. Petersburg, Russia __(2016-2017)__
+MA, European University at St. Petersburg, IMARES, St. Petersburg, Russia __(2017)__
 
-BA, University of Pennsylvania, College of Arts and Sciences, Philadelphia, Pennsylvania __(2012-2016)__
+BA, University of Pennsylvania, College of Arts and Sciences, Philadelphia, Pennsylvania __(2016)__
 
 ---
 
-__Subfields__: Comparative Politics, Post-Soviet Studies, Methodology and Formal Theory
+__Subfields__: Comparative Politics, Methodology and Formal Theory, Post-Soviet Studies
 
 __Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasian Studies](https://iseees.berkeley.edu)
 
-__Professional Organizations__: [APSA: Comparative Democratization Subsection](https://www.apsanet.org/section35), [ASEEES](https://www.aseees.org)
+__Professional Organizations__: [APSA](https://www.apsanet.org), [ASEEES](https://www.aseees.org)
 
 ---
 
@@ -42,15 +42,17 @@ __Professional Organizations__: [APSA: Comparative Democratization Subsection](h
 
 ---
 
-PS 2: Comparative Politics with Professor Pradeep Chhibber (Spring 2020) -- Head GSI
+__Outstanding Graduate Student Instructor Award (2021)__
 
-PS 3: Introduction to Empirical Analysis and Quantitative Methods with Professor Jason Wittenberg (Fall 2019) -- Head GSI
+PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenberg (Fall 2020) -- __Head GSI__
+
+PS 2: Comparative Politics with Professor Pradeep Chhibber (Spring 2020) -- __Head GSI__
+
+PS 3: Introduction to Empirical Analysis and Quantitative Methods with Professor Jason Wittenberg (Fall 2019) -- __Head GSI__
 
 PS 2: Comparative Politics with Professor Steven Fish (Spring 2019)
 
-PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenberg (Fall 2018)
-
-PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenberg (Fall 2020)
+PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenberg (Fall 2018) -- __Head GSI__
 
 ---
 
@@ -61,47 +63,7 @@ PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenbe
 
 ---
 
-[Berkeley Historical Social Science Workshop](https://github.com/jaeyk/hssw/blob/master/schedule.md), Co-Founder
-
----
-
-<font color="#d2a107">
-
-## Professional Experience
-</font>
-
----
-
-Foreign Policy Research Institute, Philadelphia, Pennsylvania __(2015-2016)__
-
-Northern California World Trade Center, San Francisco, California __(2014)__
-
-Smilow Center for Translational Research, Philadelphia, Pennsylvania __(2013-2015)__
-
----
-
-<font color="#d2a107">
-
-## Extracurricular Activities
-</font>
-
----
-
-University of Pennsylvania Club Soccer Team __(2013–2016)__
-
-Philomathean Literary Society __(2015-2016)__
-
-University of Pennsylvania Jazz Combos __(2012-2013)__
-
-Jazz and Grooves Society __(2014–2016)__
-
-Slavic Studies Research Conference (Славянский Базар): Best Essay Prize __(2014)__
-
-Phi Alpha Theta National History Honor Society __(2014-2016)__
-
-Pi Sigma Alpha National Political Science Honor Society __(2015–2016)__
-
-Global Ties U.S. Emerging Leader 2015 (Washington, D.C.) __(2015)__
+[Berkeley Historical Social Science Workshop](https://github.com/jaeyk/hssw/blob/master/schedule.md) --  __Co-Founder__
 
 ---
 
@@ -114,7 +76,9 @@ Global Ties U.S. Emerging Leader 2015 (Washington, D.C.) __(2015)__
 
 __Russian__
 
-* Graduate-level academic Russian (Berkeley, California) __(in progress)__
+* Graduate-Level Academic Russian (Berkeley, California) __(In Progress)__
+
+* IU Russian Summer Language Workshop (Bloomington, Indiana) __(Summer 2020)__
 
 * ASU Critical Languages Institute: Derzhavin Institute (St. Petersburg, Russia) __(Summer 2019)__
 
