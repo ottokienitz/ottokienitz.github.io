@@ -2,7 +2,7 @@
 title: "Otto Kienitz"
 ---
 
-<img align="right" src="images/OttoSPBbuffer.jpg" width = "400">
+<img align="right" src="images/OttoSPBbuffer2.jpg" width = "400">
 
 <h5>PhD Candidate in Political Science, University of California, Berkeley</h5>
 
