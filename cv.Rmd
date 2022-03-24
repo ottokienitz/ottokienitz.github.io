@@ -10,10 +10,7 @@ title: "Curriculum Vitae"
 
 ---
 
-<font color="#d2a107">
-
-## Education
-</font>
+### Education
 
 ---
 
@@ -35,10 +32,7 @@ __Professional Organizations__: [APSA](https://www.apsanet.org), [ASEEES](https:
 
 ---
 
-<font color="#d2a107">
-
-## Teaching
-</font>
+### Teaching
 
 ---
 
@@ -56,10 +50,7 @@ PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenbe
 
 ---
 
-<font color="#d2a107">
-
-## Initiatives
-</font>
+### Initiatives
 
 ---
 
@@ -67,10 +58,7 @@ PS 141C: Politics and Government in Eastern Europe with Professor Jason Wittenbe
 
 ---
 
-<font color="#d2a107">
-
-## Languages
-</font>
+### Languages
 
 ---
 

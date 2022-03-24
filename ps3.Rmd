@@ -4,11 +4,9 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 <br>
 
-<img align="center" src="images/horse.jpg" width = "500">
+<img align="center" src="images/flowers_cropped.jpg" width = "500">
 
-*A wave-swept shore, remote, forlorn / here he stood, rapt in thought and drawn / to distant prospects.*
-
-*The Bronze Horseman, Alexander Pushkin (1837) Photo from Senatskaya Ploshchad, St. Petersburg (2018)*
+*Spring flowers amidst the first thaw, Veliky Novgorod (Spring 2017)*
 
 <br>
 
@@ -20,7 +18,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Introduction*</h4></font>
+<h4>*Introduction*</h4>
 
 ---
 

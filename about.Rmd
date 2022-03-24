@@ -1,5 +1,5 @@
 ---
-title: "About Otto Kienitz"
+title: "Otto Kienitz"
 ---
 
-More about Otto Kienitz
+Otto Kienitz

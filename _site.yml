@@ -12,13 +12,13 @@ navbar:
       href: cv.html      
     - text: "Teaching"
       menu: 
-      - text: Eastern European Politics (F18/F20)
+      - text: Eastern European Politics (2022)
         href: ee.html
-      - text: Comparative Politics (S20)
+      - text: Comparative Politics (2020)
         href: ps2_s20.html
-      - text: Quantitative Methods (F19)
+      - text: Quantitative Methods (2019)
         href: ps3.html
-      - text: Comparative Politics (S19)
+      - text: Comparative Politics (2019)
         href: ps2_s19.html
     - text: "CP"
       href: cp.html
@@ -35,6 +35,6 @@ navbar:
       href: http://www.twitter.com/ottokienitz
   output:
     html_document:
-      theme: flatly
+      theme: lumen
       highlight: pygments
       

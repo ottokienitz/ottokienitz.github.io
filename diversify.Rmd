@@ -6,7 +6,7 @@ title: "Diversify Your Mind"
 
 *Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
-<font color="#d2a107"><h3>Links</h3></font>
+<h3>Links</h3>
 
 # {.tabset .tabset-fade}
 

@@ -6,13 +6,13 @@ title: "Comparative Politics"
 
 *Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
-<font color="#d2a107"><h3>Review Materials</h3></font>
+<h3>Review Materials</h3>
 
 # {.tabset .tabset-fade}
 
 ## Democracy and Democratization
 
-<font color="#517CDE"><h4>*Democracy and Democratization*</h4></font>
+<h4>*Democracy and Democratization*</h4>
 
 ---
 
@@ -83,7 +83,7 @@ __Historical democratization__
 
 ## Authoritarianism
 
-<font color="#517CDE"><h4>*Authoritarianism*</h4></font>
+<h4>*Authoritarianism*</h4>
 
 ---
 
@@ -139,7 +139,7 @@ __Bureaucratic monitoring in authoritarian regimes__
 
 ## Corruption
 
-<font color="#517CDE"><h4>*Corruption*</h4></font>
+<h4>*Corruption*</h4>
 
 ---
 
@@ -160,7 +160,7 @@ __Corrupt actors__
 
 ## State Formation
 
-<font color="#517CDE"><h4>*State Formation and State-Society Relations*</h4></font>
+<h4>*State Formation and State-Society Relations*</h4>
 
 ---
 
@@ -211,7 +211,7 @@ __Ironies of state-building__
 
 ## Federalism
 
-<font color="#517CDE"><h4>*Federalism*</h4></font>
+<h4>*Federalism*</h4>
 
 ---
 
@@ -245,7 +245,7 @@ __State-nations__
 
 ## Identity
 
-<font color="#517CDE"><h4>*Identity and Unrest*</h4></font>
+<h4>*Identity and Unrest*</h4>
 
 ---
 
@@ -309,7 +309,7 @@ __Revolution__
 
 ## Parties and Elections
 
-<font color="#517CDE"><h4>*Parties, Elections, and Legislatures*</h4></font>
+<h4>*Parties, Elections, and Legislatures*</h4>
 
 ---
 
@@ -373,7 +373,7 @@ __Populist parties__
 
 ## CPE Institutions
 
-<font color="#517CDE"><h4>*Capitalism and the Welfare State*</h4></font>
+<h4>*Capitalism and the Welfare State*</h4>
 
 ---
 
@@ -432,7 +432,7 @@ of incumbent governments in the postwar years; the nature of production regimes 
 
 ## CPE Development
 
-<font color="#517CDE"><h4>*Institutions and Economic Development*</h4></font>
+<h4>*Institutions and Economic Development*</h4>
 
 ---
 
@@ -513,7 +513,7 @@ __Re-visiting the developmental state__
 
 ## Methodology
 
-<font color="#517CDE"><h4>*Methodological Reflections*</h4></font>
+<h4>*Methodological Reflections*</h4>
 
 ---
 
