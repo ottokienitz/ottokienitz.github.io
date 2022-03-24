@@ -33,6 +33,8 @@ navbar:
       href: mailto:ojk@berkeley.edu
     - icon: fa-twitter fa-lg
       href: http://www.twitter.com/ottokienitz
+    - icon: fa-quote-right fa-lg
+      href: https://substack.com/profile/17293456-otto-kienitz?r=aanps&s=r&utm_campaign=profile&utm_medium=web
   output:
     html_document:
       theme: lumen
