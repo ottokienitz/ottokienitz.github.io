@@ -60,7 +60,7 @@ Video: [2019: A Year of Major Protests](https://www.youtube.com/watch?v=oHJ5MLPh
 
 ---
 
-<font color="#d2a107"><h4>*Week 2*</h4></font>
+<h4>*Week 2*</h4>
 
 ---
 
@@ -92,7 +92,7 @@ John Oliver on [India's Prime Minister Narendra Modi](https://www.youtube.com/wa
 
 ---
 
-<font color="#d2a107"><h4>*Week 3*</h4></font>
+<h4>*Week 3*</h4>
 
 ---
 
@@ -128,7 +128,7 @@ Reserving political seats for women increases female electoral participation and
 
 ---
 
-<font color="#d2a107"><h4>*Week 4*</h4></font>
+<h4>*Week 4*</h4>
 
 ---
 
@@ -180,7 +180,7 @@ John Oliver on [authoritarian leaders around the world](https://www.youtube.com/
 
 ---
 
-<font color="#d2a107"><h4>*Week 5*</h4></font>
+<h4>*Week 5*</h4>
 
 ---
 
@@ -224,7 +224,7 @@ Experimental evidence from South Africa: "Local Exposure to Inequality Among the
 
 ---
 
-<font color="#d2a107"><h4>*Week 6*</h4></font>
+<h4>*Week 6*</h4>
 
 ---
 
@@ -269,7 +269,7 @@ of Political Science. Vol. 9: pp.397-424.
 
 ---
 
-<font color="#d2a107"><h4>*Week 7*</h4></font>
+<h4>*Week 7*</h4>
 
 ---
 
@@ -309,7 +309,7 @@ Varshney, "Ethnic Conflict and Civil Society: India and Beyond" [(full article)]
 
 ---
 
-<font color="#d2a107"><h4>*Week 8*</h4></font>
+<h4>*Week 8*</h4>
 
 ---
 
@@ -343,7 +343,7 @@ Guiso et al. [Civic Capital as the Missing Link](https://www.nber.org/papers/w15
 
 ---
 
-<font color="#d2a107"><h4>*Week 9*</h4></font>
+<h4>*Week 9*</h4>
 
 ---
 
@@ -351,7 +351,7 @@ Guiso et al. [Civic Capital as the Missing Link](https://www.nber.org/papers/w15
 
 ---
 
-<font color="#d2a107"><h4>*Week 9.5*</h4></font>
+<h4>*Week 9.5*</h4>
 
 ---
 
@@ -417,7 +417,7 @@ Updates:
 
 ---
 
-<font color="#d2a107"><h4>*Week 10*</h4></font>
+<h4>*Week 10*</h4>
 
 ---
 
@@ -467,7 +467,7 @@ Presidentialism vs. Parliamentarism:
 
 ---
 
-<font color="#d2a107"><h4>*Week 11*</h4></font>
+<h4>*Week 11*</h4>
 
 ---
 
@@ -505,7 +505,7 @@ _What have been the salient changes in party organisation in the last century?_
 
 ---
 
-<font color="#d2a107"><h4>*Week 12*</h4></font>
+<h4>*Week 12*</h4>
 
 ---
 
@@ -541,7 +541,7 @@ Nobel Prize in Economics Winner (2019) [Esther Duflo on using social experiments
 
 ---
 
-<font color="#d2a107"><h4>*Week 13*</h4></font>
+<h4>*Week 13*</h4>
 
 ---
 
@@ -591,7 +591,7 @@ _Besides its vilification of elites and glorification of the people, populism al
 
 ---
 
-<font color="#d2a107"><h4>*Week 13*</h4></font>
+<h4>*Week 13*</h4>
 
 ---
 
@@ -623,7 +623,7 @@ History: [Epidemics and Revolutions: Cholera in Nineteenth-Century Europe](https
 
 ---
 
-<font color="#d2a107"><h4>*Reading Resources:*</h4></font>
+<h4>*Reading Resources:*</h4>
 
 ---
 
@@ -631,7 +631,7 @@ History: [Epidemics and Revolutions: Cholera in Nineteenth-Century Europe](https
 
 ---
 
-<font color="#d2a107"><h4>*Writing Resources:*</h4></font>
+<h4>*Writing Resources:*</h4>
 
 ---
 

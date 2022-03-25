@@ -1,20 +1,16 @@
 ---
-title: "Post-Communist Politics"
+title: "Russian, East European, and Eurasian Politics"
 ---
 
 <img align="center" src="images/laxta.jpg" width = "650">
 
 *Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
-<font color="#d2a107"><h3>Selected Readings</h3></font>
+<h3>Selected Readings</h3>
 
 # {.tabset .tabset-fade}
 
-## Russian Politics
-
-<h4>*Russian Politics*</h4>
-
----
+## Russia
 
 __Regime Dynamics__
 
@@ -212,7 +208,7 @@ Lomagin (2017) — A Cold Peace Between Russia and the West: Did Geo-Economics F
 
 Gunitsky & Tsygankov (2018) — The Wilsonian Bias in the Study of Russian Foreign Policy
 
-__CPE__
+__Political Economy__
 
 Frye & Shleifer (1996) — The Invisible Hand and the Grabbing Hand
 
@@ -252,79 +248,7 @@ Rundlett and Svolik (2016) — Deliver the Vote! Micromotives and Macrobehavior 
 
 Moser & White (2017) — Does Electoral Fraud Spread? The Expansion of Electoral Manipulation in Russia
 
-
-
-## Post-Communist Eurasia
-
-<font color="#517CDE"><h4>*Post-Communist Eurasia*</h4></font>
-
----
-
-__Post-Communist Eurasia__
-
-Zielonka (1994) — New Institutions in the Old East Bloc
-
-Linz & Stepan (1996) — Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe
-
-Frye (1997) — A Politics of Institutional Choice: Post-Communist Presidencies
-
-Kopstein & Reilly (2000) — Geographic Diffusion and the Transformation of the Postcommunist World
-
-Gryzmala-Busse & Luong (2002) — Reconceptualizing the State: Lessons from Post-Communism
-
-Levitsky & Way (2002) — The Rise of Competitive Authoritarianism
-
-Hale (2005) — Regime Cycles: Democracy, Autocracy, and Revolution in Post-Soviet Eurasia
-
-Karatnycky (2005) — Ukraine’s Orange Revolution
-
-McFaul (2005) — Transitions from Post-Communism
-
-Way (2005) — Authoritarian State-Building and the Sources of Regime Competitiveness in the Fourth Wave: The Cases of Belarus, Moldova, Russia, and Ukraine
-
-Bielasiak (2006) — Regime Diversity and Electoral Systems in Post-Communism
-
-Bunce & Wolchik (2006) — International Diffusion and Postcommunist Electoral Revolutions
-
-Darden (2007) — The Integrity of Corrupt States: Graft as an Informal State Institution
-
-Bunce & Wolchik (2008) — Getting Real About "Real Causes"
-
-Gel’man (2008) — Out of the Frying Pan, into the Fire? Post-Soviet Regime Changes in Comparative Perspective
-
-Way (2008) — The Real Causes of the Color Revolutions
-
-Birch (2011) — Post-Soviet Electoral Practices in Comparative Perspective
-
-Radnitz (2011) — Informal Politics and the State (*Review Article)
-
-Beissinger (2013) — The Semblance of Democratic Revolution: Coalitions in Ukraine’s Orange Revolution
-
-Shukan (2013) — Intentional Disruptions and Violence in Ukraine's Supreme Rada: Political Competition, Order, and Disorder in a Post-Soviet Chamber, 2006–2012 
-
-Pop-Eleches & Robertson (2014) — After the Revolution: Long-Term Effects of Electoral Revolutions
-
-Hale (2015) — Patronal Politics: Eurasian Regime Dynamics in Comparative Perspective
-
-Way (2015) — Pluralism by Default: Weak Autocrats and the Rise of Competitive Politics
-
-Hale (2016) — 25 Years after the USSR: What’s Gone Wrong?
-
-Lankina, Libman & Obydenkova (2016) — Authoritarian and Democratic Diffusion in Post-Communist Regions
-
-Hanson (2017) — The Evolution of Regimes: What Can Twenty-Five Years of Post-Soviet Change Teach Us?
-
-Libman and Obydenkova (2018) — Understanding Authoritarian Regionalism
-
-Peisakhin & Rozenas (2018) — Electoral Effects of Biased Media: Russian Television in Ukraine
-
-
-
 ## Eastern Europe
-
-<font color="#517CDE"><h4>*Eastern Europe*</h4></font>
-
----
 
 __Eastern Europe__
 
@@ -500,13 +424,67 @@ Johnson (2016) — Priests of Prosperity: How Central Bankers Transformed the Po
 
 Wilson Sohkey (2017) — The Political Economy of Pension Policy Reversal in Post-Communist Countries
 
+## Eurasia
 
+__Post-Communist Eurasia__
+
+Zielonka (1994) — New Institutions in the Old East Bloc
+
+Linz & Stepan (1996) — Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe
+
+Frye (1997) — A Politics of Institutional Choice: Post-Communist Presidencies
+
+Kopstein & Reilly (2000) — Geographic Diffusion and the Transformation of the Postcommunist World
+
+Gryzmala-Busse & Luong (2002) — Reconceptualizing the State: Lessons from Post-Communism
+
+Levitsky & Way (2002) — The Rise of Competitive Authoritarianism
+
+Hale (2005) — Regime Cycles: Democracy, Autocracy, and Revolution in Post-Soviet Eurasia
+
+Karatnycky (2005) — Ukraine’s Orange Revolution
+
+McFaul (2005) — Transitions from Post-Communism
+
+Way (2005) — Authoritarian State-Building and the Sources of Regime Competitiveness in the Fourth Wave: The Cases of Belarus, Moldova, Russia, and Ukraine
+
+Bielasiak (2006) — Regime Diversity and Electoral Systems in Post-Communism
+
+Bunce & Wolchik (2006) — International Diffusion and Postcommunist Electoral Revolutions
+
+Darden (2007) — The Integrity of Corrupt States: Graft as an Informal State Institution
+
+Bunce & Wolchik (2008) — Getting Real About "Real Causes"
+
+Gel’man (2008) — Out of the Frying Pan, into the Fire? Post-Soviet Regime Changes in Comparative Perspective
+
+Way (2008) — The Real Causes of the Color Revolutions
+
+Birch (2011) — Post-Soviet Electoral Practices in Comparative Perspective
+
+Radnitz (2011) — Informal Politics and the State (*Review Article)
+
+Beissinger (2013) — The Semblance of Democratic Revolution: Coalitions in Ukraine’s Orange Revolution
+
+Shukan (2013) — Intentional Disruptions and Violence in Ukraine's Supreme Rada: Political Competition, Order, and Disorder in a Post-Soviet Chamber, 2006–2012 
+
+Pop-Eleches & Robertson (2014) — After the Revolution: Long-Term Effects of Electoral Revolutions
+
+Hale (2015) — Patronal Politics: Eurasian Regime Dynamics in Comparative Perspective
+
+Way (2015) — Pluralism by Default: Weak Autocrats and the Rise of Competitive Politics
+
+Hale (2016) — 25 Years after the USSR: What’s Gone Wrong?
+
+Lankina, Libman & Obydenkova (2016) — Authoritarian and Democratic Diffusion in Post-Communist Regions
+
+Hanson (2017) — The Evolution of Regimes: What Can Twenty-Five Years of Post-Soviet Change Teach Us?
+
+Libman and Obydenkova (2018) — Understanding Authoritarian Regionalism
+
+Peisakhin & Rozenas (2018) — Electoral Effects of Biased Media: Russian Television in Ukraine
 
 ## Central Asia
-
-<font color="#517CDE"><h4>*Central Asia*</h4></font>
-
----
 
 __Central Asia__
 
@@ -531,23 +509,3 @@ Marat (2012) — Kyrgyzstan: a Parliamentary system Based on inter-elite Consens
 Ó Beacháin & Kevlihan (2015) — Imagined Democracy? Nation-Building and Elections in Central Asia
 
 Spector (2017) — Order at the Bazaar: Power and Trade in Central Asia
-
-
-
-## Russian Revolution (100)
-
-<font color="#517CDE"><h4>*Russian Revolution (100)*</h4></font>
-
----
-
-__Russian Revolution (100)__
-
-Kolonitskii & Elliot Cohen (2009) — Russian Historiography of the 1917 Revolution: New Challenges to Old Paradigms?
-
-Raleigh (2015) — The Russian Revolution after All These 100 Years
-
-Fitzpatrick (2017) — Celebrating (or Not) The Russian Revolution
-
-Kolonitskii & Neumeyer (2017) — On Studying the 1917 Revolution: Autobiographical Confessions and Historiographical Predictions
-
-Slezkine (2017) — The House of Government: A Saga of the Russian Revolution

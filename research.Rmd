@@ -2,15 +2,17 @@
 title: "Research"
 ---
 
-<br>
+---
 
 Please [contact](mailto:ojk@berkeley.edu) for access to unpublished working papers.
 
-<br>
+---
 
 # {.tabset .tabset-fade}
 
 ## Dissertation
+
+---
 
 #### __“No Representation, Without Local Taxation”__
 #### __The Institutional Origins of Democratization and State-Building__ ####

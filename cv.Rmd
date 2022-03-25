@@ -2,7 +2,11 @@
 title: "Curriculum Vitae"
 ---
 
+---
+
 [PDF](Kienitz_CV.pdf)
+
+---
 
 <img align="center" src="images/EUSP.jpg" width = "400">
 

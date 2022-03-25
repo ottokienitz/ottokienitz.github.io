@@ -42,7 +42,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Deductive Models of Politics*</h4></font>
+<h4>*Deductive Models of Politics*</h4>
 
 ---
 
@@ -60,7 +60,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Causality*</h4></font>
+<h4>*Causality*</h4>
 
 ---
 
@@ -74,7 +74,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Research Designs*</h4></font>
+<h4>*Research Designs*</h4>
 
 ---
 
@@ -96,7 +96,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Conceptualization and Measurement*</h4></font>
+<h4>*Conceptualization and Measurement*</h4>
 
 ---
 
@@ -106,7 +106,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Descriptive Statistics*</h4></font>
+<h4>*Descriptive Statistics*</h4>
 
 ---
 
@@ -116,7 +116,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Inferential Statistics*</h4></font>
+<h4>*Inferential Statistics*</h4>
 
 ---
 
@@ -132,7 +132,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Linear Regression*</h4></font>
+<h4>*Linear Regression*</h4>
 
 ---
 
@@ -146,7 +146,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Induction Meets Deduction (Examples)*</h4></font>
+<h4>*Induction Meets Deduction (Examples)*</h4>
 
 ---
 
@@ -160,7 +160,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Math & Coding Resources:*</h4></font>
+<h4>*Math & Coding Resources:*</h4>
 
 ---
 
@@ -178,7 +178,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Reading Resources:*</h4></font>
+<h4>*Reading Resources:*</h4>
 
 ---
 
@@ -186,7 +186,7 @@ title: "PS 3: Intro to Quantitative Methods (Fall 2019)"
 
 ---
 
-<font color="#d2a107"><h4>*Writing Resources:*</h4></font>
+<h4>*Writing Resources:*</h4>
 
 ---
 

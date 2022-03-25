@@ -69,7 +69,7 @@ Connecting politics and history in Eastern Europe: [The Great Divide: Literacy, 
 
 ---
 
-<font color="#d2a107"><h4>*Topic 2: State-Socialism and Its Collapse*</h4></font>
+<h4>*Topic 2: State-Socialism and Its Collapse*</h4>
 
 ---
 
@@ -123,7 +123,7 @@ Pictures: Soviet youth camps revitalized in contemporary Russia: [a photo essay]
 
 ---
 
-<font color="#d2a107"><h4>*Topic 3: Creating Democracy and Capitalism? Political and Economic Transitions*</h4></font>
+<h4>*Topic 3: Creating Democracy and Capitalism? Political and Economic Transitions*</h4>
 
 ---
 
@@ -229,7 +229,7 @@ Looking ahead: [Populism in Central and Eastern Europe](http://www.oxfordhandboo
 
 ---
 
-<font color="#d2a107"><h4>*Topic 4: Accounting for the Past? Transitional Justice*</h4></font>
+<h4>*Topic 4: Accounting for the Past? Transitional Justice*</h4>
 
 ---
 
@@ -300,7 +300,7 @@ More on contemporary Bulgaria: [Bulgaria’s Autocratic Model](http://neweastern
 
 ---
 
-<font color="#d2a107"><h4>*Topic 5: Ethnicity and Nationalism*</h4></font>
+<h4>*Topic 5: Ethnicity and Nationalism*</h4>
 
 ---
 
@@ -338,7 +338,7 @@ Brendan O'Leary on Ernest Gellner's [theories of nationalism](http://www.polisci
 
 ---
 
-<font color="#d2a107"><h4>*Topic 6: Defeating Autocratic Incumbents*</h4></font>
+<h4>*Topic 6: Defeating Autocratic Incumbents*</h4>
 
 ---
 
@@ -414,7 +414,7 @@ Valerie Bunce and Sharon Wolchik, ["Getting Real About ‘Real Causes"](https://
 
 ---
 
-<font color="#d2a107"><h4>*Topic 7: Liberal Democratic Disillusionment*</h4></font>
+<h4>*Topic 7: Liberal Democratic Disillusionment*</h4>
 
 ---
 
@@ -442,7 +442,7 @@ Freedom House "Nations in Transit: 2018" [Confronting Illiberalism](https://free
 
 ---
 
-<font color="#d2a107"><h4>*Topic 8: Case Studies: Hungary and Poland*</h4></font>
+<h4>*Topic 8: Case Studies: Hungary and Poland*</h4>
 
 ---
 
@@ -498,7 +498,7 @@ Expert analysis on everything Fidesz from [Kim Lane Scheppele](https://lapa.prin
 
 ---
 
-<font color="#d2a107"><h4>*Topic 9: Influences on East European Politics: EU*</h4></font>
+<h4>*Topic 9: Influences on East European Politics: EU*</h4>
 
 ---
 
@@ -524,7 +524,7 @@ The European Union's [Guide for Americans](https://eeas.europa.eu/sites/eeas/fil
 
 ---
 
-<font color="#d2a107"><h4>*Topic 10: Influences on East European Politics: Russia*</h4></font>
+<h4>*Topic 10: Influences on East European Politics: Russia*</h4>
 
 ---
 
@@ -578,7 +578,7 @@ Video: [The New U.S.-Russian Cold War: Who is to Blame?](https://www.youtube.com
 
 ---
 
-<font color="#d2a107"><h4>*Reflections on Historical Legacies in Eastern Europe *</h4></font>
+<h4>*Reflections on Historical Legacies in Eastern Europe *</h4>
 
 ---
 
@@ -592,7 +592,7 @@ Alberto Simpser, Dan Slater, and Jason Wittenberg, [Dead But Not Gone: Contempor
 
 ---
 
-<font color="#d2a107"><h4>*Keeping track of (Eastern) European politics:*</h4></font>
+<h4>*Keeping track of (Eastern) European politics:*</h4>
 
 ---
 
@@ -640,7 +640,7 @@ Alberto Simpser, Dan Slater, and Jason Wittenberg, [Dead But Not Gone: Contempor
 
 ---
 
-<font color="#d2a107"><h4>*Reading Resources:*</h4></font>
+<h4>*Reading Resources:*</h4>
 
 ---
 
@@ -648,7 +648,7 @@ Alberto Simpser, Dan Slater, and Jason Wittenberg, [Dead But Not Gone: Contempor
 
 ---
 
-<font color="#d2a107"><h4>*Writing Resources:*</h4></font>
+<h4>*Writing Resources:*</h4>
 
 ---
 

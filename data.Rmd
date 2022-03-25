@@ -6,17 +6,41 @@ title: "Data"
 
 *Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
-<h3>Data and Sources</h3>
+---
+
+<h4>*Search Engines*</h4>
 
 ---
 
+[UC Berkeley Databases](https://guides.lib.berkeley.edu/az.php)
+
+[Harvard Dataverse](https://dataverse.harvard.edu)
+
 [Google "Dataset" Search Engine (Beta)](https://toolbox.google.com/datasetsearch)
+
+---
+
+<h4>*State-Building*</h4>
+
+---
+
+[UNU Government Revenue Dataset](https://www.wider.unu.edu/project/grd-–-government-revenue-dataset)
+
+[Comparative Taxation Dataset (1870-2001)](https://www.icpsr.umich.edu/web/ICPSR/studies/37365)
+
+[Financing the State: Government Tax Revenue (1800-2012)](https://www.perfandersson.com/data.html)
+
+[Tax Introduction Database (TID)](https://cadmus.eui.eu/handle/1814/65326)
+
+---
+
+<h4>*Democracy and Elections*</h4>
+
+---
 
 [Varieties of Democratization (V-Dem)](https://www.v-dem.net/en/)
 
 [European Election Database](http://www.nsd.uib.no/european_election_database/about/)
-
-[Eurostat](http://ec.europa.eu/eurostat/data/database)
 
 [Election Resources on the Internet](http://electionresources.org)
 
@@ -24,20 +48,45 @@ title: "Data"
 
 [Politics Through Time](https://historicalelections.fas.harvard.edu)
 
+---
+
+<h4>*Russian Politics*</h4>
+
+---
+
+[Levada Center](http://www.levada.ru/)
+
+[Russian Public Opinion Research Center (ВЦИОМ)](https://wciom.ru/)
+
+[Фонда Общественное Мнение (Public Opinion Foundation)](https://bd.fom.ru/)
+
+---
+
+<h4>*Russian History*</h4>
+
+---
+
 [The Imperiia Project](https://scholar.harvard.edu/koneill/imperiia-project)
 
-[Levada Center](http://www.levada.ru/) (in Russian)
+[Электронная Библиотека (ГПИБ)](http://elib.shpl.ru/ru/nodes/9347-elektronnaya-biblioteka-gpib)
 
-ВЦИОМ [Russian Public Opinion Research Center](https://wciom.ru/) (in Russian)
+[Национальная Электронная Библиотека](https://rusneb.ru)
 
-ФОМ [Public Opinion Foundation](https://bd.fom.ru/) (in Russian)
+[Российская Национальная Библиотека (РНБ)](http://nlr.ru)
+
+[Электронная Библиотека Исторических Документов](http://docs.historyrussia.org/ru/nodes/1-glavnaya)
+
+
+---
+
+<h4>*European Politics*</h4>
+
+---
+
+[LSE EUROPP Blog](http://blogs.lse.ac.uk/europpblog/)
+
+[Eurostat](http://ec.europa.eu/eurostat/data/database)
 
 [The Eclectic, Erratic Bibliography on the Extreme Right in Western Europe](http://www.kai-arzheimer.com/extreme-right-western-europe-bibliography)
 
-[Electronic Library of Historical Documents (in Russian)](http://docs.historyrussia.org/ru/nodes/1-glavnaya)
-
 [Democratic Erosion Syllabus](http://democratic-erosion.com/syllabus/)
-
-[Journals focused on post-Soviet, post-Communist and Eastern European affairs from Giorgio Comai](https://giorgiocomai.eu/2015/09/25/journals-post-soviet-and-eastern-european-affairs/)
-
-[LSE EUROPP Blog](http://blogs.lse.ac.uk/europpblog/)

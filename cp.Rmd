@@ -12,10 +12,6 @@ title: "Comparative Politics"
 
 ## Democracy and Democratization
 
-<h4>*Democracy and Democratization*</h4>
-
----
-
 __Modernization theory__
 
 * Lipset (1959): modernization theory; correlation between social and economic development and democracy i.e. “the more well-to-do a nation, the greater the chances it will sustain democracy”; education; democracy arises due to its functional fit with the advanced industrial economy; it is the middle class that is seen as the primary promoter of democracy (by rewarding moderates and punishing extremists) while the upper class and especially the lower class are seen as enemies of democracy; crises of legitimacy occur during a transition to a new social structure i.e. if the “status” of major conservative institutions is threatened during the period of structural change; “entry-into-politics” crisis of new social groups e.g. workers, colonies, etc.
@@ -83,10 +79,6 @@ __Historical democratization__
 
 ## Authoritarianism
 
-<h4>*Authoritarianism*</h4>
-
----
-
 __Early literature__
 
 * Arendt (1951/1966): defines totalitarian systems as differentiated based on the use of terror (role of police, coercion, violence, etc.); the state uses propaganda to create a largely fictional narrative that submerges individual and collective interests within an overriding national struggle
@@ -139,10 +131,6 @@ __Bureaucratic monitoring in authoritarian regimes__
 
 ## Corruption
 
-<h4>*Corruption*</h4>
-
----
-
 __Corrupt structures__
 
 * Darden (2007): graft often serves as a form of unofficial compensation that reinforces rather than undermines the formal institutions of the state, and can provide leaders with additional means to control subordinate officials; graft may reinforce administrative hierarchies
@@ -159,10 +147,6 @@ __Corrupt actors__
 * Auerbach (2016): clientelistic networks vary in their density and partisan balance across communities, with important consequences for the provision of public services (1) in slums with dense party networks, competition among party workers generates a degree of accountability in local patron-client hierarchies that encourages development (2) politicians are less likely to extend services to slums with multiparty networks because opposing networks can enjoy the services and even take credit for their provision; within settlements, partisan competition can also create perverse incentives for rival networks to undermine each other’s development efforts
 
 ## State Formation
-
-<h4>*State Formation and State-Society Relations*</h4>
-
----
 
 __Definitions of the state__
 
@@ -211,10 +195,6 @@ __Ironies of state-building__
 
 ## Federalism
 
-<h4>*Federalism*</h4>
-
----
-
 __Origins of federalism__
 
 * Riker (1964): the “federal bargain”; “coming-together” federations (1) expand territorial control in the face of (2) external military-diplomatic threats; the survival of a federation was problematic in the absence of a centralized party system to help coordinate behavior across levels of government and minimize intergovernmental conflict; centralized into unitary states vs. peripheralized into state collapse; the “essence” of federalism is (1) the political bargain (2) the distribution of power in political parties which shapes the federal structure; i.e. the role of state-wide parties
@@ -244,10 +224,6 @@ __State-nations__
 * O’Leary (2013): “power sharing in deeply divided places” case studies e.g. Northern Ireland, Lebanon, Switzerland, etc.
 
 ## Identity
-
-<h4>*Identity and Unrest*</h4>
-
----
 
 __Nationalism__
 
@@ -309,10 +285,6 @@ __Revolution__
 
 ## Parties and Elections
 
-<h4>*Parties, Elections, and Legislatures*</h4>
-
----
-
 __Early theories of political parties__
 
 * Madison (1787): parties as factions; a minority or majority united by some common impulse of passion, or of interest, adverse to the rights of other citizens, or to the permanent and aggregate interests of the community
@@ -371,11 +343,7 @@ __Populist parties__
 * Abou-Chadhi and Krause (2018): regression discontinuity approach; radical right success causally affects mainstream parties’ positions; cause a strong move towards an anti-immigrant stance by other political parties; the transformation of the political space in Western Europe that we are currently witnessing is not simply a reaction to shifting preferences of the European electorate, but is a result of the strategic interaction of political parties
 * Mudde and Kaltwasser (2018): (1) economic anxiety (2) cultural backlash (3) the tension between responsiveness and responsibility (4) (negative) partisanship and polarization; limited programmatic scope; attached to other ideological elements i.e. right-wing nativism or left-wing socialism; populism is at odds with liberal democracy (minority rights, rule of law, and separation of powers); supply-side vs. demand-side; cultural backlash vs. economic anxiety linked to populism per se or the populist radical right in particular; populist radical right parties are particularly successful in European countries marked by economic prosperity, low unemployment, and generous social welfare policies; “social envy” via Lipset (1955) “status politics”; populism as a moral clash between the “pure people” and the “corrupt elite” whereas nativism refers to the ethnic division between “insiders” and “outsiders”
 
-## CPE Institutions
-
-<h4>*Capitalism and the Welfare State*</h4>
-
----
+## Political Economy
 
 __Markets in society__
 
@@ -430,11 +398,7 @@ of incumbent governments in the postwar years; the nature of production regimes 
 * Haggard and Kaufman (2008): (1) ‘stratified’ Latin American welfare states characterized by relatively generous social insurance systems for civil servants and organized formal-sector workers coupled with widespread exclusion of informal urban workers and the rural sector BUT low coverage (2) universal coverage for all segments of the population in Eastern Europe (3) East Asian welfare systems emphasized public education and healthcare; limited social insurance and security, mainly through mandated individual savings schemes BUT more egalitarian 
 * Gingrich (2011): variation in market outcomes follows from who built the market and whether the existing institutions allow them to appeal to the electorate and their particular constituents; shaped by left vs. right partisan preferences i.e. blame shifting and reward claiming; the Left will implement market reforms in order to protect the legitimacy of the welfare state, whereas the Right will implement market reforms to undercut the welfare state
 
-## CPE Development
-
-<h4>*Institutions and Economic Development*</h4>
-
----
+## Development
 
 __Modernization theory__
 
@@ -512,10 +476,6 @@ __Re-visiting the developmental state__
 * Haggard (2018): see Haggard (1986/1990) and Haggard and Kaufman (2008)
 
 ## Methodology
-
-<h4>*Methodological Reflections*</h4>
-
----
 
 __Philosophies of social science__
 

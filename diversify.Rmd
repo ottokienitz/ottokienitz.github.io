@@ -1,16 +1,14 @@
 ---
-title: "Diversify Your Mind"
+title: "Diversify!"
 ---
 
 <img align="center" src="images/laxta.jpg" width = "650">
 
 *Lakhta Center on the outskirts of Saint Petersburg under construction from the window of a passing elektrichka commuter train (2018)*
 
-<h3>Links</h3>
-
 # {.tabset .tabset-fade}
 
-## Links to Politics/Culture
+## Politics & Culture
 
 ---
 
@@ -48,7 +46,7 @@ title: "Diversify Your Mind"
 
 ---
 
-## Links to Current Reads
+## Current Reads
 
 ---
 
@@ -112,7 +110,7 @@ Russia's online prodigy female rapper [Monetochka](https://www.calvertjournal.co
 
 ---
 
-## Links to Music/Literature
+## Music & Lyrics
 
 ---
 
