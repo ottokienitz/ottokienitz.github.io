@@ -32,6 +32,8 @@ title: "Data"
 
 [Tax Introduction Database (TID)](https://cadmus.eui.eu/handle/1814/65326)
 
+[Global Price and Income History Group (GPIH)](http://gpih.ucdavis.edu/index.html)
+
 ---
 
 <h4>*Democracy and Elections*</h4>
