@@ -42,13 +42,12 @@ Why study Eastern Europe?
 
 * Legacies of Empire
 * Legacies of Communism
-* Political Economy
+* Political Economy of Transition
 * Democratization
 * Democratic Backsliding
 * Identity (nation, ethnicity, religion, language, etc.)
-* Corruption
 * Geopolitics (EU and Russia)
-* Parties and populism
+* Political parties and populism
 * Variation across *time* and *space*
 
 ---
@@ -300,7 +299,7 @@ More on contemporary Bulgaria: [Bulgaria’s Autocratic Model](http://neweastern
 
 ---
 
-<h4>*Topic 7: Nationalism*</h4>
+<h4>*Topic 6: Nationalism*</h4>
 
 ---
 
@@ -344,7 +343,7 @@ Brendan O'Leary on Ernest Gellner's [theories of nationalism](http://www.polisci
 
 ---
 
-<h4>*Topic 8: Liberal Democratic Disillusionment*</h4>
+<h4>*Topic 7: Liberal Democratic Disillusionment*</h4>
 
 ---
 
@@ -412,7 +411,7 @@ Expert analysis on everything Fidesz from [Kim Lane Scheppele](https://lapa.prin
 
 ---
 
-<h4>*Topic 8: Case Study: Poland*</h4>
+<h4>*Topic 9: Case Study: Poland*</h4>
 
 ---
 
@@ -456,7 +455,7 @@ VIDEO: John Oliver on the [Hungarian Party System](https://www.youtube.com/watch
 
 ---
 
-<h4>*Topic 9: International Influences: EU, NATO*</h4>
+<h4>*Topic 10: International Influences: EU, NATO*</h4>
 
 ---
 
@@ -482,7 +481,7 @@ The European Union's [Guide for Americans](https://eeas.europa.eu/sites/eeas/fil
 
 ---
 
-<h4>*Topic 10: International Influences: Russia*</h4>
+<h4>*Topic 11: International Influences: Russia*</h4>
 
 ---
 
@@ -502,7 +501,13 @@ Mitchell Orenstein, "Geopolitics of a Divided Europe," East European Politics & 
 
 **Russian Invasion of Ukraine (2022)**
 
-[My personal comments on the first days of the war in Ukraine (February, 2022)](https://ottok.substack.com/p/ukraine-no-to-war-?r=aanps&s=w&utm_campaign=post&utm_medium=web)
+[Monkey Cage Topic Guide: Russia and its Neighbors](https://docs.google.com/document/d/e/2PACX-1vRffYVd_7Hjbhe7ilAA-ku-sk24GujiOK0cusFkQno9iX0PQCMQoeG5Duzpwn2hZvWQGpGX0CrdYPTX/pub?fbclid=IwAR01RUTZ7ehOGnKp6bINa6NHRXU-ZsZMZUGcl6rvf70AJSJF6hD3OXs_89I)
+
+[Monkey Cage Topic Guide: NATO and European Security](https://docs.google.com/document/u/1/d/e/2PACX-1vQB4kxjRIolKyamI_7S-mhOaZbEWsHn7D5aHF1QNBbyt0DgQtkLo7WUH-apCRAziTJOotRbqQpm5y29/pub)
+
+[Understanding the Russo-Ukrainian War: A Guide from War on the Rocks](https://warontherocks.com/understanding-the-russo-ukrainian-war-a-guide-from-war-on-the-rocks/?fbclid=IwAR3B1uWxecjKxZAL9r_Gt_eviWPJtC_BuIa0l9qPZnsfT3lYM6jTyGQyEMc)
+
+[My Personal Thoughts on the Russian Invasion of Ukraine (February 2022)](https://ottok.substack.com/p/ukraine-no-to-war-?r=aanps&s=w&utm_campaign=post&utm_medium=web)
 
 ---
 
