@@ -12,6 +12,8 @@ navbar:
       href: cv.html      
     - text: "Teaching"
       menu: 
+      - text: Russian State and Democracy (2023)
+        href: rsd.html
       - text: Eastern European Politics (2022)
         href: ee.html
       - text: Comparative Politics (2020)
