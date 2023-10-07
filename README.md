@@ -1,2 +1,2 @@
 # ottokienitz.github.io
-Otto Kienitz's Website
+Otto Kienitz's Personal Website

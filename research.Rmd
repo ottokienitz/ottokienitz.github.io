@@ -14,37 +14,37 @@ Please [contact](mailto:ojk@berkeley.edu) for access to unpublished working pape
 
 ---
 
-#### __“No Representation, Without Local Taxation”__
-#### __The Institutional Origins of Democratization and State-Building__ ####
+#### __“Between State and Democracy: The Historical Political Economy of State-Building”__
 
-Committee: [Jason Wittneberg](https://polisci.berkeley.edu/people/person/jason-wittenberg) (Chair), [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier), [Sean Gailmard](https://polisci.berkeley.edu/people/person/sean-p-gailmard), [Victoria Frede-Montemayor](https://history.berkeley.edu/victoria-frede)
+Committee: [Jason Wittneberg](https://polisci.berkeley.edu/people/person/jason-wittenberg) (Chair), [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier), [Sean Gailmard](https://polisci.berkeley.edu/people/person/sean-p-gailmard), [Victoria Frede](https://history.berkeley.edu/victoria-frede)
 
 **Table of Contents**
 
-* Chapter 1: The Non-Democratic Origins of Local Self-Government
+* Chapter 1: Introduction -- State and Democracy
 
-* Chapter 2: The Origins and Consequences of the Russian *Zemstvo*
+* Chapter 2: A Theory of Local Democratization as State-Building
 
-* Chapter 3: Comparative Local Institutions in the Ottoman Empire and Qing Dynasty
+* Chapter 3: The Causes and Consequences of the *Zemstvo* Assembly in the Russian Empire
 
-* Chapter 4: Global Evidence on Local Taxation and Representation (1800-1918)
+* Chapter 4: The Causes and Consequences of the *Meclis* Assembly in the Ottoman Empire
 
-* Chapter 5: Conclusions for Democracy, Decentralization, and State-Building
+* Chapter 5: The Great Divergence in Local Democratization and State-Building (Europe and Qing Dynasty)
+
+* Chapter 6: Conclusion -- Local Democracy, Development, and Redistribution
 
 **Archival Data Collection**
 
-* Governor's Reports (*Губернаторские Отчеты*) of the Russian Empire
+* Governor's Reports (*Губернаторские отчеты*) of the Russian Empire
 
-* Российский Государственный Исторический Архив (РГИА), Электронная библиотека (ГПИБ), Архив Министерство Финансов Российской Федерации (МинФин), Электронная Библиотека Научное Наследие России (ННР), Пермская Электронная Библиотека (ПЕБ)
+* Provincial Yearbooks (*Памятные книжки*) of the Russian Empire
 
-* Provincial Yearbooks (*Vilayeti Salnamesi*) of the Ottoman Empire
+* Provincial Newspapers (*Губернские ведомости*) of the Russian Empire
 
-* Provincial Reports (*Zhengzhi Guanbao*) of the Qing Dynasty
+* Российский Государственный Исторический Архив (РГИА), Государственная Публичная Историческая Библиотека России (ГПИБ), Архив Министерство Финансов Российской Федерации (МинФин), Электронная Библиотека Научное Наследие России (ННР), Национальная Электронная Библиотека (НЕБ)
 
-**Original Data Collection**
+* Provincial Yearbooks (*Vilayeti salnamesi*) of the Ottoman Empire (with [Yusuf Magiya](https://www.yusufmagiya.com))
 
-* Global cross-national sub-national time-series panel data on fiscal revenue structures, local government, and % central vs. local revenues and expenditures (1800-1918)
-
+* Provincial Reports (*Zhengzhi guanbao*) of the Qing Dynasty
 
 ## Papers
 
@@ -66,9 +66,17 @@ https://doi.org/10.1146/annurev-polisci-051120-010103
 
 ---
 
-#### __The State of the State in Historical Democratization Studies__ ####
+#### __Local Bureaucratic Selection and Social Representation in the Russian Empire__ (with [Igor Kolesnikov](https://polisci.berkeley.edu/people/person/igorkolesnikov))
 
-A theoretically informed review of Boucoyannis (*Kings as Judges*, 2021), Mazzuca (*Latecomer State Formation*, 2021), and Stasavage (*The Decline and Rise of Democracy*, 2020).
+---
+
+#### __State Capacity__ (with [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier))
+
+---
+
+#### __The State of the State in Historical Political Economy__ ####
+
+A theoretically informed review of Boucoyannis (*Kings as Judges*, 2021), Mazzuca (*Latecomer State Formation*, 2021), Queralt (*Pawned States*, 2022), Stasavage (*The Decline and Rise of Democracy*, 2020), and Wang (*The Rise and Fall of Imperial China*, 2022).
 
 ---
 
