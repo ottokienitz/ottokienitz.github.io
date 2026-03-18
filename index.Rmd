@@ -1,5 +1,5 @@
 ---
-title: "Otto Kienitz"
+title: "Dr. Otto Kienitz"
 ---
 
 <img align="right" src="images/20221012_PoliSciStaff_bhs_030.jpg" width = "400">
