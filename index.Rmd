@@ -12,11 +12,13 @@ title: "Otto Kienitz"
 
 **Otto Kienitz** holds a Ph.D. in Political Science from the University of California, Berkeley.
 
-His ***research interests*** include the study of democracy & autocracy, state-building & state capacity, and local taxation & representation in comparative perspective. He is an expert in Russian politics, including local politics, public goods provision,  electoral authoritarianism, historical legacies, and the historical political economy of the Russian Empire.
+His ***research interests*** include democracy and autocracy, state-building and state capacity, and local taxation and representation in comparative perspective. He is an expert in Russian politics, including local politics, public goods provision, and the historical political economy of the Russian Empire.
 
-His ***Ph.D. dissertation*** examines local democratization as state-building, identifying the relationship between local taxation and representation in weak states such as the nineteenth century Russian Empire, Ottoman Empire, and Qing Dynasty in historical comparative perspective. His other work explores the historical political economy of state-building with a focus on the role of local elites in constraining or enabling state-building and the development of state capacity over time and space.
+His ***book manuscript***, [*Between State and Democracy*](research.html), asks why rulers who faced no democratic pressure nevertheless created local elected assemblies and gave them power over taxation. The answer, he argues, is that these institutions solved a problem no bureaucracy could: getting local elites to reveal accurate information about wealth and pay their share. The book traces how institutions designed for extraction ended up generating public goods, building human capital, and creating pressure for broader political inclusion — across nineteenth-century Europe, Eurasia, and beyond.
 
-He is the co-founder of the Berkeley ***Historical Social Science Workshop (HSSW)*** and is an advocate for mixed-methods approaches to the study of historical political economy emerging from his training as a historian and his experience with qualitative archival research and the historiography of empire.
+His ***other work*** explores the political economy of state-building from several directions: how landowning elites responded to decentralization by capturing local bureaucracies (with [Igor Kolesnikov](https://polisci.berkeley.edu/people/person/igorkolesnikov)), what state capacity actually means and how to study it as a policy problem rather than a single variable (with [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier)), and how proximity to national borders shapes political violence and identity (with [Robert Braun](https://sociology.berkeley.edu/faculty/robert-braun)).
+
+He is the co-founder of the Berkeley ***Historical Social Science Workshop (HSSW)*** and is an advocate for mixed-methods approaches to the study of historical political economy, drawing on his training as a historian and his experience with qualitative archival research and the historiography of empire.
 
 Prior to attending Berkeley, he received his B.A. (Phi Beta Kappa, Summa Cum Laude) in History with a Minor in Political Science from the [University of Pennsylvania](https://www.upenn.edu), and an M.A. in Russian and Eurasian Studies from the [European University at St. Petersburg](https://eu.spb.ru/en/) (Russia), and holds an M.A. in Political Science with Distinction from the [University of California, Berkeley](https://www.berkeley.edu).
 
@@ -24,7 +26,7 @@ He comes from a family of musicians, educators, and writers. His grandfather, Ri
 
 ---
 
-His full CV is available [here](cv.html) and can be reached via [email](mailto:ojk@berkeley.edu).
+His full CV is available [here](cv.html) and can be reached via [email](mailto:okienit1@jhu.edu).
 
 ---
 

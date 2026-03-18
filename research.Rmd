@@ -4,19 +4,74 @@ title: "Research"
 
 ---
 
-Please [contact](mailto:ojk@berkeley.edu) for access to unpublished working papers.
+Please [contact](mailto:okienit1@jhu.edu) for access to unpublished working papers.
 
 ---
 
-# {.tabset .tabset-fade}
-
-## Dissertation
+### Book Manuscript
 
 ---
 
-#### __“Between State and Democracy: The Historical Political Economy of State-Building”__
+#### ___Between State and Democracy: The Historical Political Economy of State-Building___
 
-Committee: [Jason Wittneberg](https://polisci.berkeley.edu/people/person/jason-wittenberg) (Chair), [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier), [Sean Gailmard](https://polisci.berkeley.edu/people/person/sean-p-gailmard), [Victoria Frede](https://history.berkeley.edu/victoria-frede)
+Book manuscript in progress at the SNF Agora Institute, Johns Hopkins University.
+
+Why did democratic institutions emerge in places where no one demanded democracy? This book argues that states dependent on elite-controlled fiscal intermediation could not shift to direct taxation without destroying existing revenue. The surtax mechanism — whereby local bodies piggy-backed assessments on central tax rolls — solved this agency problem, but only when democratic features (broader franchise, peer monitoring, information competition) made assessment credible. Institutions created for extraction generated public goods, human capital, and pressure for inclusion: the extractive origins of local democracy.
+
+The argument is developed in three layers. **Layer 1** establishes the fiscal intermediation bind: states that relied on elite-controlled revenue channels could not simply bypass those channels without alternative agents and local information. **Layer 2** identifies the surtax mechanism as the institutional solution, showing that democratic features were functionally necessary for accurate assessment. **Layer 3** traces the dynamic by which extractive institutions generated democratic accountability as an emergent outcome.
+
+The book draws on 13 master datasets covering 20+ polities (1652--1927) and 107,000+ rows of fiscal, institutional, and demographic data, with the Russian Empire as the central case. Comparative cases span the Netherlands, United Kingdom, Sweden, Prussia, France, Italy, Spain, the Ottoman Empire, Qing China, Japan, Austria-Hungary, and Latin America.
+
+---
+
+### Published Papers
+
+---
+
+#### __"Comparative Politics in Borderlands: Actors, Identities, and Strategies"__ (with [Robert Braun](https://sociology.berkeley.edu/faculty/robert-braun))
+
+*Annual Review of Political Science*
+Vol. 25:303-321 (May 2022)
+https://doi.org/10.1146/annurev-polisci-051120-010103
+
+Comparativists are increasingly researching national border regions. Yet the distinct way in which proximity to borders independently shapes politics is rarely theorized explicitly. Drawing on the emerging subdiscipline of border studies, we identify three types of border effects: borders involve specific actors, shape local identities, and provide distinct strategies, each of which directly affects key areas of comparative politics. An in-depth review of work on political violence and state formation shows that specifying these effects (a) demands that comparativists consider the ways in which borderlands differ from other regions and be careful in attributing processes found there to nations as a whole, (b) improves theories by elucidating scope conditions, and (c) scrutinizes the validity of our research designs and measurement strategies. We end with a call to move from a comparative politics *in* border regions to a comparative politics *of* border regions that contextualizes how borders alter political processes.
+
+---
+
+### Working Papers
+
+---
+
+#### __"Landowners into Bureaucrats: Decentralization and Local Administration in the Russian Empire"__ (with [Igor Kolesnikov](https://polisci.berkeley.edu/people/person/igorkolesnikov))
+
+How do weak states build local state capacity when they lack the resources, human capital, and information to govern their own territory? We argue that states can escape this dilemma through a strategy of constrained decentralization: the simultaneous devolution of fiscal authority to local institutions paired with the extension of the franchise to non-elite groups. Fiscal decentralization gives landowning elites material reason to engage with local governance, while franchise extension creates a political threat that redirects elite effort from the elected assembly into the local bureaucracy, where direct control over the implementation of policy allows elites to defend their interests against an assembly they do not fully control. We test this theory using the 1864 *zemstvo* reform in the Russian Empire. Drawing on the first large-N sample of district-level officialdom matched to a comprehensive database of wealthy serf owners, we leverage the staggered adoption of the reform and variation across local institutions to show that franchise extension drove elite entry into local administrative positions.
+
+---
+
+#### __"Reconceptualizing State Capacity: A Framework, Not a Variable"__ (with [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier))
+
+We propose a new conceptualization of state capacity. The conventional approach --- the ability to implement policy --- confronts problems of substance, validity, and analytics. We conceptualize the state as a sovereignty responsible for the pursuit of collective goals, and state capacity as the advancement of those goals through the provision of public goods via the policy process. We argue that state capacity should not be treated as a variable that can be operationalized but instead understood as a framework for analysis. Our framework decomposes the policy process by distinguishing steps, each involving its own state structures and actors, which individually and collectively constitute state capacity.
+
+---
+
+#### __"The State of the State in Historical Political Economy"__
+
+A theoretically informed review of Boucoyannis, *Kings as Judges* (2021); Mazzuca, *Latecomer State Formation* (2021); Queralt, *Pawned States* (2022); Stasavage, *The Decline and Rise of Democracy* (2020); and Wang, *The Rise and Fall of Imperial China* (2022).
+
+---
+
+### Dissertation
+
+---
+
+#### ___Between State and Democracy: The Historical Political Economy of State-Building___
+
+Ph.D. Dissertation, University of California, Berkeley (2024)
+
+Committee: [Jason Wittenberg](https://polisci.berkeley.edu/people/person/jason-wittenberg) (Chair), [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier), [Sean Gailmard](https://polisci.berkeley.edu/people/person/sean-p-gailmard), [Victoria Frede](https://history.berkeley.edu/victoria-frede)
+
+<details>
+<summary>Table of Contents & Archival Sources</summary>
 
 **Table of Contents**
 
@@ -46,51 +101,15 @@ Committee: [Jason Wittneberg](https://polisci.berkeley.edu/people/person/jason-w
 
 * Provincial Reports (*Zhengzhi guanbao*) of the Qing Dynasty
 
-## Papers
+</details>
 
 ---
 
-<h4>Published Papers</h4>
+### Theses
 
 ---
 
-#### __Comparative Politics in Borderlands: Actors, Identities, and Strategies__ (with [Robert Braun](https://sociology.berkeley.edu/faculty/robert-braun))
-
-Annual Review of Political Science
-Vol. 25:303-321 (Volume publication date May 2022) 
-https://doi.org/10.1146/annurev-polisci-051120-010103
-
----
-
-<h4>Working Papers</h4>
-
----
-
-#### __Capturing the State: Decentralization, Franchise Expansion, and Elite Representation in the Russian Empire__ (with [Igor Kolesnikov](https://polisci.berkeley.edu/people/person/igorkolesnikov))
-
----
-
-#### __State Capacity: A Modest Proposal__ (with [Ruth Collier](https://polisci.berkeley.edu/people/person/ruth-b-collier))
-
----
-
-#### __The State of the State in Historical Political Economy__ ####
-
-A theoretically informed review of Boucoyannis (*Kings as Judges*, 2021), Mazzuca (*Latecomer State Formation*, 2021), Queralt (*Pawned States*, 2022), Stasavage (*The Decline and Rise of Democracy*, 2020), and Wang (*The Rise and Fall of Imperial China*, 2022).
-
----
-
-#### 
-
-## Theses
-
----
-
-<h4>Theses</h4>
-
----
-
-#### __Democratization out of State Capacity: Bureaucracy and Reform in the Russian Empire__
+#### ___Democratization out of State Capacity: Bureaucracy and Reform in the Russian Empire___
 
 MA Thesis (University of California, Berkeley)
 
@@ -98,7 +117,7 @@ MA Thesis (University of California, Berkeley)
 
 ---
 
-#### __Engineering Russian Imperial Electoral Law: Inventing Minority Representation 1904–1906__
+#### ___Engineering Russian Imperial Electoral Law: Inventing Minority Representation 1904–1906___
 
 MA Thesis (European University at St. Petersburg)
 
@@ -106,7 +125,7 @@ MA Thesis (European University at St. Petersburg)
 
 ---
 
-#### __Sir Percy Loraine and Anglo-Turkish Rapprochement 1934-1939__
+#### ___Sir Percy Loraine and Anglo-Turkish Rapprochement 1934-1939___
 
 BA Honors Thesis (University of Pennsylvania)
 

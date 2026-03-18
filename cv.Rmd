@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 
 ---
 
-[PDF](Kienitz_CV.pdf)
+[PDF](Kienitz_CV_3p.pdf)
 
 ---
 
@@ -14,11 +14,19 @@ title: "Curriculum Vitae"
 
 ---
 
+### Positions
+
+---
+
+Post-Doctoral Fellow, SNF Agora Institute, Johns Hopkins University __(2024-present)__
+
+---
+
 ### Education
 
 ---
 
-PhD, University of California, Berkeley, Department of Political Science, Berkeley, California __(May 2024)__
+PhD, University of California, Berkeley, Department of Political Science, Berkeley, California __(2024)__
 
 MA, University of California, Berkeley, Department of Political Science, Berkeley, California __(2017-2019)__
 
@@ -30,7 +38,7 @@ BA, University of Pennsylvania, College of Arts and Sciences, Philadelphia, Penn
 
 __Subfields__: Comparative Politics, Methodology and Formal Theory, Post-Soviet Studies
 
-__Research Affiliate__: [Berkeley Institute of Slavic, East European, and Eurasian Studies](https://iseees.berkeley.edu)
+__Affiliation__: [SNF Agora Institute](https://snfagora.jhu.edu), Johns Hopkins University
 
 __Professional Organizations__: [APSA](https://www.apsanet.org), [ASEEES](https://www.aseees.org)
 

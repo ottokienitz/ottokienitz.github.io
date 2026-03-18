@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>The Politics of State Capacity and Policy Implementation</title>
+
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Otto Kienitz</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Teaching
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">--- Sample Syllabi ---</li>
+    <li>
+      <a href="statecap.html">State Capacity and Public Policy</a>
+    </li>
+    <li class="dropdown-header">--- Courses Taught ---</li>
+    <li>
+      <a href="rsd.html">Russian State and Democracy (2023)</a>
+    </li>
+    <li>
+      <a href="ee.html">Eastern European Politics (2022)</a>
+    </li>
+    <li>
+      <a href="ps2_s20.html">Comparative Politics (2020)</a>
+    </li>
+    <li>
+      <a href="ps3.html">Quantitative Methods (2019)</a>
+    </li>
+    <li>
+      <a href="ps2_s19.html">Comparative Politics (2019)</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:okienit1@jhu.edu">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://x.com/ottokienitz">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=KHGY_38AAAAJ&amp;hl=en&amp;oi=ao">
+    <span class="fa fa-graduation-cap fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://substack.com/profile/17293456-otto-kienitz?r=aanps&amp;s=r&amp;utm_campaign=profile&amp;utm_medium=web">
+    <span class="fa fa-quote-right fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">The Politics of State Capacity and Policy
+Implementation</h1>
+
+</div>
+
+
+<p><br></p>
+<p><img align="center" src="images/flowers_cropped.jpg" width = "500"></p>
+<p><em>Spring in the Bay Area (2022)</em></p>
+<p><br></p>
+<p><em>Sample syllabus. Please <a
+href="mailto:okienit1@jhu.edu">contact</a> for further details.</em></p>
+<p><br></p>
+<p>What is the state, where did it come from, and why does it take such
+varied forms across time and space? Why do some states effectively
+deliver public goods while others fail, and why do well-designed
+policies so often produce disappointing results? This course examines
+state capacity and policy implementation as fundamentally political
+processes shaped by power, institutions, organized interests, and the
+strategic choices of actors at every level of government and society.
+Rather than treating state capacity as a fixed endowment or a
+technocratic puzzle, we investigate how the ability to tax, regulate,
+and provide services emerged historically, how it varies across and
+within countries, and how it is continuously contested by the very
+actors it is meant to govern.</p>
+<p>The course blends classical theories of state formation with
+cutting-edge empirical research from across the social sciences, drawing
+on political science, economics, history, and historical political
+economy. We begin with foundational concepts and measurement debates,
+move through the historical origins of fiscal and administrative
+capacity, develop a framework for analyzing the policy process from
+adoption through enforcement, and conclude with comparative and
+contemporary applications. Throughout, a sequence of data science labs
+introduces students to quantitative methods for studying state capacity,
+from cross-national indicators to historical administrative records,
+text analysis, and spatial data. Students will develop an original
+research paper over the course of the semester, building each section
+incrementally with structured feedback.</p>
+<p><br></p>
+<div id="section" class="section level1 tabset tabset-fade">
+<h1 class="tabset tabset-fade"></h1>
+<div id="schedule-of-lectures-readings" class="section level2">
+<h2>Schedule of Lectures &amp; Readings</h2>
+<hr />
+<div id="part-1-what-is-state-capacity" class="section level3">
+<h3>Part 1: What Is State Capacity?</h3>
+<hr />
+<h4>
+<em>Week 1: Introduction — Concepts, Critiques, and Measurement</em>
+</h4>
+<hr />
+<p>Francis Fukuyama (2011) <strong>Origins of Political Order: From
+Prehuman Times to the French Revolution</strong>, Farrar, Straus and
+Giroux, Ch. 1-2.</p>
+<p>Miguel Angel Centeno, Atul Kohli, Deborah J. Yashar &amp; Dinsha
+Mistree (2017) “Unpacking States in the Developing World: Capacity,
+Performance, and Politics” in <strong>States in the Developing
+World</strong>, Cambridge University Press.</p>
+<p>Martin J. Williams (2021) “Beyond State Capacity: Bureaucratic
+Performance, Policy Implementation, and Reform,” <em>Journal of
+Institutional Economics</em> 17 (4).</p>
+<p>Didac Queralt (2025) “From Territorial Consolidation to Bureaucratic
+Dominance: The Formation of Modern States” in <strong>The Oxford
+Handbook of Historical Political Economy</strong>, Oxford University
+Press.</p>
+<p>Leander Heldring (2026) “Historical Government,” <em>Annual Review of
+Political Science</em> 29.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Charles Tilly (1975) “Reflections on the History of European
+State-Making” in <strong>The Formation of National States in Western
+Europe</strong>, Princeton University Press.</p>
+</blockquote>
+<blockquote>
+<p>Joel S. Migdal (1988) <strong>Strong Societies and Weak States:
+State-Society Relations and State Capabilities in the Third
+World</strong>, Princeton University Press, Ch. 1.</p>
+</blockquote>
+<p><strong>Data Science Lab 1: Coding Fundamentals and AI-Assisted
+Coding.</strong> Introduction to R (or Python) programming with an
+emphasis on using AI tools (e.g., ChatGPT, GitHub Copilot) to accelerate
+learning. Students will set up their coding environment, learn basic
+data manipulation, and practice writing and debugging code with AI
+assistance.</p>
+<hr />
+</div>
+<div id="part-2-origins-and-varieties-of-state-power"
+class="section level3">
+<h3>Part 2: Origins and Varieties of State Power</h3>
+<hr />
+<h4>
+<em>Week 2: War, Revenue, and State Formation</em>
+</h4>
+<hr />
+<p>Margaret Levi (1988) <strong>Of Rule and Revenue</strong>, University
+of California Press, Ch. 1.</p>
+<p>Charles Tilly (1990) <strong>Coercion, Capital, and European States,
+AD 990-1992</strong>, Basil Blackwell, Ch. 1 and 3.</p>
+<p>Mark Dincecco (2011) <strong>Political Transformations and Public
+Finances: Europe, 1650-1913</strong>, Cambridge University Press, Ch.
+1-2.</p>
+<p>Anna Grzymala-Busse (2024) “Tilly Goes to Church: The Religious Roots
+of the Western State,” <em>American Political Science Review</em> 118
+(4).</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Mauricio Drelichman &amp; Hans-Joachim Voth (2014) <strong>Lending to
+the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip
+II</strong>, Princeton University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>Philip T. Hoffman (2015) <strong>Why Did Europe Conquer the
+World?</strong>, Princeton University Press, Ch. 1-3.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 3: Infrastructural Power, Embeddedness, and Legibility</em>
+</h4>
+<hr />
+<p>Michael Mann (1984) “The Autonomous Power of the State: Its Origins,
+Mechanisms and Results,” <em>European Journal of Sociology</em> 25
+(2).</p>
+<p>Peter Evans (1995) <strong>Embedded Autonomy: States and Industrial
+Transformation</strong>, Princeton University Press, Ch. 1-3.</p>
+<p>James C. Scott (1998) <strong>Seeing Like a State: How Certain
+Schemes to Improve the Human Condition Have Failed</strong>, Yale
+University Press, Ch. 1 and 9.</p>
+<p>Melissa M. Lee &amp; Nan Zhang (2017) “Legibility and the
+Informational Foundations of State Capacity,” <em>Journal of
+Politics</em> 79 (1).</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Hillel David Soifer (2008) “State Infrastructural Power: Approaches
+to Conceptualization and Measurement,” <em>Studies in Comparative
+International Development</em> 43 (3-4).</p>
+</blockquote>
+<blockquote>
+<p>Dan Slater &amp; Diana Kim (2015) “Standoffish States: Nonliterate
+Leviathans in Southeast Asia,” <em>Journal of East Asian Studies</em> 15
+(3).</p>
+</blockquote>
+<p><strong>Data Science Lab 2: Measuring State Capacity with
+Cross-National Data.</strong> Students will work with major
+cross-national datasets (V-Dem, QoG, World Bank Governance Indicators)
+to construct and compare measures of state capacity. Exercises include
+merging datasets, creating composite indices, and visualizing
+cross-national variation.</p>
+<hr />
+</div>
+<div id="part-3-a-policy-making-framework-for-state-capacity"
+class="section level3">
+<h3>Part 3: A Policy-Making Framework for State Capacity</h3>
+<hr />
+<h4>
+<em>Week 4: Disaggregating the Policy Process</em>
+</h4>
+<hr />
+<p><strong>Statement of Research Topic due.</strong></p>
+<p>Aaron Wildavsky (1973) “If Planning Is Everything, Maybe It’s
+Nothing,” <em>Policy Sciences</em> 4 (2).</p>
+<p>Mancur Olson (1965) <strong>The Logic of Collective Action: Public
+Goods and the Theory of Groups</strong>, Harvard University Press, Ch.
+1-2.</p>
+<p>Elinor Ostrom &amp; Vincent Ostrom (1977) “Public Goods and Public
+Choices” in <strong>Alternatives for Delivering Public Services: Toward
+Improved Performance</strong>, Westview Press.</p>
+<p>Peter Hupe (2023) “The Concept and Study of Implementation: An
+Introduction” in <strong>Research Handbook on Implementation of Public
+Policy</strong>, Edward Elgar.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Paul Sabatier (2007) “The Need for Better Theories” in
+<strong>Theories of the Policy Process</strong>, Westview Press, Ch.
+1.</p>
+</blockquote>
+<blockquote>
+<p>Thomas A. Birkland (2020) <strong>An Introduction to the Policy
+Process: Theories, Concepts, and Models of Public Policy
+Making</strong>, Routledge, Ch. 1-2.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 5: Policy Adoption and the Regime</em>
+</h4>
+<hr />
+<p>E. E. Schattschneider (1957) “Intensity, Visibility, Direction, and
+Scope,” <em>American Political Science Review</em> 51 (4).</p>
+<p>George Tsebelis (2000) “Veto Players and Institutional Analysis,”
+<em>Governance</em> 13 (4).</p>
+<p>Jacob S. Hacker &amp; Paul Pierson (2010) <strong>Winner-Take-All
+Politics: How Washington Made the Rich Richer — and Turned Its Back on
+the Middle Class</strong>, Simon &amp; Schuster, Ch. 1-3.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Carles Boix (2003) <strong>Democracy and Redistribution</strong>,
+Cambridge University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>Milan Svolik (2012) <strong>The Politics of Authoritarian
+Rule</strong>, Cambridge University Press, Ch. 1.</p>
+</blockquote>
+<p><strong>Data Science Lab 3: Working with Historical Administrative
+Data.</strong> Students will learn to clean, harmonize, and analyze
+historical administrative records. Exercises cover common challenges:
+inconsistent naming conventions, missing data, and changing
+administrative boundaries.</p>
+<hr />
+<h4>
+<em>Week 6: Policy Formulation</em>
+</h4>
+<hr />
+<p><strong>Draft A (State Capacity Section) due.</strong></p>
+<p>John D. Huber &amp; Charles R. Shipan (2002) <strong>Deliberate
+Discretion? The Institutional Foundations of Bureaucratic
+Autonomy</strong>, Cambridge University Press, Ch. 1-2.</p>
+<p>Eric Patashnik (2009) <strong>Reforms at Risk: What Happens After
+Major Policy Changes Are Enacted</strong>, Princeton University Press,
+Ch. 1.</p>
+<p>Sean Farhang (2010) <strong>The Litigation State: Public Regulation
+and Private Lawsuits in the U.S.</strong>, Princeton University Press,
+Ch. 1-2.</p>
+<p>Jong-sung You (2017) “Ex Post Lobbying” in <strong>Democracy,
+Inequality, and Corruption: Korea, Taiwan, and the Philippines
+Compared</strong>, Cambridge University Press.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Mariana Mazzucato (2013) <strong>The Entrepreneurial State: Debunking
+Public vs. Private Sector Myths</strong>, Anthem Press, Ch. 1-2.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 7: Policy Implementation</em>
+</h4>
+<hr />
+<p><strong>Draft B (Policy Implementation Section) due.</strong></p>
+<p>Michael Lipsky (1971) “Street-Level Bureaucracy and the Analysis of
+Urban Reform,” <em>Urban Affairs Quarterly</em> 6 (4).</p>
+<p>Jeffrey Pressman &amp; Aaron Wildavsky (1973) <strong>Implementation:
+How Great Expectations in Washington Are Dashed in Oakland</strong>,
+University of California Press, Preface and Ch. 1.</p>
+<p>Akshay Mangla (2022) “Bureaucratic Norms and State Capacity:
+Implementing Primary Education in India’s Himalayan Region,”
+<em>American Political Science Review</em> 116 (4).</p>
+<p>Markus Hinterleitner (2022) <strong>Policy Controversies and
+Political Blame Games</strong>, Cambridge University Press, Ch. 1.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Susan L. Moffitt (2014) <strong>Making Policy Public: Participatory
+Bureaucracy in American Democracy</strong>, Cambridge University Press,
+Ch. 1.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 8: Policy Enforcement, Compliance, and Coercion</em>
+</h4>
+<hr />
+<p>Daniel Carpenter &amp; David Moss (2013) “Introduction” in
+<strong>Preventing Regulatory Capture: Special Interest Influence and
+How to Limit It</strong>, Cambridge University Press.</p>
+<p>Alisha C. Holland (2016) “Forbearance,” <em>American Political
+Science Review</em> 110 (2).</p>
+<p>Joe Soss &amp; Vesla Weaver (2017) “Police Are Our Government:
+Politics, Political Science, and the Policing of Race-Class Subjugated
+Communities,” <em>Annual Review of Political Science</em> 20.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Lily L. Tsai (2007) <strong>Accountability Without Democracy:
+Solidary Groups and Public Goods Provision in Rural China</strong>,
+Cambridge University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>Edgar Kiser &amp; Steven M. Karceski (2017) “Political Economy of
+Taxation,” <em>Annual Review of Political Science</em> 20.</p>
+</blockquote>
+<hr />
+</div>
+<div
+id="part-4-bureaucratic-performance-and-the-politics-of-administration"
+class="section level3">
+<h3>Part 4: Bureaucratic Performance and the Politics of
+Administration</h3>
+<hr />
+<h4>
+<em>Week 9: Bureaucratic Quality, Politicization, and the Administrative
+State</em>
+</h4>
+<hr />
+<p>James E. Rauch &amp; Peter B. Evans (1999) “Bureaucracy and Growth: A
+Cross-National Analysis of the Effects of ‘Weberian’ State Structures on
+Economic Growth,” <em>American Sociological Review</em> 64 (5).</p>
+<p>Katherine Bersch, Sérgio Praça &amp; Matthew M. Taylor (2017) “State
+Capacity, Bureaucratic Politicization, and Corruption in the Brazilian
+State,” <em>Governance</em> 30 (1).</p>
+<p>Aditya Dasgupta &amp; Devesh Kapur (2020) “The Political Economy of
+Bureaucratic Overload: Evidence from Rural Development Officials in
+India,” <em>American Political Science Review</em> 114 (4).</p>
+<p>Donald Moynihan (2025) “The Personalist Presidency and the Assault on
+the Administrative State,” <em>Annual Review of Political Science</em>
+28.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Barbara Geddes (1994) <strong>Politician’s Dilemma: Building State
+Capacity in Latin America</strong>, University of California Press, Ch.
+1.</p>
+</blockquote>
+<blockquote>
+<p>Francis Fukuyama (2013) “What Is Governance?,” <em>Governance</em> 26
+(3).</p>
+</blockquote>
+<p><strong>Data Science Lab 4: Quantitative Indicators of Bureaucratic
+Quality.</strong> Students will analyze survey-based and administrative
+indicators of bureaucratic quality (e.g., V-Dem expert surveys, civil
+service employment data). Exercises include constructing indices,
+assessing measurement validity, and comparing bureaucratic quality
+across regime types.</p>
+<hr />
+</div>
+<div id="part-5-state-society-and-the-experience-of-government"
+class="section level3">
+<h3>Part 5: State, Society, and the Experience of Government</h3>
+<hr />
+<h4>
+<em>Week 10: Administrative Burden and the Contracting State</em>
+</h4>
+<hr />
+<p><strong>Draft C (Political Analysis Section) due.</strong></p>
+<p>Lester Salamon (1987) “Of Market Failure, Voluntary Failure, and
+Third-Party Government: Toward a Theory of Government-Nonprofit
+Relations in the Modern Welfare State,” <em>Journal of Voluntary Action
+Research</em> 16 (1-2).</p>
+<p>Suzanne Mettler (2010) “Reconstituting the Submerged State: The
+Challenges of Social Policy Reform in the Obama Era,” <em>Perspectives
+on Politics</em> 8 (3).</p>
+<p>Donald Moynihan, Pamela Herd &amp; Hope Harvey (2015) “Administrative
+Burden: Learning, Psychological, and Compliance Costs in Citizen-State
+Interactions,” <em>Journal of Public Administration Research and
+Theory</em> 25 (1).</p>
+<p>Jennifer Pahlka (2023) <strong>Recoding America: Why Government Is
+Failing in the Digital Age and How We Can Do Better</strong>,
+Metropolitan Books, Ch. 1 and 8.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Pamela Herd &amp; Donald P. Moynihan (2019) <strong>Administrative
+Burden: Policymaking by Other Means</strong>, Russell Sage Foundation,
+Ch. 1.</p>
+</blockquote>
+<p><strong>Data Science Lab 5: Text-as-Data for Policy
+Analysis.</strong> Introduction to computational text analysis methods
+for studying government documents. Students will learn basic text
+preprocessing, keyword analysis, and topic modeling applied to policy
+texts (e.g., legislation, regulatory filings, government reports).</p>
+<hr />
+</div>
+<div id="part-6-capacity-in-comparative-and-historical-perspective"
+class="section level3">
+<h3>Part 6: Capacity in Comparative and Historical Perspective</h3>
+<hr />
+<h4>
+<em>Week 11: State Capacity in the Developing World</em>
+</h4>
+<hr />
+<p>Ruth Berins Collier &amp; David Collier (1979) “Inducements Versus
+Constraints: Disaggregating ‘Corporatism’,” <em>American Political
+Science Review</em> 73 (4).</p>
+<p>Miguel Angel Centeno (2002) <strong>Blood and Debt: War and the
+Nation-State in Latin America</strong>, Pennsylvania State University
+Press, Ch. 1-2.</p>
+<p>Devesh Kapur (2020) “Why Does the Indian State Both Fail and
+Succeed?,” <em>Journal of Economic Perspectives</em> 34 (1).</p>
+<p>Sebastián Mazzuca (2021) <strong>Latecomer State Formation: Political
+Geography and Capacity Failure in Latin America</strong>, Yale
+University Press, Ch. 1-2.</p>
+<p>Adam Michael Auerbach, Tariq Thachil &amp; Pavithra Suryanarayan
+(2025) “Who Knows How to Govern? Evaluating Candidates for Government
+Effectiveness,” <em>American Political Science Review</em>.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Tulia G. Falleti (2010) <strong>Decentralization and Subnational
+Politics in Latin America</strong>, Cambridge University Press, Ch.
+1.</p>
+</blockquote>
+<blockquote>
+<p>Catherine Boone (2014) <strong>Property and Political Order in
+Africa: Land Rights and the Structure of Politics</strong>, Cambridge
+University Press, Ch. 1-2.</p>
+</blockquote>
+<blockquote>
+<p>Melissa M. Lee (2020) <strong>Crippling Leviathan: How Foreign
+Subversion Weakens the State</strong>, Cornell University Press, Ch.
+1.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 12: Indirect Rule, Direct Rule, and the Legacies of Colonial
+and Federal States</em>
+</h4>
+<hr />
+<p>Mahmood Mamdani (1996) <strong>Citizen and Subject: Contemporary
+Africa and the Legacy of Late Colonialism</strong>, Princeton University
+Press, Ch. 1-2.</p>
+<p>Daron Acemoglu, Simon Johnson &amp; James A. Robinson (2001) “The
+Colonial Origins of Comparative Development: An Empirical
+Investigation,” <em>American Economic Review</em> 91 (5).</p>
+<p>Stephen Skowronek (1982) <strong>Building a New American State: The
+Expansion of National Administrative Capacities, 1877-1920</strong>,
+Cambridge University Press, Ch. 1-2.</p>
+<p>Matthew Lange (2009) <strong>Lineages of Despotism and Development:
+British Colonialism and State Power</strong>, University of Chicago
+Press, Ch. 1-2.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>John Gerring, Daniel Ziblatt, Johan Van Gorp &amp; Julián Arévalo
+(2011) “An Institutional Theory of Direct and Indirect Rule,” <em>World
+Politics</em> 63 (3).</p>
+</blockquote>
+<blockquote>
+<p>Daniel Carpenter (2001) <strong>The Forging of Bureaucratic Autonomy:
+Reputations, Networks, and Policy Innovation in Executive Agencies,
+1862-1928</strong>, Princeton University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>William Novak (2008) “The Myth of the ‘Weak’ American State,”
+<em>American Historical Review</em> 113 (3).</p>
+</blockquote>
+<blockquote>
+<p>Nicola Mastrorocco &amp; Edoardo Teso (2025) “State Capacity as an
+Organizational Problem: Evidence from the Growth of the U.S. State Over
+100 Years,” Working Paper.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 13: Historical Origins and Long-Run Development</em>
+</h4>
+<hr />
+<p>Hillel David Soifer (2015) <strong>State Building in Latin
+America</strong>, Cambridge University Press, Ch. 1-2.</p>
+<p>Mark Dincecco &amp; Gabriel Katz (2016) “State Capacity and Long-Run
+Economic Performance,” <em>Economic Journal</em> 126 (590).</p>
+<p>Davide Cantoni, Cathrin Mohr &amp; Matthias Weigand (2024) “The Rise
+of Fiscal Capacity: Administration and State Consolidation in the Holy
+Roman Empire,” <em>Econometrica</em> 92 (5).</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Timothy Besley &amp; Torsten Persson (2011) <strong>Pillars of
+Prosperity: The Political Economics of Development Clusters</strong>,
+Princeton University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>Daron Acemoglu, Camilo García-Jimeno &amp; James A. Robinson (2015)
+“State Capacity and Economic Development: A Network Approach,”
+<em>American Economic Review</em> 105 (8).</p>
+</blockquote>
+<p><strong>Data Science Lab 6: Spatial Analysis of State
+Capacity.</strong> Students will learn to create maps and conduct basic
+spatial analysis of state capacity indicators. Exercises include
+geocoding administrative data, mapping subnational variation, and
+exploring spatial patterns in public goods provision.</p>
+<hr />
+</div>
+<div id="part-7-current-debates-methods-and-research-frontiers"
+class="section level3">
+<h3>Part 7: Current Debates, Methods, and Research Frontiers</h3>
+<hr />
+<h4>
+<em>Week 14: Challenges to the Administrative State and AI
+Governance</em>
+</h4>
+<hr />
+<p><strong>Draft D (Data Exercise) due. Draft paper for peer review
+due.</strong></p>
+<p>Nicholas Bagley (2019) “The Procedure Fetish,” <em>Michigan Law
+Review</em> 118 (3).</p>
+<p>Daniel E. Ho &amp; David Engstrom (2020) “Algorithmic Accountability
+in the Administrative State,” <em>Yale Journal on Regulation</em> 37
+(3).</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Cass R. Sunstein (2013) <strong>Simpler: The Future of
+Government</strong>, Simon &amp; Schuster, Ch. 1-3.</p>
+</blockquote>
+<blockquote>
+<p>Beth Simone Noveck (2015) <strong>Smart Citizens, Smarter State: The
+Technologies of Expertise and the Future of Governing</strong>, Harvard
+University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>David Schleicher &amp; Nicholas Bagley (2025) “The State Capacity
+Crisis,” <em>Boston College Law Review</em> 66.</p>
+</blockquote>
+<blockquote>
+<p>Ezra Klein &amp; Derek Thompson (2025) <strong>Abundance: On Freedom,
+Prosperity, and the Best Ideas in the World</strong>, Simon &amp;
+Schuster.</p>
+</blockquote>
+<hr />
+<h4>
+<em>Week 15: Research Methods, Problem Solving, and Course
+Synthesis</em>
+</h4>
+<hr />
+<p><strong>Peer review due. Final Paper due.</strong></p>
+<p>Michael Burawoy (1998) “The Extended Case Method,” <em>Sociological
+Theory</em> 16 (1).</p>
+<p>Hillel David Soifer (2015) <strong>State Building in Latin
+America</strong>, Cambridge University Press, Ch. 3 (thick measures of
+state capacity).</p>
+<p>Alan S. Gerber &amp; Eric M. Patashnik (2025) “Introduction: American
+Government and the Politics of Problem Solving” in <strong>Toward a More
+Perfect Union: What We the People Can Do</strong>, Yale University
+Press.</p>
+<p>Additional resources:</p>
+<blockquote>
+<p>Gary King, Robert O. Keohane &amp; Sidney Verba (1994)
+<strong>Designing Social Inquiry: Scientific Inference in Qualitative
+Research</strong>, Princeton University Press, Ch. 1.</p>
+</blockquote>
+<blockquote>
+<p>Jason Seawright (2016) <strong>Multi-Method Social Science: Combining
+Qualitative and Quantitative Tools</strong>, Cambridge University Press,
+Ch. 1.</p>
+</blockquote>
+<p><strong>Data Science Lab 7: Individualized Data Analysis
+Support.</strong> Open lab session dedicated to supporting students’
+individual research projects. Instructor and teaching assistants provide
+one-on-one guidance on data analysis, visualization, and interpretation
+for final papers.</p>
+<hr />
+</div>
+</div>
+<div id="assignments" class="section level2">
+<h2>Assignments</h2>
+<hr />
+<h4>
+<em>Grading</em>
+</h4>
+<hr />
+<table>
+<thead>
+<tr class="header">
+<th align="left">Component</th>
+<th align="center">Weight</th>
+<th align="center">Due</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Participation</td>
+<td align="center">15%</td>
+<td align="center">Ongoing</td>
+</tr>
+<tr class="even">
+<td align="left">Statement of Research Topic</td>
+<td align="center">10%</td>
+<td align="center">Week 4</td>
+</tr>
+<tr class="odd">
+<td align="left">State Capacity Section (A)</td>
+<td align="center">10%</td>
+<td align="center">Week 6</td>
+</tr>
+<tr class="even">
+<td align="left">Policy Implementation Section (B)</td>
+<td align="center">10%</td>
+<td align="center">Week 7</td>
+</tr>
+<tr class="odd">
+<td align="left">Political Analysis Section (C)</td>
+<td align="center">10%</td>
+<td align="center">Week 10</td>
+</tr>
+<tr class="even">
+<td align="left">Data Exercise (D)</td>
+<td align="center">10%</td>
+<td align="center">Week 14</td>
+</tr>
+<tr class="odd">
+<td align="left">Draft for Peer Review</td>
+<td align="center">10%</td>
+<td align="center">Week 14</td>
+</tr>
+<tr class="even">
+<td align="left">Peer Review Report</td>
+<td align="center">5%</td>
+<td align="center">Week 15</td>
+</tr>
+<tr class="odd">
+<td align="left">Final Paper</td>
+<td align="center">20%</td>
+<td align="center">Week 15</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4>
+<em>Assignment Descriptions</em>
+</h4>
+<hr />
+<p><strong>Statement of Research Topic (Week 4)</strong></p>
+<p>A 1-2 page statement identifying your research question, the policy
+area or country case you intend to study, and a preliminary discussion
+of why state capacity matters for your topic. This is an opportunity to
+receive early feedback and ensure your project is feasible in scope.</p>
+<hr />
+<p><strong>Section A: State Capacity (Week 6)</strong></p>
+<p>A 3-5 page section that defines and measures state capacity in your
+chosen case. What dimensions of state capacity are most relevant? How
+does your case compare to others on standard indicators? What historical
+or institutional factors explain the level of capacity you observe? This
+section should draw on the conceptual and measurement frameworks from
+Weeks 1-3.</p>
+<hr />
+<p><strong>Section B: Policy Implementation (Week 7)</strong></p>
+<p>A 3-5 page section analyzing the implementation process in your
+chosen policy area. Who are the key implementing actors (bureaucrats,
+contractors, local governments)? What are the main obstacles to
+effective implementation? Where do gaps emerge between policy design and
+policy outcomes? This section should apply the frameworks from Weeks
+4-8.</p>
+<hr />
+<p><strong>Section C: Political Analysis (Week 10)</strong></p>
+<p>A 3-5 page section examining the political dynamics surrounding your
+policy case. Who benefits and who loses from the current arrangement?
+What organized interests shape enforcement and compliance? How do
+administrative burdens or contracting arrangements affect the
+distribution of policy benefits? This section should engage with the
+themes from Weeks 8-10.</p>
+<hr />
+<p><strong>Section D: Data Exercise (Week 14)</strong></p>
+<p>A 3-5 page section presenting original quantitative or qualitative
+evidence relevant to your research question. This may include
+descriptive statistics from cross-national or subnational data, analysis
+of historical administrative records, text analysis of policy documents,
+or other empirical exercises drawing on skills developed in the data
+science labs.</p>
+<hr />
+<p><strong>Draft for Peer Review (Week 14)</strong></p>
+<p>A complete draft of your research paper (15-20 pages), integrating
+Sections A-D with an introduction, literature review, and conclusion.
+The draft should present a coherent argument supported by evidence. This
+version will be shared with a peer reviewer.</p>
+<hr />
+<p><strong>Peer Review Report (Week 15)</strong></p>
+<p>A 2-3 page constructive review of a classmate’s draft paper. The
+review should summarize the paper’s argument, identify its strengths,
+and offer specific, actionable suggestions for improvement. Good peer
+review is a professional skill — take this seriously.</p>
+<hr />
+<p><strong>Final Paper (Week 15)</strong></p>
+<p>The final version of your research paper (15-25 pages), revised in
+light of peer feedback. The paper should present a clear research
+question, engage with relevant literature, deploy appropriate evidence,
+and offer a well-supported argument about the politics of state capacity
+in your chosen case.</p>
+<hr />
+</div>
+<div id="data-science-labs" class="section level2">
+<h2>Data Science Labs</h2>
+<hr />
+<h4>
+<em>Overview</em>
+</h4>
+<hr />
+<p>The data science labs are integrated into the course schedule and
+designed to build practical skills for empirical research on state
+capacity and public policy. Labs meet during designated class sessions
+(see schedule) and are hands-on — bring your laptop. No prior coding
+experience is required.</p>
+<hr />
+<h4>
+<em>Lab 1: Coding Fundamentals and AI-Assisted Coding (Week 1)</em>
+</h4>
+<hr />
+<p>Introduction to R (or Python) programming with an emphasis on using
+AI tools (e.g., ChatGPT, GitHub Copilot) to accelerate learning.
+Students will set up their coding environment, learn basic data
+manipulation, and practice writing and debugging code with AI
+assistance.</p>
+<hr />
+<h4>
+<em>Lab 2: Measuring State Capacity with Cross-National Data (Week
+3)</em>
+</h4>
+<hr />
+<p>Students will work with major cross-national datasets (V-Dem, QoG,
+World Bank Governance Indicators) to construct and compare measures of
+state capacity. Exercises include merging datasets, creating composite
+indices, and visualizing cross-national variation.</p>
+<hr />
+<h4>
+<em>Lab 3: Working with Historical Administrative Data (Week 5)</em>
+</h4>
+<hr />
+<p>Students will learn to clean, harmonize, and analyze historical
+administrative records. Exercises cover common challenges: inconsistent
+naming conventions, missing data, and changing administrative
+boundaries.</p>
+<hr />
+<h4>
+<em>Lab 4: Quantitative Indicators of Bureaucratic Quality (Week 9)</em>
+</h4>
+<hr />
+<p>Students will analyze survey-based and administrative indicators of
+bureaucratic quality (e.g., V-Dem expert surveys, civil service
+employment data). Exercises include constructing indices, assessing
+measurement validity, and comparing bureaucratic quality across regime
+types.</p>
+<hr />
+<h4>
+<em>Lab 5: Text-as-Data for Policy Analysis (Week 10)</em>
+</h4>
+<hr />
+<p>Introduction to computational text analysis methods for studying
+government documents. Students will learn basic text preprocessing,
+keyword analysis, and topic modeling applied to policy texts (e.g.,
+legislation, regulatory filings, government reports).</p>
+<hr />
+<h4>
+<em>Lab 6: Spatial Analysis of State Capacity (Week 13)</em>
+</h4>
+<hr />
+<p>Students will learn to create maps and conduct basic spatial analysis
+of state capacity indicators. Exercises include geocoding administrative
+data, mapping subnational variation, and exploring spatial patterns in
+public goods provision.</p>
+<hr />
+<h4>
+<em>Lab 7: Individualized Data Analysis Support (Week 15)</em>
+</h4>
+<hr />
+<p>Open lab session dedicated to supporting students’ individual
+research projects. Instructor and teaching assistants provide one-on-one
+guidance on data analysis, visualization, and interpretation for final
+papers.</p>
+<hr />
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

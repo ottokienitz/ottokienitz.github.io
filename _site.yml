@@ -9,9 +9,13 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: cv.html      
+      href: cv.html
     - text: "Teaching"
-      menu: 
+      menu:
+      - text: "--- Sample Syllabi ---"
+      - text: State Capacity and Public Policy
+        href: statecap.html
+      - text: "--- Courses Taught ---"
       - text: Russian State and Democracy (2023)
         href: rsd.html
       - text: Eastern European Politics (2022)
@@ -22,23 +26,19 @@ navbar:
         href: ps3.html
       - text: Comparative Politics (2019)
         href: ps2_s19.html
-    - text: "CP"
-      href: cp.html
-    - text: "Eurasia"
-      href: ru.html      
-    - text: "Data"
-      href: data.html
-    - text: "Diversify!"
-      href: diversify.html
+    - text: "Resources"
+      href: resources.html
   right:
-    - icon: fa-envelope-o fa-lg
-      href: mailto:ojk@berkeley.edu
+    - icon: fa-envelope fa-lg
+      href: mailto:okienit1@jhu.edu
     - icon: fa-twitter fa-lg
-      href: http://www.twitter.com/ottokienitz
+      href: https://x.com/ottokienitz
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=KHGY_38AAAAJ&hl=en&oi=ao
     - icon: fa-quote-right fa-lg
       href: https://substack.com/profile/17293456-otto-kienitz?r=aanps&s=r&utm_campaign=profile&utm_medium=web
-  output:
-    html_document:
-      theme: lumen
-      highlight: pygments
-      
+output:
+  html_document:
+    theme: lumen
+    highlight: pygments
+    css: styles.css

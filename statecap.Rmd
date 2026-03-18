@@ -1,0 +1,519 @@
+---
+title: "The Politics of State Capacity and Policy Implementation"
+---
+
+<br>
+
+<img align="center" src="images/flowers_cropped.jpg" width = "500">
+
+*Spring in the Bay Area (2022)*
+
+<br>
+
+*Sample syllabus. Please [contact](mailto:okienit1@jhu.edu) for further details.*
+
+<br>
+
+What is the state, where did it come from, and why does it take such varied forms across time and space? Why do some states effectively deliver public goods while others fail, and why do well-designed policies so often produce disappointing results? This course examines state capacity and policy implementation as fundamentally political processes shaped by power, institutions, organized interests, and the strategic choices of actors at every level of government and society. Rather than treating state capacity as a fixed endowment or a technocratic puzzle, we investigate how the ability to tax, regulate, and provide services emerged historically, how it varies across and within countries, and how it is continuously contested by the very actors it is meant to govern.
+
+The course blends classical theories of state formation with cutting-edge empirical research from across the social sciences, drawing on political science, economics, history, and historical political economy. We begin with foundational concepts and measurement debates, move through the historical origins of fiscal and administrative capacity, develop a framework for analyzing the policy process from adoption through enforcement, and conclude with comparative and contemporary applications. Throughout, a sequence of data science labs introduces students to quantitative methods for studying state capacity, from cross-national indicators to historical administrative records, text analysis, and spatial data. Students will develop an original research paper over the course of the semester, building each section incrementally with structured feedback.
+
+<br>
+
+# {.tabset .tabset-fade}
+
+## Schedule of Lectures & Readings
+
+---
+
+### Part 1: What Is State Capacity?
+
+---
+
+<h4>*Week 1: Introduction — Concepts, Critiques, and Measurement*</h4>
+
+---
+
+Francis Fukuyama (2011) **Origins of Political Order: From Prehuman Times to the French Revolution**, Farrar, Straus and Giroux, Ch. 1-2.
+
+Miguel Angel Centeno, Atul Kohli, Deborah J. Yashar & Dinsha Mistree (2017) "Unpacking States in the Developing World: Capacity, Performance, and Politics" in **States in the Developing World**, Cambridge University Press.
+
+Martin J. Williams (2021) "Beyond State Capacity: Bureaucratic Performance, Policy Implementation, and Reform," *Journal of Institutional Economics* 17 (4).
+
+Didac Queralt (2025) "From Territorial Consolidation to Bureaucratic Dominance: The Formation of Modern States" in **The Oxford Handbook of Historical Political Economy**, Oxford University Press.
+
+Leander Heldring (2026) "Historical Government," *Annual Review of Political Science* 29.
+
+Additional resources:
+
+> Charles Tilly (1975) "Reflections on the History of European State-Making" in **The Formation of National States in Western Europe**, Princeton University Press.
+
+> Joel S. Migdal (1988) **Strong Societies and Weak States: State-Society Relations and State Capabilities in the Third World**, Princeton University Press, Ch. 1.
+
+**Data Science Lab 1: Coding Fundamentals and AI-Assisted Coding.** Introduction to R (or Python) programming with an emphasis on using AI tools (e.g., ChatGPT, GitHub Copilot) to accelerate learning. Students will set up their coding environment, learn basic data manipulation, and practice writing and debugging code with AI assistance.
+
+---
+
+### Part 2: Origins and Varieties of State Power
+
+---
+
+<h4>*Week 2: War, Revenue, and State Formation*</h4>
+
+---
+
+Margaret Levi (1988) **Of Rule and Revenue**, University of California Press, Ch. 1.
+
+Charles Tilly (1990) **Coercion, Capital, and European States, AD 990-1992**, Basil Blackwell, Ch. 1 and 3.
+
+Mark Dincecco (2011) **Political Transformations and Public Finances: Europe, 1650-1913**, Cambridge University Press, Ch. 1-2.
+
+Anna Grzymala-Busse (2024) "Tilly Goes to Church: The Religious Roots of the Western State," *American Political Science Review* 118 (4).
+
+Additional resources:
+
+> Mauricio Drelichman & Hans-Joachim Voth (2014) **Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II**, Princeton University Press, Ch. 1.
+
+> Philip T. Hoffman (2015) **Why Did Europe Conquer the World?**, Princeton University Press, Ch. 1-3.
+
+---
+
+<h4>*Week 3: Infrastructural Power, Embeddedness, and Legibility*</h4>
+
+---
+
+Michael Mann (1984) "The Autonomous Power of the State: Its Origins, Mechanisms and Results," *European Journal of Sociology* 25 (2).
+
+Peter Evans (1995) **Embedded Autonomy: States and Industrial Transformation**, Princeton University Press, Ch. 1-3.
+
+James C. Scott (1998) **Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed**, Yale University Press, Ch. 1 and 9.
+
+Melissa M. Lee & Nan Zhang (2017) "Legibility and the Informational Foundations of State Capacity," *Journal of Politics* 79 (1).
+
+Additional resources:
+
+> Hillel David Soifer (2008) "State Infrastructural Power: Approaches to Conceptualization and Measurement," *Studies in Comparative International Development* 43 (3-4).
+
+> Dan Slater & Diana Kim (2015) "Standoffish States: Nonliterate Leviathans in Southeast Asia," *Journal of East Asian Studies* 15 (3).
+
+**Data Science Lab 2: Measuring State Capacity with Cross-National Data.** Students will work with major cross-national datasets (V-Dem, QoG, World Bank Governance Indicators) to construct and compare measures of state capacity. Exercises include merging datasets, creating composite indices, and visualizing cross-national variation.
+
+---
+
+### Part 3: A Policy-Making Framework for State Capacity
+
+---
+
+<h4>*Week 4: Disaggregating the Policy Process*</h4>
+
+---
+
+**Statement of Research Topic due.**
+
+Aaron Wildavsky (1973) "If Planning Is Everything, Maybe It's Nothing," *Policy Sciences* 4 (2).
+
+Mancur Olson (1965) **The Logic of Collective Action: Public Goods and the Theory of Groups**, Harvard University Press, Ch. 1-2.
+
+Elinor Ostrom & Vincent Ostrom (1977) "Public Goods and Public Choices" in **Alternatives for Delivering Public Services: Toward Improved Performance**, Westview Press.
+
+Peter Hupe (2023) "The Concept and Study of Implementation: An Introduction" in **Research Handbook on Implementation of Public Policy**, Edward Elgar.
+
+Additional resources:
+
+> Paul Sabatier (2007) "The Need for Better Theories" in **Theories of the Policy Process**, Westview Press, Ch. 1.
+
+> Thomas A. Birkland (2020) **An Introduction to the Policy Process: Theories, Concepts, and Models of Public Policy Making**, Routledge, Ch. 1-2.
+
+---
+
+<h4>*Week 5: Policy Adoption and the Regime*</h4>
+
+---
+
+E. E. Schattschneider (1957) "Intensity, Visibility, Direction, and Scope," *American Political Science Review* 51 (4).
+
+George Tsebelis (2000) "Veto Players and Institutional Analysis," *Governance* 13 (4).
+
+Jacob S. Hacker & Paul Pierson (2010) **Winner-Take-All Politics: How Washington Made the Rich Richer — and Turned Its Back on the Middle Class**, Simon & Schuster, Ch. 1-3.
+
+Additional resources:
+
+> Carles Boix (2003) **Democracy and Redistribution**, Cambridge University Press, Ch. 1.
+
+> Milan Svolik (2012) **The Politics of Authoritarian Rule**, Cambridge University Press, Ch. 1.
+
+**Data Science Lab 3: Working with Historical Administrative Data.** Students will learn to clean, harmonize, and analyze historical administrative records. Exercises cover common challenges: inconsistent naming conventions, missing data, and changing administrative boundaries.
+
+---
+
+<h4>*Week 6: Policy Formulation*</h4>
+
+---
+
+**Draft A (State Capacity Section) due.**
+
+John D. Huber & Charles R. Shipan (2002) **Deliberate Discretion? The Institutional Foundations of Bureaucratic Autonomy**, Cambridge University Press, Ch. 1-2.
+
+Eric Patashnik (2009) **Reforms at Risk: What Happens After Major Policy Changes Are Enacted**, Princeton University Press, Ch. 1.
+
+Sean Farhang (2010) **The Litigation State: Public Regulation and Private Lawsuits in the U.S.**, Princeton University Press, Ch. 1-2.
+
+Jong-sung You (2017) "Ex Post Lobbying" in **Democracy, Inequality, and Corruption: Korea, Taiwan, and the Philippines Compared**, Cambridge University Press.
+
+Additional resources:
+
+> Mariana Mazzucato (2013) **The Entrepreneurial State: Debunking Public vs. Private Sector Myths**, Anthem Press, Ch. 1-2.
+
+---
+
+<h4>*Week 7: Policy Implementation*</h4>
+
+---
+
+**Draft B (Policy Implementation Section) due.**
+
+Michael Lipsky (1971) "Street-Level Bureaucracy and the Analysis of Urban Reform," *Urban Affairs Quarterly* 6 (4).
+
+Jeffrey Pressman & Aaron Wildavsky (1973) **Implementation: How Great Expectations in Washington Are Dashed in Oakland**, University of California Press, Preface and Ch. 1.
+
+Akshay Mangla (2022) "Bureaucratic Norms and State Capacity: Implementing Primary Education in India's Himalayan Region," *American Political Science Review* 116 (4).
+
+Markus Hinterleitner (2022) **Policy Controversies and Political Blame Games**, Cambridge University Press, Ch. 1.
+
+Additional resources:
+
+> Susan L. Moffitt (2014) **Making Policy Public: Participatory Bureaucracy in American Democracy**, Cambridge University Press, Ch. 1.
+
+---
+
+<h4>*Week 8: Policy Enforcement, Compliance, and Coercion*</h4>
+
+---
+
+Daniel Carpenter & David Moss (2013) "Introduction" in **Preventing Regulatory Capture: Special Interest Influence and How to Limit It**, Cambridge University Press.
+
+Alisha C. Holland (2016) "Forbearance," *American Political Science Review* 110 (2).
+
+Joe Soss & Vesla Weaver (2017) "Police Are Our Government: Politics, Political Science, and the Policing of Race-Class Subjugated Communities," *Annual Review of Political Science* 20.
+
+Additional resources:
+
+> Lily L. Tsai (2007) **Accountability Without Democracy: Solidary Groups and Public Goods Provision in Rural China**, Cambridge University Press, Ch. 1.
+
+> Edgar Kiser & Steven M. Karceski (2017) "Political Economy of Taxation," *Annual Review of Political Science* 20.
+
+---
+
+### Part 4: Bureaucratic Performance and the Politics of Administration
+
+---
+
+<h4>*Week 9: Bureaucratic Quality, Politicization, and the Administrative State*</h4>
+
+---
+
+James E. Rauch & Peter B. Evans (1999) "Bureaucracy and Growth: A Cross-National Analysis of the Effects of 'Weberian' State Structures on Economic Growth," *American Sociological Review* 64 (5).
+
+Katherine Bersch, Sérgio Praça & Matthew M. Taylor (2017) "State Capacity, Bureaucratic Politicization, and Corruption in the Brazilian State," *Governance* 30 (1).
+
+Aditya Dasgupta & Devesh Kapur (2020) "The Political Economy of Bureaucratic Overload: Evidence from Rural Development Officials in India," *American Political Science Review* 114 (4).
+
+Donald Moynihan (2025) "The Personalist Presidency and the Assault on the Administrative State," *Annual Review of Political Science* 28.
+
+Additional resources:
+
+> Barbara Geddes (1994) **Politician's Dilemma: Building State Capacity in Latin America**, University of California Press, Ch. 1.
+
+> Francis Fukuyama (2013) "What Is Governance?," *Governance* 26 (3).
+
+**Data Science Lab 4: Quantitative Indicators of Bureaucratic Quality.** Students will analyze survey-based and administrative indicators of bureaucratic quality (e.g., V-Dem expert surveys, civil service employment data). Exercises include constructing indices, assessing measurement validity, and comparing bureaucratic quality across regime types.
+
+---
+
+### Part 5: State, Society, and the Experience of Government
+
+---
+
+<h4>*Week 10: Administrative Burden and the Contracting State*</h4>
+
+---
+
+**Draft C (Political Analysis Section) due.**
+
+Lester Salamon (1987) "Of Market Failure, Voluntary Failure, and Third-Party Government: Toward a Theory of Government-Nonprofit Relations in the Modern Welfare State," *Journal of Voluntary Action Research* 16 (1-2).
+
+Suzanne Mettler (2010) "Reconstituting the Submerged State: The Challenges of Social Policy Reform in the Obama Era," *Perspectives on Politics* 8 (3).
+
+Donald Moynihan, Pamela Herd & Hope Harvey (2015) "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions," *Journal of Public Administration Research and Theory* 25 (1).
+
+Jennifer Pahlka (2023) **Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better**, Metropolitan Books, Ch. 1 and 8.
+
+Additional resources:
+
+> Pamela Herd & Donald P. Moynihan (2019) **Administrative Burden: Policymaking by Other Means**, Russell Sage Foundation, Ch. 1.
+
+**Data Science Lab 5: Text-as-Data for Policy Analysis.** Introduction to computational text analysis methods for studying government documents. Students will learn basic text preprocessing, keyword analysis, and topic modeling applied to policy texts (e.g., legislation, regulatory filings, government reports).
+
+---
+
+### Part 6: Capacity in Comparative and Historical Perspective
+
+---
+
+<h4>*Week 11: State Capacity in the Developing World*</h4>
+
+---
+
+Ruth Berins Collier & David Collier (1979) "Inducements Versus Constraints: Disaggregating 'Corporatism'," *American Political Science Review* 73 (4).
+
+Miguel Angel Centeno (2002) **Blood and Debt: War and the Nation-State in Latin America**, Pennsylvania State University Press, Ch. 1-2.
+
+Devesh Kapur (2020) "Why Does the Indian State Both Fail and Succeed?," *Journal of Economic Perspectives* 34 (1).
+
+Sebastián Mazzuca (2021) **Latecomer State Formation: Political Geography and Capacity Failure in Latin America**, Yale University Press, Ch. 1-2.
+
+Adam Michael Auerbach, Tariq Thachil & Pavithra Suryanarayan (2025) "Who Knows How to Govern? Evaluating Candidates for Government Effectiveness," *American Political Science Review*.
+
+Additional resources:
+
+> Tulia G. Falleti (2010) **Decentralization and Subnational Politics in Latin America**, Cambridge University Press, Ch. 1.
+
+> Catherine Boone (2014) **Property and Political Order in Africa: Land Rights and the Structure of Politics**, Cambridge University Press, Ch. 1-2.
+
+> Melissa M. Lee (2020) **Crippling Leviathan: How Foreign Subversion Weakens the State**, Cornell University Press, Ch. 1.
+
+---
+
+<h4>*Week 12: Indirect Rule, Direct Rule, and the Legacies of Colonial and Federal States*</h4>
+
+---
+
+Mahmood Mamdani (1996) **Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism**, Princeton University Press, Ch. 1-2.
+
+Daron Acemoglu, Simon Johnson & James A. Robinson (2001) "The Colonial Origins of Comparative Development: An Empirical Investigation," *American Economic Review* 91 (5).
+
+Stephen Skowronek (1982) **Building a New American State: The Expansion of National Administrative Capacities, 1877-1920**, Cambridge University Press, Ch. 1-2.
+
+Matthew Lange (2009) **Lineages of Despotism and Development: British Colonialism and State Power**, University of Chicago Press, Ch. 1-2.
+
+Additional resources:
+
+> John Gerring, Daniel Ziblatt, Johan Van Gorp & Julián Arévalo (2011) "An Institutional Theory of Direct and Indirect Rule," *World Politics* 63 (3).
+
+> Daniel Carpenter (2001) **The Forging of Bureaucratic Autonomy: Reputations, Networks, and Policy Innovation in Executive Agencies, 1862-1928**, Princeton University Press, Ch. 1.
+
+> William Novak (2008) "The Myth of the 'Weak' American State," *American Historical Review* 113 (3).
+
+> Nicola Mastrorocco & Edoardo Teso (2025) "State Capacity as an Organizational Problem: Evidence from the Growth of the U.S. State Over 100 Years," Working Paper.
+
+---
+
+<h4>*Week 13: Historical Origins and Long-Run Development*</h4>
+
+---
+
+Hillel David Soifer (2015) **State Building in Latin America**, Cambridge University Press, Ch. 1-2.
+
+Mark Dincecco & Gabriel Katz (2016) "State Capacity and Long-Run Economic Performance," *Economic Journal* 126 (590).
+
+Davide Cantoni, Cathrin Mohr & Matthias Weigand (2024) "The Rise of Fiscal Capacity: Administration and State Consolidation in the Holy Roman Empire," *Econometrica* 92 (5).
+
+Additional resources:
+
+> Timothy Besley & Torsten Persson (2011) **Pillars of Prosperity: The Political Economics of Development Clusters**, Princeton University Press, Ch. 1.
+
+> Daron Acemoglu, Camilo García-Jimeno & James A. Robinson (2015) "State Capacity and Economic Development: A Network Approach," *American Economic Review* 105 (8).
+
+**Data Science Lab 6: Spatial Analysis of State Capacity.** Students will learn to create maps and conduct basic spatial analysis of state capacity indicators. Exercises include geocoding administrative data, mapping subnational variation, and exploring spatial patterns in public goods provision.
+
+---
+
+### Part 7: Current Debates, Methods, and Research Frontiers
+
+---
+
+<h4>*Week 14: Challenges to the Administrative State and AI Governance*</h4>
+
+---
+
+**Draft D (Data Exercise) due. Draft paper for peer review due.**
+
+Nicholas Bagley (2019) "The Procedure Fetish," *Michigan Law Review* 118 (3).
+
+Daniel E. Ho & David Engstrom (2020) "Algorithmic Accountability in the Administrative State," *Yale Journal on Regulation* 37 (3).
+
+Additional resources:
+
+> Cass R. Sunstein (2013) **Simpler: The Future of Government**, Simon & Schuster, Ch. 1-3.
+
+> Beth Simone Noveck (2015) **Smart Citizens, Smarter State: The Technologies of Expertise and the Future of Governing**, Harvard University Press, Ch. 1.
+
+> David Schleicher & Nicholas Bagley (2025) "The State Capacity Crisis," *Boston College Law Review* 66.
+
+> Ezra Klein & Derek Thompson (2025) **Abundance: On Freedom, Prosperity, and the Best Ideas in the World**, Simon & Schuster.
+
+---
+
+<h4>*Week 15: Research Methods, Problem Solving, and Course Synthesis*</h4>
+
+---
+
+**Peer review due. Final Paper due.**
+
+Michael Burawoy (1998) "The Extended Case Method," *Sociological Theory* 16 (1).
+
+Hillel David Soifer (2015) **State Building in Latin America**, Cambridge University Press, Ch. 3 (thick measures of state capacity).
+
+Alan S. Gerber & Eric M. Patashnik (2025) "Introduction: American Government and the Politics of Problem Solving" in **Toward a More Perfect Union: What We the People Can Do**, Yale University Press.
+
+Additional resources:
+
+> Gary King, Robert O. Keohane & Sidney Verba (1994) **Designing Social Inquiry: Scientific Inference in Qualitative Research**, Princeton University Press, Ch. 1.
+
+> Jason Seawright (2016) **Multi-Method Social Science: Combining Qualitative and Quantitative Tools**, Cambridge University Press, Ch. 1.
+
+**Data Science Lab 7: Individualized Data Analysis Support.** Open lab session dedicated to supporting students' individual research projects. Instructor and teaching assistants provide one-on-one guidance on data analysis, visualization, and interpretation for final papers.
+
+---
+
+## Assignments
+
+---
+
+<h4>*Grading*</h4>
+
+---
+
+| Component | Weight | Due |
+|:---|:---:|:---:|
+| Participation | 15% | Ongoing |
+| Statement of Research Topic | 10% | Week 4 |
+| State Capacity Section (A) | 10% | Week 6 |
+| Policy Implementation Section (B) | 10% | Week 7 |
+| Political Analysis Section (C) | 10% | Week 10 |
+| Data Exercise (D) | 10% | Week 14 |
+| Draft for Peer Review | 10% | Week 14 |
+| Peer Review Report | 5% | Week 15 |
+| Final Paper | 20% | Week 15 |
+
+---
+
+<h4>*Assignment Descriptions*</h4>
+
+---
+
+**Statement of Research Topic (Week 4)**
+
+A 1-2 page statement identifying your research question, the policy area or country case you intend to study, and a preliminary discussion of why state capacity matters for your topic. This is an opportunity to receive early feedback and ensure your project is feasible in scope.
+
+---
+
+**Section A: State Capacity (Week 6)**
+
+A 3-5 page section that defines and measures state capacity in your chosen case. What dimensions of state capacity are most relevant? How does your case compare to others on standard indicators? What historical or institutional factors explain the level of capacity you observe? This section should draw on the conceptual and measurement frameworks from Weeks 1-3.
+
+---
+
+**Section B: Policy Implementation (Week 7)**
+
+A 3-5 page section analyzing the implementation process in your chosen policy area. Who are the key implementing actors (bureaucrats, contractors, local governments)? What are the main obstacles to effective implementation? Where do gaps emerge between policy design and policy outcomes? This section should apply the frameworks from Weeks 4-8.
+
+---
+
+**Section C: Political Analysis (Week 10)**
+
+A 3-5 page section examining the political dynamics surrounding your policy case. Who benefits and who loses from the current arrangement? What organized interests shape enforcement and compliance? How do administrative burdens or contracting arrangements affect the distribution of policy benefits? This section should engage with the themes from Weeks 8-10.
+
+---
+
+**Section D: Data Exercise (Week 14)**
+
+A 3-5 page section presenting original quantitative or qualitative evidence relevant to your research question. This may include descriptive statistics from cross-national or subnational data, analysis of historical administrative records, text analysis of policy documents, or other empirical exercises drawing on skills developed in the data science labs.
+
+---
+
+**Draft for Peer Review (Week 14)**
+
+A complete draft of your research paper (15-20 pages), integrating Sections A-D with an introduction, literature review, and conclusion. The draft should present a coherent argument supported by evidence. This version will be shared with a peer reviewer.
+
+---
+
+**Peer Review Report (Week 15)**
+
+A 2-3 page constructive review of a classmate's draft paper. The review should summarize the paper's argument, identify its strengths, and offer specific, actionable suggestions for improvement. Good peer review is a professional skill — take this seriously.
+
+---
+
+**Final Paper (Week 15)**
+
+The final version of your research paper (15-25 pages), revised in light of peer feedback. The paper should present a clear research question, engage with relevant literature, deploy appropriate evidence, and offer a well-supported argument about the politics of state capacity in your chosen case.
+
+---
+
+## Data Science Labs
+
+---
+
+<h4>*Overview*</h4>
+
+---
+
+The data science labs are integrated into the course schedule and designed to build practical skills for empirical research on state capacity and public policy. Labs meet during designated class sessions (see schedule) and are hands-on — bring your laptop. No prior coding experience is required.
+
+---
+
+<h4>*Lab 1: Coding Fundamentals and AI-Assisted Coding (Week 1)*</h4>
+
+---
+
+Introduction to R (or Python) programming with an emphasis on using AI tools (e.g., ChatGPT, GitHub Copilot) to accelerate learning. Students will set up their coding environment, learn basic data manipulation, and practice writing and debugging code with AI assistance.
+
+---
+
+<h4>*Lab 2: Measuring State Capacity with Cross-National Data (Week 3)*</h4>
+
+---
+
+Students will work with major cross-national datasets (V-Dem, QoG, World Bank Governance Indicators) to construct and compare measures of state capacity. Exercises include merging datasets, creating composite indices, and visualizing cross-national variation.
+
+---
+
+<h4>*Lab 3: Working with Historical Administrative Data (Week 5)*</h4>
+
+---
+
+Students will learn to clean, harmonize, and analyze historical administrative records. Exercises cover common challenges: inconsistent naming conventions, missing data, and changing administrative boundaries.
+
+---
+
+<h4>*Lab 4: Quantitative Indicators of Bureaucratic Quality (Week 9)*</h4>
+
+---
+
+Students will analyze survey-based and administrative indicators of bureaucratic quality (e.g., V-Dem expert surveys, civil service employment data). Exercises include constructing indices, assessing measurement validity, and comparing bureaucratic quality across regime types.
+
+---
+
+<h4>*Lab 5: Text-as-Data for Policy Analysis (Week 10)*</h4>
+
+---
+
+Introduction to computational text analysis methods for studying government documents. Students will learn basic text preprocessing, keyword analysis, and topic modeling applied to policy texts (e.g., legislation, regulatory filings, government reports).
+
+---
+
+<h4>*Lab 6: Spatial Analysis of State Capacity (Week 13)*</h4>
+
+---
+
+Students will learn to create maps and conduct basic spatial analysis of state capacity indicators. Exercises include geocoding administrative data, mapping subnational variation, and exploring spatial patterns in public goods provision.
+
+---
+
+<h4>*Lab 7: Individualized Data Analysis Support (Week 15)*</h4>
+
+---
+
+Open lab session dedicated to supporting students' individual research projects. Instructor and teaching assistants provide one-on-one guidance on data analysis, visualization, and interpretation for final papers.
+
+---
